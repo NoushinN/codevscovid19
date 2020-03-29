@@ -16,10 +16,11 @@ if (!exists("setup_sourced")) source(here::here("setup.R"))
 
 # -------------------------------------------------------------------------
 
+# CREATE A SIMULATION DATA AND RUN FORECASTING MODELS
 # Create the dates object as an index for your xts object
 dates <- seq(as.Date("2020-01-20"), length = 180, by = "days")
 
-# generate a random matrix
+# generate a random matrix to represent supplies and demands
 dat <- as.data.frame(matrix(rexp(900, rate=.1), ncol=5)) %>%
   rename(supplier_a = V1, supplier_b = V2, demand_a = V3, demand_b = V4, demand_c = V5)
 dat$region_id <- seq(length = 180)
@@ -94,7 +95,6 @@ ggplot(s_d_dat, aes(supplier_a, demand_a)) +
   geom_smooth(method = "lm", formula = y ~ poly(x, 3), se = FALSE)
 
 
-
 # -------------------------------------------------------------------------
 
 # ARIMA modeling
@@ -161,7 +161,6 @@ plot(data_xts_supplies, main = 'Forecast Comparison - supplies', ylim = c(0, 150
 par(mfrow=c(2,1))
 lines(data_xts_demands, col = "red")
 lines(data_xts_supplies, col = "blue")
-
 
 
 # Convert the limits to xts objects

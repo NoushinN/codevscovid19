@@ -17,7 +17,8 @@
 packages <- c("data.table", "tidyverse", "ggpubr", "here", "purrr",
               "broom", "lubridate", "readr", "wesanderson", "broom",
               "tidytext", "readxl", "oddsratio", "epiR", "table1",
-              "janitor", "xts", "forecast", "scales", "ggfortify")
+              "janitor", "xts", "forecast", "scales", "ggfortify",
+              "shiny", "synthpop", "TTR")
 
 # install libraries
 lapply(packages, library, character.only = TRUE)
