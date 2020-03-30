@@ -18,7 +18,7 @@ if (!exists("setup_sourced")) source(here::here("setup.R"))
 
 shinyUI(fluidPage(
     
-    headerPanel(span("Inventory Management System", style = "color:blue")),br(),
+    headerPanel(span("CodevsCovid19: Inventory Management System for COVID-19", style = "color:blue")),br(),
     
     
     selectInput(inputId = "product_id", label = h4("Select Product:"),
