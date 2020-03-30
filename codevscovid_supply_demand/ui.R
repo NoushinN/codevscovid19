@@ -15,6 +15,7 @@
 options(shiny.sanitize.errors = TRUE)
 # -------------------------------------------------------------------------
 library(shiny)
+library(DT)
 
 shinyUI(fluidPage(
     
