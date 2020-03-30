@@ -7,4 +7,4 @@ The `simulation.R` script, in turn, synthesizes a hypothetical supply and demand
 
 The [shiny app](https://nnabavi.shinyapps.io/codevscovid19_supply_demand/) is developed in the `codevscovid_supply_demand` folder consisting of `server` and `ui` codes. The app is a simulation of an Inventory Management System to forecast next month unit demands and to calculate safety stocks and reorder points.
 
-Special thanks to my amazing and inspiring team members and Michael Lew for guidance.  
+Special thanks to the amazing and inspiring team members and Michael Lew for advice.  
