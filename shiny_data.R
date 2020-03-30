@@ -66,7 +66,8 @@ data_xts$product_id <- as.numeric(data_xts$product_name)
 data_xts <- as.data.frame(data_xts) 
 
 data_xts_new <- data_xts %>%
-  select(product_id, month, units, product_name, supply_score, quantity_on_hand) 
+  dplyr::select(product_id, month, units, product_name, supply_score, quantity_on_hand) %>%
+  na.omit()
 
 # write out the data table
 write_csv(data_xts_new, here::here("codevscovid_supply_demand", "synthetic_data_new.csv"))

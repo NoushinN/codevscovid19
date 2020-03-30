@@ -12,16 +12,25 @@
 
 # declare-source ----------------------------------------------------------
 
-if (!exists("setup_sourced")) source(here::here("setup.R"))
+options(shiny.sanitize.errors = TRUE)
 
 # -------------------------------------------------------------------------
+
+library(shiny)
+
 
 shinyServer(function(input, output) {
     # while running coded for first time, if function doesn't work, please remove '#' from below two lines, then run it again. R will install those packages.
     
-    data <- read.csv(here::here("codevscovid_supply_demand", "synthetic_data_new.csv")) ## Loading data
+    data <- read.csv("synthetic_data_new.csv") ## Loading data
     
-    
+    library(forecast)
+    library(TTR)
+    library(data.table)
+    library(readr)
+    library(tidyverse)
+    library(DT)
+   
     
     select.product <- reactive({ # function that will filter that product based on the user's input
         product_data <- data[data$product_id == input$product_id,] 
@@ -80,8 +89,9 @@ shinyServer(function(input, output) {
         p_data = select.product()
         x = p_data$units
         
-        naive_forecast <- naive(x, h=1, level=c(80,95), fan=FALSE, lambda=NULL)   # using naive method from 'forecast' package from R
-        naive_accuracy <- accuracy(naive_forecast)                             # accuracu is R's function that calculate training and test error rates of forecast
+        naive_forecast <- naive(x, h=1, level=c(80,95), fan=FALSE, lambda=NULL, 
+                                biasadj = NULL, allow.multiplicative.trend = TRUE)   # using naive method from 'forecast' package from R
+        naive_accuracy <- accuracy(naive_forecast)                             # accuracy is R's function that calculate training and test error rates of forecast
         
         return(list(naive_forecast = naive_forecast, naive_accuracy = naive_accuracy) )
     })

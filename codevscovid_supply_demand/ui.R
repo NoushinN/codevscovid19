@@ -12,9 +12,9 @@
 
 # declare-source ----------------------------------------------------------
 
-if (!exists("setup_sourced")) source(here::here("setup.R"))
-
+options(shiny.sanitize.errors = TRUE)
 # -------------------------------------------------------------------------
+library(shiny)
 
 shinyUI(fluidPage(
     
@@ -22,16 +22,16 @@ shinyUI(fluidPage(
     
     
     selectInput(inputId = "product_id", label = h4("Select Product:"),
-                c("respirators" = 1,
-                  "ventilators" = 2,
+                c("biologics" = 1,
+                  "diagnostics" = 2,
                   "masks" = 3,
-                  "ppe" = 4,
-                  "biologics" = 5,
-                  "sanitizers" = 6,
+                  "oxygen_tanks" = 4,
+                  "ppe" = 5,
+                  "respirators" = 6,
                   "diagnostics"= 7,
-                  "oxygen_tanks" = 8,
-                  "visors" = 9,
-                   "vaccines" = 10)), br(),
+                  "vaccines" = 8,
+                  "ventilators" = 9,
+                  "visors" = 10)), br(),
     
     titlePanel(h3(textOutput("product_text"))), br(),
     
@@ -60,8 +60,9 @@ shinyUI(fluidPage(
     
     
     mainPanel(
-        
-        
+        tags$style(type="text/css",
+                   ".shiny-output-error { visibility: hidden; }",
+                   ".shiny-output-error:before { visibility: hidden; }"),
         
         tabsetPanel(type = "tabs", 
                     tabPanel("Forecast",
@@ -82,6 +83,7 @@ shinyUI(fluidPage(
                     tabPanel("Data",
                              dataTableOutput("product_dataHead")
                     )
+                    
         )
     )
 )
