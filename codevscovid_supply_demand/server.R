@@ -167,10 +167,11 @@ shinyServer(function(input, output) {
         plot(forecast$es_forecast)
     })
     
-    
+    color <-  c("blue", "orange", "gold", "indianred", "skyblue4",
+                "light blue", "grey", "red", "green", "dark blue")
     output$product_plot <- renderPlot({
         p_data = select.product()
-        barplot(p_data$units , col = "blue", ylab = " Units available")
+        barplot(p_data$units , col = color, ylab = " Units available")
     })
     
     output$product_dataHead <- renderDataTable(select.product())

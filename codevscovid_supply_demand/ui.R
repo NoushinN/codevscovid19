@@ -18,8 +18,11 @@ library(shiny)
 
 shinyUI(fluidPage(
     
-    headerPanel(span("CodevsCovid19: Inventory Management System for COVID-19", style = "color:blue")),br(),
-    
+    headerPanel(span("CodevsCovid19 Zürich Hackathon", style = "color:blue")),br(),
+    titlePanel(span("Inventory Management System for COVID-19", style = "color:blue")),br(),
+    mainPanel(span("March 28-30, 2020", style = "color:blue")),br(),
+    hr(),
+    print("Based on simulated data"),
     
     selectInput(inputId = "product_id", label = h4("Select Product:"),
                 c("biologics" = 1,
@@ -36,13 +39,13 @@ shinyUI(fluidPage(
     titlePanel(h3(textOutput("product_text"))), br(),
     
     sidebarPanel(
-        radioButtons("method", h4( "Forecast Technique: ", style = "color:blue"),
+        radioButtons("method", h4( "Forecast Technique: ", style = "color:purple"),
                      c("Naive" = "naive",
                        "Moving Average" = "ma",
                        "Exponential Smoothing" = "es")), 
         br(),
         
-        h4("Calculation", style = "color:blue"), br(),
+        h4("Calculation", style = "color:purple"), br(),
         
         strong(textOutput("lead_time")),br(),
         
