@@ -32,7 +32,7 @@ shinyUI(fluidPage(
                   "oxygen_tanks" = 4,
                   "ppe" = 5,
                   "respirators" = 6,
-                  "diagnostics"= 7,
+                  "sanitizers"= 7,
                   "vaccines" = 8,
                   "ventilators" = 9,
                   "visors" = 10)), br(),
