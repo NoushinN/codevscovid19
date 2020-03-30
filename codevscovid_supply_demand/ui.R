@@ -21,7 +21,7 @@ shinyUI(fluidPage(
     
     headerPanel(span("CodevsCovid19 Zürich Hackathon", style = "color:blue")),br(),
     titlePanel(span("Inventory Management System for COVID-19", style = "color:blue")),br(),
-    mainPanel(span("March 28-30, 2020", style = "color:blue")),br(),
+    mainPanel(span("@nabavinoushin; March 28-30, 2020", style = "color:blue")),br(),
     hr(),
     print("Based on simulated data"),
     

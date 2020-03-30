@@ -5,9 +5,9 @@ account: nnabavi
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2018538
-bundleId: 2942569
+bundleId: 2942582
 url: https://nnabavi.shinyapps.io/codevscovid19_supply_demand/
-when: 1585551991.38975
+when: 1585552255.00349
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: synthetic_data.csv
