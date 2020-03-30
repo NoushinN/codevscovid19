@@ -17,21 +17,18 @@ if (!exists("setup_sourced")) source(here::here("setup.R"))
 # -------------------------------------------------------------------------
 
 # Create new data for shiny 
-cols <- c("product_id", "product_name", "quantity_on_hand", "supply_time", "demand_time")
-
-
 # here we sunthesiste a data set using default methods of syn()
 vars <- c("weight", "height", "englang", "sport", "nofriend")
 syn <- SD2011[, vars]
 
 # rename column names
 syn <- syn %>%
-  rename(supply = weight, demand = height, 
+  rename(supply = weight, quantity_on_hand = height, 
          status = englang, delivered = sport, 
-         quantity_on_hand = nofriend) 
+         supply_score = nofriend) 
 
 # add a new column for product-ids 
-syn$product_id <- paste0("s", sample(100000000:200000000, 5000, replace=TRUE))
+syn$units <- paste0(sample(1:5000, replace= FALSE))
 syn <- syn[,c(6, 2:5)]
 
 # add product names/labels
@@ -40,28 +37,39 @@ prods <- c("respirators", "ventilators", "masks", "ppe", "biologics",
 syn$product_name <- rep(prods, 500)
 
 
-# add geo column to the data 
-geo <- c("3", "6", "7", "8", "9", "10", "11", "12", "21", 
-         "31", "41", "51", "61", "42", "63", "11", "2", "36",
-         "41", "25")
-
+# add month column to the data 
 # repeat to the length of columns in data
-syn$geo <- rep(geo, 250)
+syn$month <- paste0(sample(1:10, replace = FALSE))
+
+# remove NA's
 syn <- syn %>%
-  na.omit()
+  na.omit() %>%
+  mutate(supply_score = abs(supply_score))
 
 # build time
-dates <- sample(seq(as.POSIXct('2020-01-01'), as.POSIXct('2021-01-01'), by = "sec"), 4909)
+dates <- sample(seq(as.POSIXct('2020-01-01'), as.POSIXct('2020-06-01'), by = "sec"), 4909)
 
 # Create an xts object called data_xts
 data_xts <- xts(syn, order.by = dates) 
 data_xts <- as.data.table(data_xts, keep.rownames = TRUE)
 
-# -------------------------------------------------------------------------
-
 # write out the data table
 write_csv(data_xts, here::here("codevscovid_supply_demand", "synthetic_data.csv"))
 
+# -------------------------------------------------------------------------
 
+# remake the dataframe
+data_xts$product_name <- factor(data_xts$product_name) 
+data_xts$product_id <- as.numeric(data_xts$product_name)
 
+# select chosen columns
+data_xts <- as.data.frame(data_xts) 
+
+data_xts_new <- data_xts %>%
+  select(product_id, month, units, product_name, supply_score, quantity_on_hand) 
+
+# write out the data table
+write_csv(data_xts_new, here::here("codevscovid_supply_demand", "synthetic_data_new.csv"))
+
+# -------------------------------------------------------------------------
           

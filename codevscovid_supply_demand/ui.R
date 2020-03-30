@@ -22,16 +22,16 @@ shinyUI(fluidPage(
     
     
     selectInput(inputId = "product_id", label = h4("Select Product:"),
-                c("Washington Berry Juice" = 1,
-                  "Washington Mango Drink" = 2,
-                  "Washington Strawberry Drink" = 3,
-                  "Washington Cream Soda" = 4,
-                  "Washington Diet Soda" = 5,
-                  "Washington Cola" = 6,
-                  "Washington Diet Cola"= 7,
-                  "Washington Orange Juice" = 8,
-                  "Washington Cranberry Juice" = 9)), br(),
-    
+                c("respirators" = 1,
+                  "ventilators" = 2,
+                  "masks" = 3,
+                  "ppe" = 4,
+                  "biologics" = 5,
+                  "sanitizers" = 6,
+                  "diagnostics"= 7,
+                  "oxygen_tanks" = 8,
+                  "visors" = 9,
+                   "vaccines" = 10)), br(),
     
     titlePanel(h3(textOutput("product_text"))), br(),
     

@@ -1,0 +1,4910 @@
+product_id,month,units,product_name,supply_score,quantity_on_hand
+3,2,665,masks, 0,158
+5,1,291,ppe, 1,168
+10,8,4416,visors,10,165
+10,8,4912,visors,10,168
+1,6,885,biologics, 3,163
+5,1,279,ppe, 3,178
+6,4,343,respirators, 5,173
+3,2,1020,masks, 4,190
+4,5,1276,oxygen_tanks, 3,168
+4,5,3098,oxygen_tanks,15,182
+10,8,1752,visors,10,182
+6,4,1275,respirators, 8,174
+7,9,673,sanitizers, 6,164
+5,1,972,ppe,10,170
+10,8,66,visors,10,164
+8,3,3443,vaccines, 4,164
+5,1,1850,ppe, 6,150
+4,5,268,oxygen_tanks,10,167
+4,5,2059,oxygen_tanks, 0,180
+8,3,2529,vaccines,10,165
+8,3,3048,vaccines, 0,175
+2,7,1114,diagnostics, 4,160
+8,3,3698,vaccines, 6,160
+8,3,3931,vaccines, 8,179
+6,4,1592,respirators,10,170
+2,7,2343,diagnostics, 4,185
+4,5,4904,oxygen_tanks,30,165
+4,5,4184,oxygen_tanks,20,175
+7,9,3096,sanitizers, 3,174
+7,9,786,sanitizers, 3,176
+7,9,1169,sanitizers,10,180
+2,7,1044,diagnostics, 3,179
+1,6,1575,biologics, 0,168
+3,2,1339,masks, 1,164
+9,10,2952,ventilators, 4,164
+2,7,1758,diagnostics, 0,172
+10,8,1291,visors,18,188
+2,7,2037,diagnostics, 2,170
+5,1,2267,ppe,16,153
+1,6,4934,biologics, 8,182
+4,5,115,oxygen_tanks, 3,170
+3,2,868,masks, 2,173
+4,5,3730,oxygen_tanks, 6,163
+6,4,3155,respirators,50,170
+10,8,2165,visors, 5,158
+8,3,1616,vaccines,10,176
+9,10,101,ventilators, 8,172
+7,9,1374,sanitizers, 2,163
+7,9,406,sanitizers, 5,195
+7,9,2637,sanitizers, 2,181
+6,4,4447,respirators, 2,170
+7,9,415,sanitizers,12,168
+5,1,4266,ppe, 6,185
+7,9,95,sanitizers, 3,173
+3,2,2556,masks,50,178
+10,8,1053,visors,10,171
+3,2,1350,masks, 0,175
+9,10,3163,ventilators, 0,158
+10,8,1504,visors, 5,163
+8,3,4972,vaccines, 2,170
+10,8,4867,visors, 5,160
+2,7,4215,diagnostics, 2,164
+1,6,625,biologics,10,165
+10,8,2982,visors, 1,182
+2,7,2837,diagnostics, 4,178
+6,4,3610,respirators, 5,170
+2,7,2525,diagnostics, 9,183
+8,3,1869,vaccines, 9,116
+5,1,4494,ppe, 6,176
+1,6,3601,biologics, 5,153
+6,4,4110,respirators, 4,167
+5,1,4244,ppe, 4,158
+1,6,1470,biologics, 6,168
+8,3,73,vaccines, 5,189
+1,6,4879,biologics, 0,183
+8,3,3077,vaccines, 2,168
+3,2,4774,masks,20,155
+6,4,4709,respirators,10,172
+3,2,4413,masks, 4,156
+7,9,399,sanitizers, 8,172
+5,1,1580,ppe, 5,158
+5,1,745,ppe, 2,163
+1,6,1071,biologics, 4,176
+8,3,4196,vaccines,20,168
+10,8,477,visors, 5,178
+10,8,2788,visors, 0,160
+8,3,707,vaccines, 3,168
+6,4,1152,respirators, 7,165
+1,6,1971,biologics, 3,178
+4,5,1677,oxygen_tanks, 3,178
+2,7,185,diagnostics,20,158
+2,7,4182,diagnostics,25,158
+2,7,887,diagnostics, 3,178
+6,4,2331,respirators, 0,150
+1,6,2996,biologics, 4,159
+9,10,2294,ventilators, 2,156
+9,10,636,ventilators, 6,176
+3,2,4571,masks,10,160
+10,8,4619,visors, 5,175
+10,8,4943,visors,20,180
+6,4,2652,respirators, 5,176
+2,7,961,diagnostics, 4,176
+8,3,4301,vaccines, 7,163
+1,6,3986,biologics, 4,173
+1,6,3853,biologics,10,176
+9,10,2345,ventilators, 4,168
+1,6,1472,biologics, 4,170
+6,4,1027,respirators, 3,165
+6,4,3190,respirators, 5,147
+5,1,4672,ppe, 3,164
+5,1,2706,ppe, 3,170
+5,1,925,ppe,10,158
+9,10,4240,ventilators, 2,180
+10,8,1937,visors,10,156
+9,10,2237,ventilators, 5,183
+1,6,3292,biologics, 4,188
+6,4,3123,respirators, 0,159
+7,9,2949,sanitizers, 3,166
+6,4,4512,respirators, 4,150
+3,2,1161,masks, 4,158
+4,5,2960,oxygen_tanks,10,164
+10,8,4145,visors, 5,170
+8,3,3436,vaccines, 6,170
+10,8,3320,visors, 5,164
+8,3,1391,vaccines, 5,176
+10,8,3032,visors,10,165
+10,8,170,visors, 1,174
+10,8,4313,visors,10,176
+7,9,4444,sanitizers, 4,178
+6,4,2888,respirators, 2,164
+10,8,4035,visors, 3,172
+2,7,2350,diagnostics, 1,168
+7,9,546,sanitizers, 3,176
+3,2,4538,masks,10,165
+2,7,3433,diagnostics, 3,160
+1,6,2916,biologics,10,182
+5,1,213,ppe,10,160
+3,2,4235,masks, 2,165
+4,5,2651,oxygen_tanks, 2,163
+8,3,1407,vaccines, 6,170
+4,5,1920,oxygen_tanks, 2,176
+5,1,3741,ppe, 5,165
+5,1,3479,ppe, 1,166
+1,6,3819,biologics, 5,180
+9,10,3420,ventilators,12,168
+10,8,3617,visors,10,186
+2,7,1671,diagnostics, 2,168
+1,6,3662,biologics,20,180
+7,9,3953,sanitizers,12,180
+7,9,2959,sanitizers,20,160
+9,10,561,ventilators,40,172
+6,4,1788,respirators, 2,173
+5,1,1963,ppe, 6,174
+1,6,1164,biologics, 2,160
+1,6,2102,biologics,70,169
+8,3,4660,vaccines, 2,158
+2,7,4673,diagnostics, 4,164
+1,6,693,biologics,20,170
+2,7,1359,diagnostics,10,167
+10,8,3035,visors,10,176
+4,5,2791,oxygen_tanks, 6,159
+1,6,1264,biologics, 5,154
+1,6,4909,biologics,10,188
+2,7,3461,diagnostics,10,175
+5,1,393,ppe, 5,176
+9,10,3257,ventilators,10,161
+7,9,3765,sanitizers, 2,154
+2,7,2965,diagnostics, 0,165
+2,7,4054,diagnostics,20,164
+5,1,1646,ppe, 0,150
+4,5,576,oxygen_tanks, 0,164
+6,4,19,respirators,15,176
+2,7,16,diagnostics, 5,176
+2,7,1058,diagnostics, 4,164
+4,5,1211,oxygen_tanks, 1,184
+1,6,325,biologics, 3,158
+9,10,2512,ventilators, 4,160
+1,6,111,biologics, 2,167
+9,10,4422,ventilators, 0,186
+6,4,3337,respirators, 0,165
+7,9,4150,sanitizers, 1,177
+10,8,2441,visors, 7,160
+5,1,196,ppe, 2,185
+6,4,4840,respirators, 2,190
+10,8,903,visors, 4,175
+3,2,3180,masks, 7,165
+9,10,3016,ventilators,10,171
+8,3,67,vaccines, 0,164
+4,5,1902,oxygen_tanks,12,180
+2,7,1500,diagnostics, 8,176
+6,4,3143,respirators, 7,189
+6,4,2046,respirators, 6,162
+6,4,514,respirators, 4,164
+8,3,506,vaccines, 1,180
+7,9,1151,sanitizers, 5,167
+1,6,1137,biologics, 8,168
+5,1,1134,ppe, 1,172
+1,6,2921,biologics, 0,178
+9,10,3449,ventilators, 4,168
+2,7,3492,diagnostics, 6,172
+10,8,4214,visors, 6,175
+10,8,3563,visors, 7,186
+7,9,2657,sanitizers,10,160
+5,1,1846,ppe, 1,164
+9,10,4303,ventilators,12,186
+4,5,4687,oxygen_tanks, 1,164
+3,2,4002,masks, 2,166
+6,4,351,respirators, 4,165
+2,7,3392,diagnostics, 5,170
+9,10,682,ventilators, 4,180
+5,1,485,ppe, 4,176
+3,2,310,masks,11,176
+1,6,3046,biologics, 5,182
+10,8,4041,visors, 5,174
+10,8,3061,visors, 4,170
+3,2,1729,masks, 3,183
+4,5,630,oxygen_tanks, 3,164
+5,1,4144,ppe,10,164
+6,4,3,respirators,10,182
+1,6,2089,biologics, 2,183
+6,4,2858,respirators,10,158
+4,5,4213,oxygen_tanks,10,170
+8,3,4265,vaccines, 4,178
+4,5,4910,oxygen_tanks, 2,164
+3,2,672,masks,10,176
+7,9,2487,sanitizers, 5,160
+6,4,2999,respirators, 5,168
+6,4,4135,respirators,20,165
+3,2,3208,masks,10,158
+6,4,1743,respirators, 0,164
+7,9,2275,sanitizers, 6,157
+7,9,4357,sanitizers, 5,160
+7,9,1774,sanitizers, 5,170
+7,9,3136,sanitizers,14,160
+4,5,476,oxygen_tanks, 0,159
+1,6,4885,biologics, 4,172
+2,7,176,diagnostics, 2,166
+10,8,3276,visors, 1,174
+9,10,1952,ventilators, 5,158
+4,5,3224,oxygen_tanks,12,164
+8,3,1780,vaccines, 6,167
+1,6,1993,biologics, 2,167
+5,1,3111,ppe, 4,168
+4,5,211,oxygen_tanks, 3,170
+7,9,4234,sanitizers, 5,160
+3,2,4307,masks, 4,156
+1,6,748,biologics, 3,176
+3,2,448,masks, 3,166
+10,8,4743,visors,10,178
+1,6,4853,biologics, 8,176
+10,8,2497,visors,10,178
+1,6,3755,biologics, 4,165
+7,9,1206,sanitizers, 5,178
+3,2,3515,masks, 5,180
+8,3,4865,vaccines, 3,164
+9,10,4661,ventilators,12,158
+2,7,813,diagnostics, 5,172
+4,5,4057,oxygen_tanks,10,187
+3,2,1737,masks, 5,160
+5,1,1120,ppe, 5,158
+3,2,2330,masks,15,185
+3,2,1884,masks, 2,166
+3,2,1285,masks,10,172
+9,10,4336,ventilators,10,162
+6,4,4978,respirators,10,162
+8,3,4779,vaccines, 4,172
+1,6,2090,biologics, 5,168
+2,7,3370,diagnostics, 1,162
+6,4,3711,respirators, 3,180
+7,9,1182,sanitizers, 2,184
+2,7,4817,diagnostics, 3,164
+9,10,3786,ventilators,12,175
+2,7,1936,diagnostics, 5,187
+9,10,2555,ventilators,10,165
+7,9,3281,sanitizers, 6,172
+9,10,4056,ventilators,10,182
+1,6,4068,biologics, 4,175
+10,8,2884,visors,10,160
+2,7,4778,diagnostics,10,154
+4,5,3990,oxygen_tanks, 2,165
+2,7,4469,diagnostics, 5,175
+7,9,1312,sanitizers, 0,169
+6,4,2116,respirators,12,164
+4,5,2589,oxygen_tanks, 1,181
+9,10,4509,ventilators, 4,174
+10,8,1449,visors, 6,165
+10,8,3351,visors, 4,156
+1,6,3291,biologics, 4,158
+7,9,4557,sanitizers, 2,160
+4,5,4690,oxygen_tanks, 2,172
+3,2,3336,masks, 2,168
+9,10,4562,ventilators, 7,186
+1,6,4932,biologics, 2,158
+9,10,610,ventilators, 1,182
+8,3,3109,vaccines,10,176
+9,10,658,ventilators, 3,181
+7,9,1517,sanitizers, 0,158
+10,8,4601,visors, 3,170
+2,7,3209,diagnostics,10,160
+8,3,3487,vaccines, 8,180
+8,3,1980,vaccines, 2,170
+5,1,1200,ppe, 5,163
+5,1,4960,ppe, 8,183
+10,8,4414,visors, 5,180
+2,7,1233,diagnostics,20,186
+3,2,814,masks, 4,165
+1,6,914,biologics, 3,168
+10,8,3168,visors,20,167
+10,8,4278,visors, 7,177
+10,8,4408,visors, 4,176
+2,7,3857,diagnostics,20,176
+2,7,4531,diagnostics, 2,165
+10,8,4586,visors, 3,160
+3,2,2030,masks, 5,175
+3,2,487,masks, 5,162
+10,8,2513,visors,40,182
+3,2,1586,masks, 5,177
+2,7,3303,diagnostics, 1,163
+1,6,126,biologics, 5,160
+10,8,339,visors, 2,168
+9,10,4495,ventilators, 6,165
+1,6,3335,biologics, 2,180
+10,8,4588,visors, 2,160
+5,1,3888,ppe,15,172
+9,10,1473,ventilators,10,190
+1,6,2663,biologics, 8,164
+7,9,2083,sanitizers, 3,170
+2,7,951,diagnostics, 1,148
+3,2,1101,masks,10,165
+6,4,624,respirators, 6,168
+7,9,1995,sanitizers, 2,178
+8,3,71,vaccines, 6,171
+4,5,4193,oxygen_tanks, 6,150
+7,9,4438,sanitizers, 9,150
+9,10,1481,ventilators, 2,175
+8,3,2966,vaccines, 5,165
+10,8,1798,visors,10,164
+9,10,2339,ventilators, 2,160
+9,10,3773,ventilators, 2,156
+10,8,2839,visors, 3,168
+4,5,3476,oxygen_tanks, 1,160
+1,6,4459,biologics, 3,180
+6,4,960,respirators,10,194
+9,10,305,ventilators,10,178
+2,7,1086,diagnostics, 4,156
+1,6,3838,biologics,10,190
+3,2,1999,masks, 5,173
+3,2,2534,masks, 8,160
+6,4,4674,respirators, 2,163
+9,10,599,ventilators, 8,180
+6,4,847,respirators, 0,175
+4,5,2,oxygen_tanks, 1,179
+1,6,2994,biologics, 2,168
+4,5,2793,oxygen_tanks, 3,170
+6,4,3644,respirators,20,182
+1,6,1267,biologics, 2,176
+10,8,583,visors, 7,163
+6,4,510,respirators, 4,160
+4,5,4888,oxygen_tanks, 2,170
+8,3,615,vaccines, 1,187
+10,8,3546,visors, 4,166
+6,4,1093,respirators, 7,165
+8,3,1081,vaccines, 1,155
+3,2,3173,masks, 3,157
+2,7,222,diagnostics, 2,170
+1,6,1100,biologics,10,170
+2,7,3414,diagnostics, 0,160
+8,3,4243,vaccines, 2,180
+7,9,4621,sanitizers, 5,164
+4,5,2078,oxygen_tanks,11,160
+9,10,420,ventilators, 8,162
+4,5,3447,oxygen_tanks, 0,174
+1,6,3275,biologics, 0,160
+10,8,802,visors, 3,186
+4,5,560,oxygen_tanks, 6,176
+3,2,4936,masks, 6,165
+7,9,4576,sanitizers, 0,170
+7,9,4279,sanitizers, 6,158
+2,7,229,diagnostics,10,169
+1,6,2667,biologics, 4,165
+6,4,1345,respirators, 0,168
+5,1,870,ppe,22,172
+5,1,1542,ppe, 6,164
+5,1,2447,ppe, 3,150
+1,6,2383,biologics, 6,177
+4,5,3744,oxygen_tanks, 4,163
+6,4,6,respirators, 6,175
+5,1,1118,ppe, 6,180
+4,5,2565,oxygen_tanks, 5,164
+2,7,292,diagnostics, 7,183
+3,2,3731,masks, 7,184
+2,7,4159,diagnostics, 8,164
+3,2,2458,masks, 5,176
+6,4,1716,respirators, 2,164
+8,3,3681,vaccines,10,180
+5,1,4297,ppe, 6,170
+7,9,1225,sanitizers, 3,167
+3,2,4475,masks, 4,170
+8,3,490,vaccines, 2,155
+7,9,3498,sanitizers, 4,173
+7,9,3474,sanitizers, 6,160
+7,9,3556,sanitizers, 5,155
+2,7,4784,diagnostics, 4,172
+2,7,3119,diagnostics, 2,180
+1,6,917,biologics, 2,177
+7,9,1415,sanitizers, 5,175
+3,2,1046,masks, 5,172
+7,9,545,sanitizers, 2,175
+1,6,3581,biologics, 2,160
+2,7,8,diagnostics, 6,160
+3,2,4974,masks, 4,152
+3,2,1342,masks, 4,182
+3,2,3709,masks, 3,174
+6,4,2704,respirators,20,180
+7,9,1156,sanitizers,10,170
+9,10,2257,ventilators, 5,163
+9,10,4537,ventilators, 3,175
+9,10,2922,ventilators, 4,164
+7,9,2860,sanitizers,10,185
+7,9,2928,sanitizers, 4,160
+1,6,4440,biologics, 8,178
+2,7,2619,diagnostics, 4,162
+4,5,341,oxygen_tanks, 2,165
+4,5,1745,oxygen_tanks,20,172
+5,1,2741,ppe, 1,170
+5,1,1669,ppe, 6,170
+9,10,4005,ventilators, 3,164
+7,9,4595,sanitizers, 4,158
+9,10,2803,ventilators, 5,160
+7,9,400,sanitizers, 7,160
+2,7,132,diagnostics,15,170
+6,4,3957,respirators,12,180
+3,2,2919,masks, 2,150
+5,1,4085,ppe, 3,153
+6,4,519,respirators, 5,164
+4,5,488,oxygen_tanks,10,170
+2,7,265,diagnostics, 5,160
+4,5,1217,oxygen_tanks, 1,179
+5,1,2193,ppe, 5,175
+5,1,287,ppe, 2,176
+2,7,3373,diagnostics, 6,172
+3,2,3149,masks, 5,155
+9,10,4803,ventilators, 3,176
+6,4,4490,respirators,15,162
+2,7,4176,diagnostics, 6,180
+3,2,4106,masks,25,190
+7,9,3592,sanitizers, 4,163
+2,7,4358,diagnostics, 2,160
+9,10,3459,ventilators,10,158
+10,8,640,visors,20,168
+5,1,989,ppe, 5,160
+10,8,118,visors,10,176
+10,8,1240,visors, 2,160
+6,4,4685,respirators,55,173
+1,6,2574,biologics, 9,158
+9,10,1433,ventilators, 5,170
+4,5,743,oxygen_tanks, 5,165
+4,5,4488,oxygen_tanks, 5,160
+5,1,2816,ppe, 4,156
+6,4,2545,respirators, 3,187
+2,7,1314,diagnostics, 8,170
+2,7,3784,diagnostics, 2,159
+7,9,4797,sanitizers,12,150
+6,4,2057,respirators, 3,165
+1,6,33,biologics, 2,178
+5,1,3712,ppe, 4,166
+10,8,2131,visors, 4,196
+1,6,3677,biologics, 1,165
+10,8,4597,visors, 5,160
+10,8,1198,visors,10,167
+3,2,4733,masks,20,168
+1,6,407,biologics, 5,165
+6,4,207,respirators, 1,150
+5,1,1395,ppe, 4,185
+10,8,2448,visors, 3,164
+9,10,1108,ventilators, 0,160
+10,8,818,visors, 2,163
+5,1,4253,ppe, 0,170
+8,3,3874,vaccines,15,172
+10,8,1754,visors,14,157
+3,2,3833,masks, 2,168
+4,5,4842,oxygen_tanks,10,158
+5,1,427,ppe,10,181
+2,7,4669,diagnostics, 5,180
+10,8,2490,visors,20,164
+1,6,4999,biologics, 2,175
+7,9,718,sanitizers, 4,164
+1,6,3227,biologics,10,175
+5,1,3693,ppe, 3,170
+6,4,657,respirators, 4,176
+6,4,139,respirators, 5,160
+1,6,2179,biologics, 5,164
+7,9,1582,sanitizers, 3,182
+6,4,4510,respirators,10,177
+4,5,3715,oxygen_tanks, 5,156
+6,4,984,respirators, 3,162
+5,1,994,ppe, 5,164
+6,4,1282,respirators, 5,178
+5,1,3203,ppe, 5,163
+9,10,1189,ventilators, 4,180
+5,1,3526,ppe, 5,175
+5,1,3933,ppe, 1,170
+3,2,1025,masks, 2,162
+4,5,997,oxygen_tanks, 2,164
+3,2,4954,masks, 8,162
+1,6,2806,biologics, 4,188
+7,9,4326,sanitizers, 4,156
+2,7,2856,diagnostics, 1,160
+9,10,2904,ventilators, 6,175
+7,9,4257,sanitizers, 2,165
+8,3,3958,vaccines,10,185
+8,3,3713,vaccines, 5,170
+2,7,2416,diagnostics, 3,170
+7,9,4963,sanitizers, 7,162
+8,3,4532,vaccines, 6,180
+6,4,224,respirators,10,170
+3,2,564,masks,10,170
+5,1,127,ppe, 1,164
+3,2,2322,masks,20,175
+1,6,1805,biologics,10,170
+2,7,3129,diagnostics, 5,198
+10,8,3561,visors,30,173
+4,5,877,oxygen_tanks, 0,172
+2,7,3821,diagnostics, 4,154
+10,8,441,visors, 5,167
+10,8,4471,visors, 0,180
+5,1,3876,ppe, 2,185
+10,8,4448,visors, 8,165
+3,2,3126,masks, 3,158
+9,10,197,ventilators,10,165
+1,6,2299,biologics, 2,178
+10,8,3848,visors, 0,165
+2,7,1268,diagnostics, 2,175
+5,1,177,ppe, 3,158
+4,5,3583,oxygen_tanks, 2,161
+2,7,2724,diagnostics, 4,187
+1,6,1469,biologics, 3,164
+8,3,332,vaccines, 3,158
+5,1,334,ppe, 5,160
+10,8,4047,visors, 3,167
+8,3,4484,vaccines, 5,168
+7,9,2244,sanitizers, 3,162
+10,8,190,visors, 5,153
+9,10,261,ventilators, 8,176
+10,8,4731,visors, 2,175
+9,10,1096,ventilators, 0,176
+7,9,4446,sanitizers, 6,190
+2,7,1632,diagnostics, 4,164
+10,8,559,visors, 2,176
+7,9,1231,sanitizers, 5,160
+3,2,2464,masks, 6,172
+5,1,3462,ppe, 7,165
+1,6,417,biologics, 2,170
+2,7,129,diagnostics,10,164
+8,3,1557,vaccines, 1,160
+7,9,1727,sanitizers, 4,176
+4,5,4907,oxygen_tanks, 8,160
+8,3,4259,vaccines, 0,165
+4,5,473,oxygen_tanks, 3,165
+7,9,3229,sanitizers, 5,165
+8,3,1301,vaccines, 5,158
+2,7,1308,diagnostics,20,174
+4,5,643,oxygen_tanks, 3,161
+2,7,1490,diagnostics,10,162
+3,2,4639,masks, 5,164
+4,5,1467,oxygen_tanks, 3,173
+6,4,4637,respirators, 5,175
+5,1,3092,ppe, 3,156
+10,8,3627,visors,20,183
+6,4,3186,respirators, 5,153
+6,4,3440,respirators, 2,161
+5,1,2297,ppe, 0,160
+10,8,2912,visors, 6,168
+9,10,1110,ventilators, 2,176
+6,4,2642,respirators,20,158
+6,4,2155,respirators, 4,163
+4,5,4649,oxygen_tanks, 2,170
+10,8,3188,visors, 2,159
+5,1,699,ppe, 2,182
+8,3,893,vaccines, 2,152
+2,7,2072,diagnostics,20,160
+9,10,4648,ventilators,10,180
+6,4,2269,respirators,10,170
+3,2,1972,masks, 5,182
+5,1,678,ppe,10,164
+6,4,3460,respirators, 7,164
+5,1,3672,ppe, 3,175
+3,2,3843,masks, 5,160
+2,7,2725,diagnostics, 5,160
+10,8,2586,visors,16,159
+5,1,2475,ppe, 4,176
+1,6,2594,biologics, 0,160
+4,5,1957,oxygen_tanks, 4,162
+6,4,3170,respirators,30,170
+1,6,3895,biologics,10,164
+4,5,1313,oxygen_tanks, 2,156
+5,1,1932,ppe, 0,174
+8,3,4821,vaccines, 2,180
+7,9,4219,sanitizers, 3,176
+10,8,1283,visors, 2,170
+6,4,2405,respirators, 4,165
+10,8,3525,visors, 2,185
+5,1,3413,ppe, 5,172
+7,9,910,sanitizers, 3,153
+8,3,4723,vaccines,13,165
+7,9,815,sanitizers, 3,160
+3,2,721,masks, 0,186
+5,1,411,ppe, 8,176
+2,7,1226,diagnostics,15,178
+7,9,4300,sanitizers, 2,175
+6,4,201,respirators, 3,164
+2,7,3060,diagnostics, 2,176
+5,1,1180,ppe, 8,178
+8,3,355,vaccines,10,172
+9,10,2846,ventilators, 4,165
+5,1,218,ppe,10,164
+5,1,3102,ppe,10,168
+1,6,2767,biologics, 2,172
+4,5,2301,oxygen_tanks, 2,178
+1,6,317,biologics, 4,152
+3,2,681,masks,18,160
+2,7,1790,diagnostics, 5,174
+9,10,1331,ventilators,10,172
+2,7,4866,diagnostics, 6,174
+1,6,168,biologics,10,180
+10,8,4464,visors, 6,174
+7,9,208,sanitizers,20,160
+1,6,2643,biologics,10,160
+9,10,772,ventilators, 0,170
+5,1,3458,ppe, 4,185
+7,9,2817,sanitizers, 2,165
+7,9,2925,sanitizers, 3,178
+4,5,4652,oxygen_tanks, 2,164
+4,5,1191,oxygen_tanks, 5,185
+3,2,3982,masks, 5,170
+10,8,3830,visors,10,167
+9,10,4789,ventilators, 3,175
+8,3,3652,vaccines, 4,163
+2,7,3817,diagnostics, 2,178
+2,7,3377,diagnostics, 4,172
+9,10,2641,ventilators, 4,176
+2,7,2008,diagnostics, 8,165
+4,5,97,oxygen_tanks, 4,166
+10,8,2633,visors, 2,164
+6,4,2066,respirators,20,176
+3,2,4848,masks, 5,156
+10,8,3284,visors, 5,160
+1,6,1493,biologics, 4,166
+3,2,1784,masks, 3,164
+7,9,1163,sanitizers, 6,155
+6,4,2156,respirators, 6,162
+3,2,4767,masks, 0,175
+9,10,4886,ventilators, 3,164
+5,1,4675,ppe,10,170
+8,3,352,vaccines, 0,162
+4,5,623,oxygen_tanks, 8,158
+8,3,3252,vaccines, 5,176
+3,2,996,masks, 3,170
+10,8,1588,visors, 3,182
+6,4,4746,respirators,15,161
+5,1,3214,ppe, 6,173
+5,1,821,ppe, 5,164
+8,3,4374,vaccines,10,167
+10,8,1128,visors, 3,165
+3,2,2729,masks,20,168
+9,10,3038,ventilators,10,176
+9,10,3112,ventilators,10,183
+3,2,3761,masks, 3,176
+8,3,4318,vaccines,10,170
+9,10,1897,ventilators, 2,178
+4,5,2211,oxygen_tanks, 2,174
+2,7,1968,diagnostics, 8,176
+7,9,1183,sanitizers, 5,170
+2,7,3864,diagnostics, 2,175
+2,7,184,diagnostics, 6,190
+9,10,3602,ventilators, 5,167
+8,3,3277,vaccines, 0,168
+9,10,3555,ventilators,10,172
+10,8,2373,visors, 2,156
+5,1,3153,ppe, 7,174
+6,4,3417,respirators,10,159
+1,6,2148,biologics, 5,158
+8,3,1991,vaccines, 2,176
+8,3,919,vaccines,12,164
+8,3,3927,vaccines,13,154
+9,10,3141,ventilators,10,168
+6,4,4419,respirators,10,165
+5,1,1878,ppe, 7,182
+1,6,3750,biologics,10,170
+3,2,1260,masks, 0,165
+9,10,1710,ventilators,20,170
+1,6,3757,biologics,10,186
+9,10,2505,ventilators, 0,184
+7,9,4552,sanitizers, 2,176
+5,1,3339,ppe, 4,158
+8,3,4878,vaccines, 2,170
+4,5,359,oxygen_tanks, 4,164
+5,1,1840,ppe,20,164
+1,6,1607,biologics, 3,158
+3,2,864,masks,10,160
+10,8,527,visors, 7,158
+6,4,4720,respirators, 5,165
+8,3,876,vaccines, 6,162
+1,6,2899,biologics, 2,173
+3,2,4071,masks, 5,182
+9,10,4225,ventilators, 4,178
+3,2,3703,masks, 5,178
+10,8,4613,visors,10,170
+9,10,2466,ventilators, 2,180
+4,5,456,oxygen_tanks,12,176
+9,10,4905,ventilators, 2,170
+9,10,483,ventilators, 1,170
+5,1,1485,ppe, 3,182
+9,10,3446,ventilators, 5,175
+6,4,2675,respirators,30,158
+6,4,940,respirators, 4,164
+6,4,3573,respirators, 5,160
+3,2,3847,masks,15,160
+7,9,4377,sanitizers,10,170
+5,1,846,ppe,15,166
+1,6,675,biologics, 5,160
+9,10,685,ventilators, 7,166
+10,8,4476,visors, 5,168
+9,10,7,ventilators, 4,171
+5,1,949,ppe,20,160
+2,7,4847,diagnostics,12,172
+1,6,2845,biologics, 2,178
+2,7,2660,diagnostics, 5,165
+5,1,2449,ppe, 5,167
+7,9,4231,sanitizers, 3,185
+4,5,3493,oxygen_tanks, 4,164
+8,3,1214,vaccines, 5,160
+1,6,2087,biologics, 4,180
+10,8,2963,visors, 4,150
+7,9,4869,sanitizers, 6,170
+3,2,3348,masks, 2,178
+9,10,1452,ventilators,20,158
+1,6,1631,biologics,15,160
+4,5,3297,oxygen_tanks, 3,170
+3,2,1398,masks,20,168
+10,8,3435,visors, 4,178
+7,9,735,sanitizers, 2,162
+9,10,378,ventilators, 4,162
+8,3,3360,vaccines,10,187
+7,9,1251,sanitizers, 6,154
+4,5,3520,oxygen_tanks, 2,165
+10,8,1077,visors, 4,175
+4,5,3463,oxygen_tanks, 5,158
+9,10,3534,ventilators,10,166
+5,1,4008,ppe,20,155
+10,8,3600,visors, 2,160
+7,9,4680,sanitizers, 3,174
+3,2,2003,masks,10,170
+8,3,591,vaccines, 2,175
+1,6,2956,biologics, 3,178
+6,4,4205,respirators, 2,162
+5,1,929,ppe,10,164
+8,3,4715,vaccines, 2,185
+9,10,85,ventilators, 2,178
+4,5,873,oxygen_tanks, 6,165
+6,4,1193,respirators, 3,165
+5,1,4799,ppe, 2,168
+6,4,2291,respirators,10,165
+7,9,1961,sanitizers, 3,173
+3,2,13,masks, 4,183
+6,4,4570,respirators,10,175
+3,2,1187,masks, 3,160
+8,3,1879,vaccines, 1,158
+3,2,1026,masks, 5,159
+4,5,3956,oxygen_tanks,20,170
+10,8,1278,visors, 2,160
+6,4,3127,respirators, 6,179
+9,10,1676,ventilators, 3,185
+6,4,3988,respirators, 3,174
+8,3,2509,vaccines,10,176
+10,8,3150,visors, 2,165
+8,3,3040,vaccines, 6,168
+2,7,4528,diagnostics, 3,170
+8,3,1303,vaccines, 5,181
+1,6,3564,biologics, 2,185
+8,3,4992,vaccines,10,183
+10,8,1434,visors, 6,169
+2,7,156,diagnostics, 1,162
+3,2,4712,masks, 0,154
+3,2,857,masks, 4,190
+2,7,2957,diagnostics, 5,168
+9,10,3405,ventilators,20,171
+5,1,1092,ppe, 3,168
+2,7,4123,diagnostics,10,175
+8,3,2659,vaccines, 5,187
+4,5,2507,oxygen_tanks,10,183
+6,4,3472,respirators, 1,158
+4,5,4564,oxygen_tanks, 4,164
+2,7,1124,diagnostics, 0,179
+5,1,2802,ppe,10,158
+3,2,2218,masks,10,180
+6,4,3632,respirators, 8,170
+6,4,2207,respirators,10,165
+8,3,4352,vaccines, 3,160
+9,10,4192,ventilators, 4,180
+4,5,1625,oxygen_tanks,10,185
+3,2,2438,masks, 8,170
+5,1,1036,ppe,10,175
+3,2,4421,masks, 2,186
+6,4,4747,respirators, 4,171
+2,7,1564,diagnostics,10,180
+6,4,669,respirators, 1,158
+6,4,4800,respirators,10,158
+1,6,1994,biologics,10,160
+5,1,2699,ppe,17,186
+2,7,3804,diagnostics, 2,168
+3,2,784,masks, 8,163
+3,2,1162,masks,21,185
+6,4,4478,respirators, 3,169
+6,4,4269,respirators,16,168
+6,4,1236,respirators, 2,176
+7,9,1794,sanitizers, 8,165
+4,5,3628,oxygen_tanks, 2,152
+4,5,3148,oxygen_tanks, 3,170
+8,3,823,vaccines,20,182
+1,6,848,biologics, 4,174
+2,7,983,diagnostics, 5,172
+6,4,872,respirators,10,164
+3,2,1948,masks, 8,154
+1,6,715,biologics,10,193
+3,2,2942,masks,20,178
+9,10,1568,ventilators,10,162
+6,4,1943,respirators,10,190
+6,4,2217,respirators, 8,156
+3,2,4042,masks, 5,170
+5,1,4858,ppe, 6,156
+6,4,3841,respirators,10,158
+3,2,1619,masks, 1,153
+8,3,3302,vaccines, 1,160
+7,9,1911,sanitizers, 2,165
+8,3,883,vaccines,20,168
+2,7,3469,diagnostics, 5,170
+5,1,4689,ppe, 2,175
+7,9,345,sanitizers, 2,155
+10,8,1634,visors,12,190
+10,8,464,visors, 2,173
+8,3,1532,vaccines, 0,150
+3,2,2847,masks, 3,170
+2,7,998,diagnostics,20,168
+7,9,4403,sanitizers,15,181
+3,2,4415,masks,10,172
+3,2,1831,masks, 7,175
+7,9,1698,sanitizers, 4,161
+4,5,4288,oxygen_tanks, 4,167
+2,7,2455,diagnostics, 3,155
+3,2,1809,masks,12,171
+7,9,3642,sanitizers,10,185
+10,8,1304,visors, 5,176
+6,4,4173,respirators, 8,168
+2,7,4160,diagnostics,15,164
+10,8,40,visors, 4,172
+1,6,617,biologics, 6,178
+7,9,1344,sanitizers,10,158
+7,9,2479,sanitizers, 2,170
+1,6,3733,biologics, 1,162
+9,10,3200,ventilators,10,175
+7,9,4247,sanitizers, 4,170
+1,6,2923,biologics, 2,175
+10,8,854,visors, 4,172
+5,1,2753,ppe, 5,160
+5,1,328,ppe, 4,168
+4,5,761,oxygen_tanks,14,154
+9,10,2111,ventilators,20,170
+1,6,3324,biologics, 5,180
+9,10,4678,ventilators,20,185
+4,5,4260,oxygen_tanks,15,152
+7,9,2766,sanitizers, 2,164
+7,9,1250,sanitizers, 1,177
+1,6,3425,biologics, 2,150
+3,2,3856,masks, 6,168
+8,3,2245,vaccines, 0,176
+5,1,3415,ppe, 6,167
+7,9,790,sanitizers, 1,151
+6,4,1140,respirators, 5,150
+9,10,2359,ventilators,10,162
+10,8,277,visors,20,170
+2,7,1356,diagnostics, 8,168
+4,5,2290,oxygen_tanks,15,175
+10,8,3084,visors, 5,158
+1,6,1667,biologics, 5,169
+5,1,3676,ppe, 3,167
+1,6,3036,biologics, 2,160
+10,8,3673,visors,10,174
+1,6,3707,biologics, 1,163
+3,2,4520,masks,14,160
+8,3,1041,vaccines,20,165
+9,10,629,ventilators, 5,174
+4,5,1550,oxygen_tanks,30,168
+7,9,1768,sanitizers,10,180
+8,3,3319,vaccines, 5,165
+3,2,1373,masks, 4,178
+2,7,2009,diagnostics,10,172
+4,5,4837,oxygen_tanks,10,164
+6,4,2386,respirators, 1,168
+8,3,470,vaccines,10,166
+5,1,431,ppe, 5,176
+5,1,3732,ppe, 1,175
+8,3,1857,vaccines, 2,168
+3,2,374,masks, 2,176
+1,6,3584,biologics,12,178
+7,9,1939,sanitizers, 5,178
+8,3,988,vaccines, 6,175
+7,9,154,sanitizers, 5,183
+4,5,2265,oxygen_tanks,20,168
+9,10,3103,ventilators, 9,190
+6,4,1,respirators,15,178
+9,10,3868,ventilators, 8,158
+3,2,401,masks,21,168
+9,10,4023,ventilators,12,156
+2,7,2233,diagnostics, 4,183
+6,4,414,respirators,10,177
+9,10,4569,ventilators,30,158
+9,10,367,ventilators, 5,180
+8,3,4949,vaccines, 3,182
+3,2,1284,masks, 3,180
+2,7,30,diagnostics,10,170
+9,10,4930,ventilators, 2,175
+4,5,3439,oxygen_tanks, 8,173
+6,4,4069,respirators, 4,176
+8,3,1908,vaccines, 3,162
+10,8,4666,visors, 5,165
+6,4,1105,respirators, 7,160
+7,9,1633,sanitizers, 3,175
+5,1,2325,ppe, 2,162
+3,2,882,masks, 2,183
+2,7,2821,diagnostics,50,165
+8,3,2754,vaccines, 6,170
+5,1,2452,ppe, 4,162
+1,6,1494,biologics,10,158
+1,6,1730,biologics, 3,167
+8,3,3008,vaccines, 4,168
+4,5,3448,oxygen_tanks, 5,173
+4,5,1891,oxygen_tanks, 6,162
+2,7,1921,diagnostics,10,160
+5,1,2017,ppe, 8,164
+7,9,1440,sanitizers,10,174
+9,10,808,ventilators, 4,162
+1,6,3596,biologics, 3,176
+1,6,3432,biologics, 8,170
+7,9,4364,sanitizers,10,176
+2,7,662,diagnostics, 7,184
+5,1,3882,ppe, 6,172
+5,1,3233,ppe,14,170
+8,3,4012,vaccines, 4,170
+2,7,2666,diagnostics, 0,180
+3,2,1872,masks, 6,172
+3,2,326,masks, 3,164
+9,10,3347,ventilators, 2,178
+3,2,4983,masks, 2,158
+6,4,3042,respirators, 3,166
+5,1,2547,ppe, 8,160
+2,7,3769,diagnostics, 5,153
+4,5,3886,oxygen_tanks, 1,163
+8,3,569,vaccines, 1,150
+9,10,937,ventilators, 6,175
+7,9,478,sanitizers, 6,188
+2,7,4105,diagnostics, 4,190
+9,10,1447,ventilators, 4,184
+1,6,1418,biologics, 7,175
+7,9,1052,sanitizers, 0,180
+7,9,3031,sanitizers, 3,174
+2,7,862,diagnostics, 5,150
+6,4,1462,respirators, 1,172
+8,3,3704,vaccines, 3,163
+6,4,1835,respirators, 5,153
+10,8,2768,visors,15,158
+9,10,3017,ventilators,12,164
+1,6,4635,biologics,14,164
+2,7,4221,diagnostics, 2,170
+1,6,587,biologics, 2,160
+3,2,4940,masks, 0,176
+4,5,388,oxygen_tanks, 0,157
+10,8,4827,visors, 7,178
+1,6,2640,biologics,20,180
+3,2,3477,masks,14,173
+8,3,3917,vaccines, 7,185
+3,2,2276,masks, 8,178
+1,6,4315,biologics, 2,160
+6,4,3406,respirators,10,164
+10,8,947,visors, 6,182
+10,8,455,visors,30,176
+9,10,3844,ventilators,10,162
+1,6,4094,biologics,17,176
+5,1,2798,ppe, 5,164
+9,10,2983,ventilators,10,164
+1,6,3722,biologics, 3,160
+1,6,3518,biologics, 7,168
+5,1,4007,ppe,10,165
+4,5,2969,oxygen_tanks,10,182
+7,9,668,sanitizers, 4,171
+7,9,1065,sanitizers,10,157
+7,9,2164,sanitizers,10,180
+5,1,3831,ppe,10,164
+1,6,1258,biologics,10,170
+2,7,1014,diagnostics,12,176
+7,9,1700,sanitizers, 2,178
+7,9,4546,sanitizers,11,176
+2,7,1454,diagnostics, 1,176
+9,10,4375,ventilators, 6,170
+4,5,2274,oxygen_tanks, 5,150
+7,9,1708,sanitizers, 6,175
+2,7,1755,diagnostics, 5,164
+1,6,130,biologics, 3,170
+8,3,2834,vaccines,25,155
+3,2,1113,masks, 8,159
+7,9,954,sanitizers, 2,170
+10,8,413,visors,10,182
+3,2,396,masks, 6,158
+7,9,2736,sanitizers, 2,158
+10,8,2394,visors,10,167
+7,9,1858,sanitizers, 4,164
+9,10,2119,ventilators, 6,199
+4,5,2841,oxygen_tanks, 3,160
+6,4,517,respirators, 3,188
+1,6,3269,biologics, 2,176
+1,6,3854,biologics, 5,164
+4,5,804,oxygen_tanks,12,185
+3,2,1524,masks, 6,171
+8,3,3350,vaccines, 4,173
+3,2,1576,masks, 6,182
+8,3,1563,vaccines, 2,172
+4,5,2868,oxygen_tanks,20,175
+7,9,486,sanitizers, 3,166
+6,4,1262,respirators, 2,178
+10,8,2726,visors,20,184
+10,8,256,visors, 3,186
+10,8,2413,visors, 2,178
+8,3,238,vaccines, 0,158
+6,4,2915,respirators, 3,162
+9,10,2010,ventilators, 4,150
+6,4,3612,respirators, 2,156
+6,4,437,respirators, 0,164
+6,4,2621,respirators,15,170
+8,3,2862,vaccines, 5,172
+8,3,290,vaccines, 5,165
+10,8,1255,visors,10,171
+3,2,2145,masks, 2,152
+10,8,2278,visors, 4,157
+6,4,4206,respirators,20,165
+2,7,2510,diagnostics, 0,176
+2,7,733,diagnostics, 4,164
+7,9,2092,sanitizers, 5,175
+2,7,2232,diagnostics, 8,160
+3,2,3863,masks,15,164
+6,4,4628,respirators,10,170
+9,10,2778,ventilators, 0,158
+4,5,3930,oxygen_tanks, 5,156
+2,7,3055,diagnostics, 3,167
+2,7,2364,diagnostics,10,156
+3,2,4982,masks, 3,158
+6,4,4548,respirators,15,172
+6,4,2159,respirators, 2,180
+1,6,3574,biologics, 1,164
+7,9,2258,sanitizers, 8,184
+9,10,3386,ventilators, 8,155
+1,6,4091,biologics, 2,170
+5,1,931,ppe, 1,154
+4,5,3390,oxygen_tanks,10,160
+4,5,4606,oxygen_tanks,15,176
+8,3,3640,vaccines,20,170
+8,3,2749,vaccines, 3,155
+8,3,2746,vaccines, 6,165
+3,2,480,masks, 2,176
+3,2,4463,masks,10,164
+3,2,2944,masks, 5,182
+6,4,4255,respirators,20,166
+6,4,751,respirators, 3,154
+5,1,469,ppe, 4,176
+8,3,2395,vaccines, 9,179
+9,10,2262,ventilators, 2,170
+5,1,80,ppe, 3,162
+9,10,303,ventilators, 6,160
+5,1,1668,ppe, 6,165
+6,4,4844,respirators, 1,188
+5,1,809,ppe, 2,164
+6,4,4698,respirators, 4,175
+4,5,4497,oxygen_tanks,10,150
+9,10,4822,ventilators, 2,158
+10,8,4697,visors, 4,165
+1,6,1964,biologics, 8,171
+3,2,4442,masks,10,170
+6,4,3411,respirators, 4,176
+2,7,3365,diagnostics,10,156
+2,7,3009,diagnostics, 0,158
+6,4,1341,respirators, 4,155
+6,4,1302,respirators,10,175
+8,3,850,vaccines, 2,176
+8,3,4705,vaccines, 0,165
+9,10,1117,ventilators, 6,170
+4,5,2375,oxygen_tanks, 5,158
+10,8,2385,visors, 3,180
+8,3,4166,vaccines, 1,164
+1,6,3985,biologics, 8,168
+5,1,336,ppe, 2,173
+4,5,3637,oxygen_tanks,10,154
+2,7,3771,diagnostics, 0,172
+10,8,1624,visors, 9,170
+4,5,2415,oxygen_tanks,20,164
+2,7,714,diagnostics, 5,180
+6,4,4493,respirators,10,165
+7,9,2468,sanitizers,13,163
+3,2,4851,masks, 2,160
+8,3,4721,vaccines, 6,160
+8,3,3718,vaccines, 2,150
+7,9,2264,sanitizers, 5,170
+10,8,1063,visors, 8,168
+6,4,4900,respirators, 5,186
+10,8,946,visors,14,164
+5,1,275,ppe, 5,180
+4,5,3006,oxygen_tanks,12,160
+9,10,602,ventilators, 7,178
+4,5,526,oxygen_tanks,14,182
+5,1,2139,ppe, 4,166
+6,4,1595,respirators, 4,162
+2,7,941,diagnostics, 2,175
+10,8,683,visors, 2,170
+9,10,3022,ventilators, 8,171
+9,10,1659,ventilators,10,172
+2,7,4044,diagnostics,80,163
+2,7,822,diagnostics, 5,164
+7,9,2225,sanitizers,10,158
+7,9,2128,sanitizers, 4,180
+3,2,2833,masks,10,152
+5,1,4452,ppe, 7,172
+10,8,1506,visors, 4,160
+2,7,3936,diagnostics, 2,172
+2,7,453,diagnostics, 4,155
+8,3,571,vaccines, 5,167
+3,2,3194,masks, 2,168
+8,3,3363,vaccines,15,176
+4,5,968,oxygen_tanks, 3,158
+7,9,3503,sanitizers, 5,165
+2,7,2679,diagnostics, 5,174
+10,8,422,visors, 3,172
+1,6,495,biologics, 4,166
+6,4,4683,respirators, 3,162
+4,5,4882,oxygen_tanks, 3,182
+4,5,2743,oxygen_tanks, 2,172
+7,9,4363,sanitizers,15,160
+3,2,2243,masks, 0,160
+8,3,2974,vaccines, 0,155
+8,3,2093,vaccines,15,164
+8,3,1112,vaccines, 8,152
+2,7,606,diagnostics, 2,162
+8,3,1078,vaccines, 3,152
+1,6,1404,biologics,10,164
+8,3,24,vaccines, 5,164
+2,7,3682,diagnostics,12,172
+1,6,2563,biologics, 3,170
+9,10,3374,ventilators, 5,164
+9,10,4764,ventilators, 5,165
+9,10,4612,ventilators,20,153
+7,9,3851,sanitizers, 6,160
+6,4,618,respirators, 3,160
+8,3,1814,vaccines, 4,167
+2,7,4395,diagnostics, 7,184
+8,3,335,vaccines, 1,165
+4,5,1735,oxygen_tanks, 4,165
+7,9,3618,sanitizers, 6,158
+4,5,3748,oxygen_tanks, 2,168
+10,8,2544,visors, 4,162
+5,1,131,ppe, 8,164
+7,9,2558,sanitizers, 3,178
+1,6,1686,biologics, 3,169
+1,6,2443,biologics, 2,157
+10,8,3013,visors, 3,171
+3,2,1876,masks,10,185
+4,5,4298,oxygen_tanks,20,175
+7,9,249,sanitizers, 2,168
+7,9,1412,sanitizers, 3,176
+8,3,4171,vaccines, 8,160
+5,1,4645,ppe, 7,183
+8,3,2358,vaccines,10,186
+9,10,4542,ventilators, 7,170
+9,10,3549,ventilators, 6,175
+1,6,3185,biologics, 9,170
+5,1,3152,ppe, 3,164
+9,10,3969,ventilators,30,165
+8,3,299,vaccines, 3,158
+3,2,4911,masks, 2,170
+7,9,3004,sanitizers, 1,186
+9,10,2515,ventilators, 1,187
+9,10,720,ventilators,10,170
+2,7,3558,diagnostics,10,182
+5,1,253,ppe, 2,160
+6,4,2896,respirators, 6,158
+4,5,159,oxygen_tanks, 0,162
+6,4,1017,respirators, 6,170
+5,1,64,ppe,10,160
+10,8,924,visors,10,165
+5,1,3650,ppe, 3,184
+7,9,2787,sanitizers, 2,165
+8,3,4220,vaccines, 4,167
+4,5,2393,oxygen_tanks, 8,165
+10,8,2231,visors, 4,164
+9,10,1655,ventilators, 8,178
+2,7,4380,diagnostics, 4,168
+5,1,1002,ppe, 5,160
+10,8,3781,visors, 2,169
+2,7,4748,diagnostics, 3,173
+10,8,1579,visors, 2,170
+1,6,4663,biologics, 3,160
+3,2,779,masks,20,168
+2,7,3330,diagnostics, 0,170
+9,10,1644,ventilators, 2,170
+3,2,4554,masks, 5,154
+7,9,3792,sanitizers, 4,187
+8,3,511,vaccines, 4,168
+6,4,4857,respirators, 3,162
+6,4,2760,respirators,15,176
+3,2,4563,masks,15,160
+7,9,1966,sanitizers, 2,165
+10,8,2543,visors, 5,158
+1,6,4750,biologics, 2,180
+9,10,1776,ventilators,10,175
+1,6,2517,biologics,18,164
+6,4,2597,respirators, 2,164
+10,8,4745,visors, 4,158
+4,5,4030,oxygen_tanks,15,168
+9,10,552,ventilators, 4,180
+1,6,3949,biologics, 0,163
+7,9,4309,sanitizers, 3,158
+2,7,1775,diagnostics,15,164
+4,5,2420,oxygen_tanks, 7,170
+7,9,3797,sanitizers,15,156
+1,6,2240,biologics, 2,170
+9,10,1955,ventilators,10,176
+9,10,2503,ventilators, 2,164
+8,3,3507,vaccines, 2,164
+2,7,1181,diagnostics, 2,180
+6,4,965,respirators,15,176
+6,4,1608,respirators,20,164
+2,7,3763,diagnostics, 2,162
+2,7,1079,diagnostics, 6,175
+4,5,3630,oxygen_tanks, 5,156
+1,6,4985,biologics, 8,170
+5,1,549,ppe, 5,155
+7,9,3565,sanitizers, 4,176
+9,10,4277,ventilators, 5,172
+8,3,1623,vaccines, 6,192
+10,8,4521,visors,10,187
+4,5,4188,oxygen_tanks, 3,156
+2,7,4849,diagnostics,10,160
+9,10,755,ventilators, 4,175
+1,6,3529,biologics,10,163
+5,1,3430,ppe, 2,168
+8,3,425,vaccines, 4,165
+10,8,4776,visors, 2,166
+1,6,354,biologics,10,150
+7,9,3975,sanitizers, 3,155
+4,5,1956,oxygen_tanks, 3,160
+6,4,832,respirators,10,176
+5,1,534,ppe,10,160
+4,5,2048,oxygen_tanks,20,169
+10,8,2434,visors, 8,177
+4,5,3298,oxygen_tanks, 3,165
+1,6,543,biologics, 8,158
+5,1,1094,ppe, 6,175
+2,7,4513,diagnostics,15,162
+3,2,1111,masks, 8,174
+9,10,320,ventilators, 3,167
+10,8,29,visors,50,184
+10,8,740,visors, 6,150
+8,3,3051,vaccines,10,168
+3,2,4503,masks, 2,176
+8,3,1238,vaccines,14,170
+4,5,1678,oxygen_tanks,10,158
+7,9,2310,sanitizers, 6,170
+8,3,1167,vaccines, 5,164
+1,6,3898,biologics, 5,164
+8,3,152,vaccines, 3,158
+8,3,4567,vaccines, 3,164
+7,9,3455,sanitizers,30,175
+8,3,1801,vaccines,10,165
+10,8,1765,visors, 4,172
+10,8,250,visors, 5,175
+2,7,2604,diagnostics, 0,162
+4,5,2578,oxygen_tanks,20,183
+9,10,3012,ventilators, 7,160
+2,7,3113,diagnostics, 1,177
+5,1,2712,ppe,10,183
+4,5,3164,oxygen_tanks, 6,158
+10,8,103,visors,12,175
+7,9,125,sanitizers, 3,164
+4,5,4722,oxygen_tanks, 3,166
+4,5,4852,oxygen_tanks, 2,160
+2,7,1271,diagnostics, 3,178
+3,2,3191,masks,20,180
+1,6,4892,biologics,10,185
+1,6,4580,biologics, 5,160
+4,5,1327,oxygen_tanks, 2,174
+2,7,1962,diagnostics, 2,189
+8,3,78,vaccines, 4,164
+5,1,1617,ppe, 4,164
+10,8,4404,visors, 6,167
+7,9,861,sanitizers, 3,161
+5,1,3889,ppe, 0,162
+6,4,573,respirators, 6,156
+2,7,1215,diagnostics,15,160
+4,5,221,oxygen_tanks,10,174
+2,7,3877,diagnostics, 2,152
+4,5,4633,oxygen_tanks, 4,170
+4,5,1146,oxygen_tanks, 0,176
+5,1,1097,ppe, 4,187
+5,1,183,ppe, 5,170
+8,3,3272,vaccines, 3,158
+3,2,942,masks, 7,165
+7,9,1584,sanitizers, 6,159
+6,4,4826,respirators, 6,160
+4,5,3544,oxygen_tanks,20,180
+8,3,3690,vaccines, 2,158
+6,4,3502,respirators, 4,168
+7,9,307,sanitizers,20,181
+8,3,4770,vaccines, 5,167
+10,8,664,visors, 0,154
+9,10,3683,ventilators, 8,152
+5,1,567,ppe, 6,167
+2,7,1170,diagnostics, 3,168
+6,4,1573,respirators, 6,156
+9,10,1867,ventilators, 2,170
+1,6,890,biologics, 5,165
+5,1,3030,ppe, 4,164
+9,10,1887,ventilators, 4,173
+9,10,3054,ventilators, 5,167
+4,5,4324,oxygen_tanks, 5,167
+2,7,2239,diagnostics,12,164
+3,2,363,masks,10,176
+5,1,1420,ppe,25,162
+2,7,902,diagnostics, 0,178
+9,10,4347,ventilators,10,182
+10,8,4426,visors,15,165
+8,3,4727,vaccines, 0,165
+7,9,2079,sanitizers,14,170
+3,2,986,masks,10,162
+2,7,2365,diagnostics, 6,165
+7,9,4181,sanitizers,12,160
+1,6,330,biologics, 1,166
+5,1,4971,ppe, 2,170
+10,8,2259,visors, 8,172
+7,9,3199,sanitizers, 2,160
+9,10,4385,ventilators, 3,160
+2,7,2097,diagnostics,10,170
+8,3,1385,vaccines, 5,168
+8,3,2698,vaccines, 4,165
+7,9,4856,sanitizers,10,170
+5,1,1491,ppe, 6,164
+5,1,2776,ppe,10,170
+6,4,263,respirators,10,155
+6,4,3616,respirators, 8,176
+8,3,4997,vaccines,15,176
+6,4,3259,respirators, 3,164
+8,3,4020,vaccines, 2,165
+4,5,1256,oxygen_tanks, 8,164
+2,7,1638,diagnostics, 3,160
+4,5,4515,oxygen_tanks, 3,165
+8,3,3937,vaccines, 4,178
+9,10,4655,ventilators, 5,153
+6,4,4831,respirators, 3,163
+9,10,4508,ventilators, 2,190
+5,1,3043,ppe, 2,164
+8,3,439,vaccines,20,162
+10,8,842,visors,10,170
+8,3,3636,vaccines,10,160
+4,5,4453,oxygen_tanks, 4,164
+1,6,4001,biologics, 4,164
+8,3,212,vaccines, 1,155
+9,10,3679,ventilators, 5,176
+4,5,3169,oxygen_tanks, 3,162
+5,1,2026,ppe, 1,168
+10,8,710,visors, 3,161
+9,10,2419,ventilators,10,187
+9,10,2126,ventilators, 3,162
+1,6,2115,biologics, 5,165
+5,1,4578,ppe,10,166
+6,4,568,respirators,10,172
+2,7,3740,diagnostics, 6,192
+8,3,4504,vaccines,18,182
+4,5,2526,oxygen_tanks, 4,172
+1,6,3865,biologics, 4,172
+7,9,4873,sanitizers, 7,162
+5,1,1945,ppe,10,173
+1,6,767,biologics, 3,180
+1,6,4032,biologics, 6,168
+3,2,4798,masks,20,179
+1,6,2340,biologics, 6,161
+6,4,1642,respirators, 6,176
+8,3,4133,vaccines, 2,156
+8,3,830,vaccines, 4,164
+6,4,1402,respirators, 8,164
+9,10,4519,ventilators, 6,155
+4,5,2327,oxygen_tanks, 6,167
+2,7,408,diagnostics,10,160
+6,4,2062,respirators, 0,158
+9,10,2295,ventilators, 5,150
+9,10,3171,ventilators, 1,166
+10,8,953,visors, 9,164
+10,8,3419,visors, 3,165
+9,10,2414,ventilators, 1,170
+3,2,4990,masks,10,164
+3,2,2209,masks, 1,170
+3,2,600,masks, 1,160
+3,2,146,masks,25,164
+5,1,187,ppe, 4,168
+7,9,2029,sanitizers, 5,186
+9,10,3541,ventilators, 1,158
+10,8,4957,visors, 0,160
+6,4,616,respirators,10,160
+1,6,3159,biologics,10,160
+10,8,3907,visors, 0,158
+5,1,4429,ppe,10,176
+5,1,863,ppe,40,164
+3,2,3811,masks, 2,164
+5,1,4543,ppe, 4,183
+6,4,1005,respirators,12,151
+9,10,4682,ventilators,10,196
+1,6,4514,biologics, 5,168
+4,5,1177,oxygen_tanks, 5,164
+10,8,3904,visors, 5,156
+10,8,4119,visors, 2,160
+8,3,4921,vaccines, 3,163
+2,7,1833,diagnostics,10,160
+6,4,3634,respirators, 6,176
+5,1,648,ppe, 2,178
+7,9,102,sanitizers, 5,175
+5,1,3311,ppe,10,162
+10,8,3063,visors, 2,166
+5,1,2044,ppe, 5,160
+6,4,2200,respirators, 1,167
+6,4,3071,respirators,10,180
+3,2,4953,masks, 5,168
+6,4,833,respirators, 4,170
+2,7,3607,diagnostics,10,170
+9,10,1944,ventilators, 3,167
+6,4,3908,respirators,10,170
+9,10,3213,ventilators, 2,166
+1,6,4430,biologics, 7,174
+8,3,1734,vaccines,10,163
+6,4,4477,respirators, 7,170
+4,5,54,oxygen_tanks, 2,180
+4,5,4802,oxygen_tanks,10,173
+10,8,3780,visors,10,176
+1,6,1601,biologics, 5,164
+2,7,4345,diagnostics,20,168
+1,6,3705,biologics, 2,164
+4,5,4991,oxygen_tanks,10,164
+3,2,1992,masks,10,161
+9,10,1399,ventilators, 2,178
+2,7,435,diagnostics,11,166
+10,8,529,visors,10,174
+3,2,3922,masks,10,158
+4,5,2990,oxygen_tanks, 0,160
+10,8,4108,visors, 5,164
+1,6,1886,biologics, 4,164
+4,5,2605,oxygen_tanks, 0,170
+6,4,4987,respirators, 3,164
+9,10,60,ventilators,20,170
+6,4,3606,respirators, 1,180
+8,3,1347,vaccines, 8,164
+9,10,2946,ventilators,23,164
+6,4,2906,respirators, 6,165
+7,9,1763,sanitizers,10,165
+4,5,3963,oxygen_tanks,53,186
+8,3,286,vaccines,20,164
+6,4,1424,respirators, 8,150
+10,8,4785,visors, 2,164
+2,7,1123,diagnostics, 3,168
+10,8,2357,visors,10,184
+7,9,2033,sanitizers, 7,176
+10,8,1042,visors,11,172
+9,10,4889,ventilators, 2,156
+2,7,651,diagnostics,10,165
+2,7,2819,diagnostics, 2,180
+9,10,2226,ventilators, 4,164
+10,8,1844,visors,15,187
+1,6,3266,biologics, 6,178
+3,2,4332,masks, 2,165
+5,1,2614,ppe, 2,160
+10,8,1410,visors, 4,168
+2,7,592,diagnostics, 0,155
+4,5,2045,oxygen_tanks, 2,160
+1,6,2162,biologics, 4,176
+6,4,4029,respirators,12,172
+3,2,3090,masks, 5,187
+6,4,843,respirators,10,176
+4,5,3540,oxygen_tanks,10,170
+7,9,2889,sanitizers,10,160
+5,1,4959,ppe,10,155
+6,4,604,respirators,40,175
+4,5,1839,oxygen_tanks,30,178
+9,10,3994,ventilators, 4,174
+6,4,1405,respirators,15,180
+3,2,3928,masks, 8,165
+7,9,3621,sanitizers, 3,167
+10,8,3332,visors, 5,168
+5,1,1406,ppe, 5,180
+5,1,2467,ppe, 2,156
+6,4,447,respirators, 0,174
+10,8,2272,visors,10,158
+10,8,2997,visors,20,170
+10,8,4305,visors, 4,168
+6,4,267,respirators, 0,175
+5,1,1179,ppe, 1,150
+5,1,3796,ppe, 6,152
+10,8,2828,visors, 2,150
+9,10,1832,ventilators, 4,170
+5,1,358,ppe, 2,160
+10,8,538,visors, 8,172
+4,5,3326,oxygen_tanks, 8,188
+1,6,1497,biologics, 4,184
+9,10,1701,ventilators, 1,156
+3,2,581,masks,15,174
+9,10,513,ventilators, 5,175
+4,5,3622,oxygen_tanks, 4,165
+2,7,230,diagnostics, 2,172
+5,1,4437,ppe, 0,158
+1,6,2067,biologics, 7,177
+10,8,4228,visors, 4,176
+5,1,4126,ppe, 3,160
+8,3,722,vaccines, 4,176
+1,6,4642,biologics, 4,173
+9,10,18,ventilators, 2,175
+2,7,3078,diagnostics,10,198
+6,4,781,respirators, 4,170
+10,8,3484,visors, 8,175
+2,7,4526,diagnostics, 6,170
+1,6,4292,biologics,10,170
+2,7,3961,diagnostics, 8,176
+5,1,923,ppe, 6,178
+10,8,2077,visors, 4,158
+2,7,4593,diagnostics, 4,165
+8,3,520,vaccines, 1,179
+6,4,3829,respirators, 2,178
+6,4,2253,respirators, 2,172
+7,9,4467,sanitizers,10,156
+4,5,1984,oxygen_tanks,10,170
+4,5,530,oxygen_tanks,10,170
+6,4,2504,respirators, 5,164
+8,3,3453,vaccines,10,162
+3,2,690,masks,10,160
+3,2,4454,masks, 5,175
+5,1,2810,ppe, 1,175
+6,4,164,respirators, 5,163
+3,2,42,masks,10,172
+1,6,3516,biologics, 5,176
+6,4,3454,respirators,20,160
+5,1,1556,ppe, 2,181
+5,1,3800,ppe,10,180
+1,6,3729,biologics, 2,165
+4,5,1441,oxygen_tanks, 2,165
+3,2,1756,masks,10,176
+3,2,1054,masks, 6,175
+3,2,4903,masks, 2,166
+9,10,3735,ventilators, 2,182
+9,10,2707,ventilators, 8,158
+1,6,1386,biologics, 2,158
+8,3,1400,vaccines,20,162
+2,7,2678,diagnostics, 2,164
+7,9,1661,sanitizers, 6,165
+2,7,585,diagnostics, 4,168
+7,9,4812,sanitizers,10,165
+1,6,2551,biologics, 0,186
+9,10,3486,ventilators,13,172
+4,5,4744,oxygen_tanks, 2,176
+9,10,3570,ventilators, 6,155
+10,8,2580,visors, 4,178
+10,8,2911,visors, 2,160
+2,7,970,diagnostics, 2,176
+5,1,2813,ppe, 6,158
+5,1,794,ppe, 2,180
+9,10,51,ventilators, 4,170
+8,3,1862,vaccines,10,176
+1,6,4884,biologics, 3,172
+8,3,2926,vaccines,10,152
+10,8,4614,visors,10,160
+1,6,2035,biologics,10,180
+1,6,143,biologics, 0,176
+6,4,3543,respirators, 5,164
+7,9,3905,sanitizers,10,182
+10,8,323,visors,23,175
+9,10,348,ventilators,10,165
+4,5,1712,oxygen_tanks, 0,160
+3,2,2827,masks, 8,186
+6,4,1382,respirators,10,156
+9,10,1413,ventilators, 2,161
+10,8,3745,visors, 2,178
+1,6,1820,biologics, 8,170
+10,8,4365,visors, 4,178
+7,9,1614,sanitizers, 2,158
+7,9,1873,sanitizers, 4,172
+9,10,2596,ventilators, 1,170
+6,4,5,respirators,10,168
+4,5,96,oxygen_tanks, 2,165
+7,9,77,sanitizers, 5,170
+5,1,2158,ppe, 3,164
+10,8,1067,visors,10,174
+3,2,2316,masks,14,178
+8,3,1967,vaccines,10,162
+3,2,4841,masks, 5,168
+6,4,2019,respirators, 6,185
+9,10,3244,ventilators, 2,170
+2,7,4668,diagnostics, 5,164
+5,1,3660,ppe, 2,174
+8,3,479,vaccines, 5,184
+7,9,1590,sanitizers, 6,171
+4,5,769,oxygen_tanks, 2,178
+1,6,4942,biologics, 5,168
+4,5,2717,oxygen_tanks, 5,170
+3,2,140,masks, 6,165
+4,5,3140,oxygen_tanks, 7,160
+3,2,3144,masks, 5,165
+6,4,4474,respirators, 2,180
+5,1,228,ppe,10,182
+3,2,4713,masks, 4,170
+7,9,4768,sanitizers,20,182
+8,3,4117,vaccines, 5,168
+8,3,309,vaccines,10,180
+10,8,4738,visors,10,173
+1,6,528,biologics, 8,178
+5,1,465,ppe, 5,160
+1,6,3598,biologics, 2,167
+10,8,2874,visors,10,187
+4,5,2379,oxygen_tanks,10,170
+5,1,1654,ppe,10,160
+10,8,660,visors, 4,164
+2,7,2023,diagnostics, 6,174
+4,5,1699,oxygen_tanks, 6,175
+9,10,3062,ventilators, 8,173
+5,1,3234,ppe, 8,187
+3,2,3232,masks, 4,170
+6,4,3873,respirators,20,165
+9,10,2769,ventilators,10,158
+9,10,2524,ventilators,10,180
+1,6,1297,biologics, 8,158
+6,4,109,respirators, 0,160
+9,10,4168,ventilators,20,164
+6,4,3691,respirators, 6,176
+5,1,1348,ppe, 5,180
+7,9,2201,sanitizers, 7,174
+8,3,1445,vaccines, 5,167
+1,6,839,biologics, 2,168
+7,9,1681,sanitizers, 0,167
+3,2,2528,masks,10,152
+9,10,3881,ventilators, 2,160
+10,8,2602,visors, 4,180
+2,7,760,diagnostics, 0,176
+2,7,356,diagnostics, 5,158
+9,10,2709,ventilators, 5,162
+8,3,1904,vaccines, 2,183
+6,4,2298,respirators,10,164
+3,2,226,masks,10,170
+8,3,3793,vaccines,10,172
+6,4,875,respirators, 4,160
+1,6,2909,biologics, 3,182
+4,5,3007,oxygen_tanks, 1,164
+5,1,46,ppe,12,170
+3,2,3725,masks, 2,149
+1,6,4929,biologics, 5,165
+3,2,632,masks, 0,158
+10,8,1645,visors,12,165
+2,7,2693,diagnostics,10,152
+3,2,440,masks,10,179
+3,2,2610,masks,15,163
+7,9,4112,sanitizers,10,158
+5,1,3124,ppe,10,189
+3,2,409,masks, 6,166
+3,2,55,masks,10,158
+5,1,3746,ppe, 2,168
+4,5,2498,oxygen_tanks,10,150
+1,6,2459,biologics, 5,182
+4,5,3146,oxygen_tanks, 2,175
+7,9,2750,sanitizers,20,175
+1,6,3201,biologics, 6,180
+8,3,2427,vaccines,20,170
+8,3,547,vaccines, 2,152
+7,9,4518,sanitizers,10,172
+4,5,3167,oxygen_tanks, 2,160
+5,1,3408,ppe, 6,180
+7,9,3328,sanitizers, 4,176
+6,4,3021,respirators,10,163
+6,4,980,respirators, 1,158
+9,10,3382,ventilators,15,176
+2,7,3815,diagnostics, 2,180
+1,6,2638,biologics, 5,155
+2,7,376,diagnostics,10,180
+9,10,871,ventilators, 5,175
+9,10,1915,ventilators, 4,160
+4,5,719,oxygen_tanks,22,158
+9,10,852,ventilators, 3,163
+6,4,2213,respirators, 5,182
+8,3,2609,vaccines,10,164
+3,2,676,masks,20,170
+2,7,4527,diagnostics,20,158
+6,4,1803,respirators,15,160
+1,6,4022,biologics,10,156
+5,1,3053,ppe, 5,161
+4,5,2312,oxygen_tanks, 3,194
+6,4,2454,respirators, 0,165
+7,9,1075,sanitizers, 4,162
+5,1,2127,ppe, 6,170
+4,5,1552,oxygen_tanks, 5,180
+7,9,2540,sanitizers,20,186
+4,5,4923,oxygen_tanks, 4,177
+1,6,1996,biologics, 2,168
+4,5,3836,oxygen_tanks, 2,172
+4,5,4063,oxygen_tanks, 1,176
+5,1,1502,ppe, 8,172
+7,9,758,sanitizers, 4,175
+8,3,2951,vaccines, 2,164
+5,1,1859,ppe, 1,173
+1,6,4654,biologics, 8,162
+7,9,4626,sanitizers, 1,170
+7,9,2338,sanitizers, 8,160
+6,4,1565,respirators, 4,158
+6,4,424,respirators,13,172
+7,9,1103,sanitizers,10,164
+5,1,496,ppe,20,185
+4,5,1253,oxygen_tanks,20,170
+7,9,1216,sanitizers, 5,160
+8,3,3688,vaccines, 6,178
+10,8,2781,visors, 6,165
+4,5,4818,oxygen_tanks, 4,165
+9,10,3285,ventilators, 6,168
+4,5,1444,oxygen_tanks, 4,170
+3,2,1578,masks,40,160
+8,3,2986,vaccines,30,164
+4,5,4676,oxygen_tanks,12,180
+7,9,2038,sanitizers,15,176
+8,3,200,vaccines, 6,170
+7,9,4969,sanitizers, 5,158
+7,9,4138,sanitizers, 2,169
+6,4,2221,respirators, 4,185
+3,2,4630,masks,20,181
+8,3,1230,vaccines, 6,180
+6,4,3855,respirators,30,164
+2,7,2223,diagnostics, 4,173
+7,9,1172,sanitizers, 3,160
+6,4,1397,respirators,11,183
+9,10,2349,ventilators, 4,160
+5,1,2948,ppe, 6,156
+6,4,622,respirators, 7,176
+5,1,4483,ppe, 6,175
+8,3,1476,vaccines, 4,174
+9,10,4814,ventilators, 4,178
+7,9,1817,sanitizers, 8,160
+7,9,4276,sanitizers, 6,117
+10,8,2573,visors, 5,171
+3,2,3871,masks, 5,167
+9,10,1567,ventilators, 3,161
+3,2,1630,masks, 2,165
+9,10,4615,ventilators,14,168
+5,1,4505,ppe, 3,160
+3,2,4585,masks, 0,160
+9,10,2857,ventilators,10,158
+10,8,744,visors, 4,163
+5,1,161,ppe, 6,150
+4,5,2430,oxygen_tanks,10,154
+1,6,1360,biologics, 6,162
+5,1,4368,ppe,20,172
+2,7,1269,diagnostics, 2,187
+2,7,1289,diagnostics, 3,170
+1,6,3204,biologics, 2,160
+4,5,4425,oxygen_tanks, 8,180
+5,1,4726,ppe,10,160
+2,7,3394,diagnostics,20,182
+1,6,906,biologics, 5,160
+2,7,278,diagnostics, 1,168
+2,7,2696,diagnostics, 4,176
+6,4,264,respirators,10,162
+1,6,3210,biologics, 4,170
+9,10,1354,ventilators, 3,170
+4,5,1540,oxygen_tanks, 4,171
+3,2,3206,masks, 6,182
+9,10,1031,ventilators,20,173
+2,7,4232,diagnostics, 5,172
+9,10,4773,ventilators, 6,164
+2,7,1848,diagnostics, 3,181
+5,1,1898,ppe, 5,176
+8,3,191,vaccines, 1,168
+10,8,2917,visors,15,160
+6,4,1195,respirators, 5,170
+5,1,1604,ppe, 3,172
+7,9,2531,sanitizers,10,171
+2,7,3403,diagnostics,20,165
+1,6,717,biologics, 2,160
+5,1,2307,ppe, 6,170
+2,7,973,diagnostics,10,158
+9,10,2734,ventilators, 5,160
+3,2,1329,masks, 8,168
+10,8,639,visors,10,160
+8,3,2964,vaccines, 0,164
+6,4,2317,respirators, 5,164
+7,9,4681,sanitizers, 4,167
+10,8,233,visors,20,176
+8,3,2435,vaccines, 1,172
+5,1,1484,ppe,10,175
+3,2,4566,masks, 4,160
+4,5,4915,oxygen_tanks,15,164
+5,1,2870,ppe,20,185
+6,4,2255,respirators,10,154
+2,7,2681,diagnostics,12,164
+1,6,2936,biologics, 2,172
+8,3,2270,vaccines, 5,160
+1,6,3352,biologics, 2,165
+10,8,4082,visors, 1,163
+3,2,4610,masks, 5,174
+3,2,1581,masks,20,172
+10,8,3649,visors, 2,178
+10,8,803,visors, 5,156
+4,5,4076,oxygen_tanks, 5,165
+1,6,1895,biologics, 1,168
+4,5,4254,oxygen_tanks, 5,175
+7,9,2796,sanitizers, 2,164
+9,10,775,ventilators,20,164
+2,7,1618,diagnostics,10,166
+2,7,2476,diagnostics, 2,164
+9,10,3970,ventilators, 2,170
+4,5,588,oxygen_tanks, 2,180
+7,9,1548,sanitizers,10,170
+1,6,2281,biologics, 6,168
+10,8,2380,visors, 4,160
+7,9,2305,sanitizers, 8,187
+10,8,3082,visors, 2,170
+8,3,1893,vaccines, 6,175
+2,7,726,diagnostics, 6,170
+1,6,11,biologics,10,178
+3,2,1024,masks, 8,161
+7,9,2644,sanitizers, 7,150
+7,9,1266,sanitizers,10,188
+3,2,3835,masks, 3,158
+9,10,2933,ventilators, 7,170
+2,7,2423,diagnostics,30,156
+3,2,981,masks, 0,156
+1,6,3193,biologics,15,164
+1,6,4559,biologics, 0,165
+3,2,1853,masks, 0,165
+1,6,3918,biologics, 2,160
+7,9,4302,sanitizers, 3,158
+3,2,3456,masks, 5,169
+7,9,645,sanitizers, 5,162
+10,8,2752,visors,30,156
+1,6,2183,biologics, 2,158
+10,8,2883,visors,12,165
+8,3,4973,vaccines, 4,176
+4,5,3924,oxygen_tanks, 6,190
+10,8,3366,visors, 1,160
+10,8,293,visors, 0,172
+7,9,4031,sanitizers,10,170
+2,7,686,diagnostics, 5,158
+3,2,3655,masks,10,154
+4,5,4638,oxygen_tanks, 8,170
+4,5,1305,oxygen_tanks,10,183
+3,2,394,masks, 3,164
+4,5,3273,oxygen_tanks, 1,160
+1,6,337,biologics, 2,168
+3,2,1571,masks, 4,184
+7,9,1389,sanitizers,20,180
+6,4,2118,respirators, 3,156
+3,2,3138,masks,11,158
+1,6,1738,biologics, 8,171
+3,2,1986,masks, 5,165
+7,9,3261,sanitizers,10,176
+7,9,4246,sanitizers, 5,176
+5,1,1377,ppe, 2,164
+3,2,791,masks,10,176
+6,4,922,respirators, 4,176
+3,2,798,masks,12,180
+10,8,3074,visors, 0,178
+9,10,2390,ventilators, 2,183
+4,5,1212,oxygen_tanks, 5,164
+4,5,1338,oxygen_tanks, 6,165
+1,6,3531,biologics, 8,175
+10,8,2336,visors, 5,170
+1,6,2639,biologics, 2,161
+7,9,2742,sanitizers, 3,170
+8,3,4880,vaccines, 0,154
+3,2,3452,masks, 0,160
+4,5,150,oxygen_tanks, 7,156
+7,9,3024,sanitizers, 5,180
+3,2,2566,masks,10,170
+8,3,2867,vaccines,10,164
+1,6,1085,biologics,10,176
+2,7,316,diagnostics, 3,158
+7,9,1038,sanitizers, 2,160
+10,8,4825,visors,12,174
+9,10,2493,ventilators, 3,169
+7,9,3091,sanitizers, 4,170
+8,3,2216,vaccines, 3,170
+7,9,3083,sanitizers,15,197
+10,8,1572,visors, 3,164
+2,7,3680,diagnostics, 5,170
+7,9,2521,sanitizers, 3,162
+4,5,2907,oxygen_tanks, 3,160
+9,10,3410,ventilators, 2,172
+8,3,2848,vaccines, 5,160
+5,1,1381,ppe, 3,160
+3,2,4080,masks,12,174
+7,9,1288,sanitizers,13,165
+5,1,4373,ppe, 1,170
+2,7,730,diagnostics, 7,156
+4,5,308,oxygen_tanks, 1,168
+4,5,2653,oxygen_tanks, 2,161
+8,3,1605,vaccines,20,150
+2,7,4522,diagnostics, 1,158
+9,10,540,ventilators, 4,171
+8,3,1274,vaccines, 3,162
+3,2,3070,masks, 3,162
+4,5,4830,oxygen_tanks, 3,158
+10,8,2248,visors, 6,177
+9,10,1706,ventilators, 2,180
+8,3,2018,vaccines,50,180
+4,5,2425,oxygen_tanks, 3,160
+1,6,3496,biologics, 4,160
+4,5,4926,oxygen_tanks,10,170
+10,8,2043,visors, 6,170
+1,6,3675,biologics, 2,150
+5,1,2522,ppe, 3,170
+5,1,4103,ppe, 6,161
+5,1,1981,ppe,10,158
+2,7,2192,diagnostics,26,158
+3,2,1923,masks, 8,164
+1,6,2898,biologics, 3,168
+1,6,3777,biologics, 2,169
+3,2,3902,masks,10,165
+9,10,3255,ventilators, 6,160
+1,6,3308,biologics,50,172
+3,2,1265,masks, 5,164
+7,9,280,sanitizers, 1,165
+2,7,203,diagnostics, 3,170
+8,3,3977,vaccines, 2,164
+2,7,1520,diagnostics, 6,176
+4,5,3088,oxygen_tanks, 2,150
+7,9,976,sanitizers, 4,180
+4,5,1037,oxygen_tanks, 7,162
+5,1,1769,ppe,10,184
+9,10,1311,ventilators, 5,173
+2,7,2153,diagnostics,50,170
+3,2,4550,masks,20,160
+4,5,4792,oxygen_tanks, 4,163
+1,6,1622,biologics, 3,168
+7,9,1448,sanitizers, 2,185
+10,8,2260,visors, 1,168
+2,7,52,diagnostics, 1,169
+5,1,1976,ppe,10,165
+5,1,4540,ppe,10,160
+8,3,3728,vaccines,20,175
+9,10,1724,ventilators,12,185
+2,7,3384,diagnostics, 5,181
+10,8,3967,visors,14,161
+3,2,677,masks, 4,166
+3,2,1658,masks, 4,168
+10,8,281,visors, 2,190
+3,2,461,masks, 8,180
+9,10,2973,ventilators, 4,186
+4,5,390,oxygen_tanks,10,172
+6,4,1061,respirators,11,169
+1,6,4556,biologics,99,160
+4,5,4501,oxygen_tanks, 4,170
+6,4,433,respirators, 2,160
+2,7,2665,diagnostics, 2,170
+4,5,3364,oxygen_tanks,10,182
+10,8,2341,visors, 6,164
+6,4,1296,respirators, 6,161
+1,6,3579,biologics,12,166
+1,6,4819,biologics, 4,180
+1,6,2683,biologics, 3,173
+1,6,4065,biologics,20,165
+3,2,3179,masks, 5,160
+6,4,428,respirators, 3,162
+2,7,2701,diagnostics, 8,180
+10,8,4371,visors, 2,159
+6,4,2367,respirators, 3,163
+8,3,4449,vaccines, 3,180
+1,6,3079,biologics,20,169
+3,2,4025,masks,10,170
+6,4,3438,respirators, 4,168
+2,7,4353,diagnostics, 3,180
+7,9,175,sanitizers, 4,170
+10,8,1030,visors, 1,160
+1,6,713,biologics, 2,164
+2,7,4714,diagnostics,10,165
+8,3,4691,vaccines, 4,169
+9,10,1842,ventilators, 3,194
+10,8,3512,visors, 2,170
+7,9,3987,sanitizers,20,155
+9,10,1082,ventilators,15,158
+10,8,4927,visors, 1,173
+9,10,382,ventilators, 1,158
+6,4,3286,respirators, 6,155
+2,7,2567,diagnostics, 3,175
+2,7,3979,diagnostics, 5,164
+1,6,4511,biologics, 1,172
+5,1,2745,ppe, 0,160
+4,5,2779,oxygen_tanks,15,157
+5,1,3861,ppe, 5,168
+10,8,4502,visors,15,165
+7,9,3737,sanitizers,12,185
+10,8,2006,visors, 3,168
+4,5,421,oxygen_tanks, 2,152
+8,3,2937,vaccines,12,166
+9,10,1232,ventilators, 3,172
+4,5,105,oxygen_tanks, 3,167
+10,8,3764,visors, 2,170
+4,5,2579,oxygen_tanks, 3,158
+8,3,3371,vaccines, 5,176
+6,4,1804,respirators, 2,158
+1,6,3333,biologics,20,173
+6,4,797,respirators, 4,168
+5,1,4423,ppe,10,184
+6,4,1016,respirators, 2,160
+4,5,816,oxygen_tanks, 0,170
+4,5,210,oxygen_tanks, 3,170
+1,6,3818,biologics,10,167
+9,10,2508,ventilators,10,189
+7,9,4737,sanitizers, 8,164
+6,4,819,respirators, 8,160
+6,4,2378,respirators,12,158
+6,4,653,respirators, 4,170
+10,8,3265,visors, 5,176
+4,5,967,oxygen_tanks,10,165
+9,10,3603,ventilators, 2,180
+1,6,1307,biologics, 5,180
+3,2,1951,masks, 4,164
+2,7,1512,diagnostics, 1,155
+5,1,933,ppe,20,168
+4,5,2117,oxygen_tanks, 4,164
+4,5,4696,oxygen_tanks,18,157
+4,5,886,oxygen_tanks, 5,170
+5,1,3423,ppe, 5,168
+8,3,2351,vaccines, 0,162
+1,6,3321,biologics,21,152
+7,9,4931,sanitizers, 2,170
+6,4,670,respirators,20,178
+8,3,2335,vaccines, 0,178
+10,8,2105,visors,10,166
+4,5,3842,oxygen_tanks,10,158
+3,2,3028,masks, 5,165
+1,6,2984,biologics, 4,157
+4,5,3309,oxygen_tanks,15,168
+7,9,4107,sanitizers, 4,163
+10,8,4224,visors, 2,160
+10,8,381,visors, 3,168
+3,2,2561,masks, 2,165
+4,5,276,oxygen_tanks,10,170
+3,2,202,masks,10,165
+2,7,4097,diagnostics, 6,160
+9,10,4609,ventilators, 3,165
+9,10,2300,ventilators,10,160
+10,8,795,visors,30,168
+10,8,3359,visors, 1,155
+6,4,4804,respirators, 5,179
+9,10,776,ventilators, 3,158
+2,7,3198,diagnostics,10,168
+9,10,4296,ventilators,10,174
+2,7,93,diagnostics,10,170
+3,2,4547,masks, 4,167
+6,4,4325,respirators,10,180
+2,7,1707,diagnostics, 5,182
+7,9,1807,sanitizers, 5,180
+1,6,4472,biologics,10,164
+10,8,149,visors, 6,195
+1,6,2453,biologics, 8,158
+1,6,1148,biologics, 4,162
+3,2,3700,masks, 2,178
+1,6,1672,biologics, 3,160
+9,10,3283,ventilators, 4,158
+5,1,2732,ppe, 8,175
+5,1,2252,ppe,30,181
+5,1,548,ppe, 1,160
+8,3,2720,vaccines, 6,165
+6,4,841,respirators, 3,167
+4,5,909,oxygen_tanks, 2,170
+10,8,4890,visors, 5,175
+7,9,3450,sanitizers,10,180
+7,9,3993,sanitizers, 6,194
+9,10,4500,ventilators, 3,155
+8,3,3523,vaccines, 6,174
+3,2,3471,masks,12,182
+1,6,2114,biologics, 6,158
+7,9,1562,sanitizers,10,176
+1,6,3340,biologics, 3,160
+2,7,34,diagnostics, 4,167
+6,4,3485,respirators, 5,168
+8,3,4339,vaccines, 2,185
+5,1,3014,ppe, 6,185
+4,5,466,oxygen_tanks,10,162
+4,5,91,oxygen_tanks,10,186
+3,2,2598,masks, 1,170
+5,1,4968,ppe,15,156
+4,5,1533,oxygen_tanks, 1,164
+5,1,934,ppe, 3,163
+8,3,2910,vaccines, 4,170
+2,7,3834,diagnostics, 5,175
+5,1,1000,ppe, 8,157
+9,10,3274,ventilators, 2,181
+10,8,3466,visors, 1,160
+5,1,4186,ppe, 2,156
+8,3,4734,vaccines, 5,168
+6,4,1692,respirators,30,160
+8,3,2584,vaccines, 2,158
+1,6,3779,biologics,30,165
+7,9,2824,sanitizers, 5,166
+10,8,4492,visors, 5,162
+4,5,2314,oxygen_tanks, 3,155
+2,7,553,diagnostics, 3,165
+4,5,2770,oxygen_tanks, 6,175
+7,9,2587,sanitizers, 2,171
+8,3,1587,vaccines, 0,164
+8,3,4950,vaccines,10,176
+4,5,504,oxygen_tanks, 4,175
+9,10,4845,ventilators, 8,172
+9,10,892,ventilators, 6,160
+8,3,3590,vaccines, 4,154
+3,2,2764,masks, 5,165
+6,4,2108,respirators,25,158
+4,5,4272,oxygen_tanks, 2,178
+10,8,123,visors, 2,169
+3,2,3734,masks, 4,163
+10,8,3057,visors,10,174
+5,1,1166,ppe, 2,164
+10,8,2873,visors, 4,160
+9,10,2603,ventilators, 5,170
+10,8,344,visors,10,172
+9,10,771,ventilators, 3,170
+5,1,4749,ppe,10,187
+1,6,1928,biologics, 4,168
+10,8,4582,visors,10,179
+8,3,2627,vaccines, 5,176
+10,8,3591,visors, 6,154
+8,3,3929,vaccines,10,176
+7,9,2437,sanitizers, 4,170
+8,3,3172,vaccines, 1,164
+4,5,2143,oxygen_tanks,15,175
+4,5,3686,oxygen_tanks, 9,150
+9,10,57,ventilators, 5,184
+8,3,1188,vaccines, 8,173
+4,5,4465,oxygen_tanks, 5,153
+5,1,2924,ppe,14,175
+2,7,2426,diagnostics,15,164
+2,7,4088,diagnostics, 4,160
+6,4,63,respirators, 6,176
+8,3,3813,vaccines, 2,168
+5,1,1106,ppe, 2,168
+10,8,594,visors, 3,160
+2,7,4369,diagnostics,10,166
+10,8,3418,visors,10,165
+7,9,4761,sanitizers,15,176
+10,8,916,visors, 5,158
+5,1,3488,ppe, 8,170
+4,5,2144,oxygen_tanks, 5,170
+6,4,3827,respirators, 4,158
+1,6,3580,biologics, 3,174
+4,5,2106,oxygen_tanks, 5,165
+6,4,2646,respirators, 7,165
+8,3,3839,vaccines, 5,164
+5,1,4623,ppe, 3,172
+7,9,3692,sanitizers, 3,169
+5,1,2612,ppe,20,155
+3,2,2520,masks,99,170
+10,8,1670,visors, 4,164
+9,10,1122,ventilators,20,174
+5,1,4384,ppe,10,168
+3,2,3901,masks, 5,176
+1,6,3569,biologics,10,176
+1,6,3095,biologics, 5,175
+9,10,3939,ventilators,20,158
+6,4,2953,respirators, 3,170
+4,5,3893,oxygen_tanks, 5,170
+9,10,4958,ventilators, 6,171
+8,3,1635,vaccines, 1,174
+4,5,1673,oxygen_tanks, 4,170
+8,3,572,vaccines, 2,169
+9,10,4139,ventilators, 1,170
+5,1,3635,ppe,10,165
+4,5,1153,oxygen_tanks, 4,176
+5,1,3318,ppe,20,182
+3,2,637,masks, 5,170
+3,2,1933,masks,10,160
+8,3,2784,vaccines, 3,158
+10,8,1009,visors, 5,164
+10,8,3504,visors, 3,177
+5,1,4015,ppe,20,186
+1,6,1277,biologics,20,160
+4,5,4600,oxygen_tanks,10,175
+9,10,1558,ventilators, 5,154
+10,8,4074,visors,10,166
+1,6,4796,biologics,10,153
+3,2,2702,masks, 1,166
+2,7,3196,diagnostics,30,163
+6,4,1826,respirators, 5,172
+5,1,3383,ppe,10,164
+8,3,1392,vaccines, 5,173
+5,1,1806,ppe, 0,158
+9,10,4167,ventilators, 8,202
+6,4,4165,respirators,10,165
+8,3,3067,vaccines, 1,154
+1,6,829,biologics,20,160
+6,4,2210,respirators,30,178
+2,7,2491,diagnostics, 9,165
+9,10,2790,ventilators,20,174
+8,3,1417,vaccines, 6,160
+4,5,4351,oxygen_tanks, 4,160
+3,2,780,masks, 2,163
+9,10,3521,ventilators, 2,164
+9,10,2908,ventilators, 2,153
+5,1,4287,ppe, 1,178
+7,9,4083,sanitizers,10,174
+9,10,3205,ventilators, 3,182
+7,9,3195,sanitizers, 0,178
+2,7,4756,diagnostics, 5,163
+3,2,4018,masks,10,164
+2,7,805,diagnostics, 0,156
+9,10,3093,ventilators, 2,171
+1,6,845,biologics, 4,176
+2,7,1056,diagnostics, 5,158
+5,1,4702,ppe, 3,168
+10,8,2152,visors, 6,176
+8,3,300,vaccines, 8,170
+9,10,1711,ventilators, 2,175
+8,3,3968,vaccines, 8,160
+9,10,4568,ventilators, 3,160
+10,8,1390,visors,11,180
+5,1,419,ppe, 6,164
+10,8,373,visors, 7,170
+2,7,4895,diagnostics, 5,170
+6,4,4922,respirators, 5,180
+10,8,4553,visors, 2,165
+2,7,4229,diagnostics, 4,158
+3,2,1227,masks, 4,168
+2,7,489,diagnostics,10,194
+8,3,349,vaccines, 2,169
+3,2,2688,masks, 2,188
+6,4,2344,respirators, 2,162
+5,1,4218,ppe, 4,162
+2,7,2714,diagnostics,10,173
+2,7,2655,diagnostics,10,180
+2,7,4058,diagnostics, 5,185
+7,9,3547,sanitizers, 1,165
+3,2,2691,masks, 1,172
+7,9,3451,sanitizers, 3,160
+4,5,430,oxygen_tanks, 8,157
+6,4,353,respirators,10,180
+10,8,4283,visors,10,180
+9,10,347,ventilators,17,158
+9,10,3989,ventilators, 8,170
+6,4,2620,respirators, 6,158
+4,5,2630,oxygen_tanks, 3,156
+5,1,756,ppe, 5,150
+1,6,155,biologics, 5,158
+4,5,3307,oxygen_tanks, 3,178
+10,8,4716,visors, 5,165
+6,4,3223,respirators, 4,180
+2,7,2634,diagnostics, 8,172
+10,8,1364,visors, 3,169
+8,3,3810,vaccines,10,170
+2,7,2700,diagnostics, 2,172
+6,4,2431,respirators, 3,162
+2,7,2229,diagnostics, 4,119
+3,2,171,masks, 2,170
+5,1,4027,ppe,15,164
+3,2,1446,masks,20,190
+5,1,2893,ppe, 3,164
+7,9,79,sanitizers, 6,172
+3,2,4026,masks, 5,170
+5,1,2737,ppe, 3,177
+9,10,1011,ventilators, 3,173
+4,5,2537,oxygen_tanks, 3,188
+1,6,2337,biologics, 8,186
+3,2,589,masks, 3,175
+9,10,2877,ventilators, 4,184
+7,9,4096,sanitizers, 2,152
+9,10,4003,ventilators, 6,166
+2,7,3828,diagnostics, 2,185
+6,4,3522,respirators,10,170
+9,10,163,ventilators, 3,162
+9,10,2063,ventilators, 3,150
+8,3,3551,vaccines, 5,150
+8,3,4916,vaccines, 2,160
+5,1,1330,ppe, 3,178
+8,3,696,vaccines, 2,165
+10,8,2668,visors,15,171
+6,4,4134,respirators, 2,180
+5,1,4285,ppe, 4,166
+1,6,2328,biologics, 2,167
+4,5,1651,oxygen_tanks, 1,173
+9,10,2500,ventilators,12,154
+9,10,4338,ventilators, 7,156
+4,5,392,oxygen_tanks,12,175
+6,4,2892,respirators, 5,174
+2,7,913,diagnostics, 3,170
+10,8,2950,visors,15,179
+6,4,4998,respirators, 4,180
+3,2,2703,masks, 2,160
+1,6,3578,biologics, 4,174
+2,7,566,diagnostics,10,170
+4,5,880,oxygen_tanks,10,164
+4,5,3992,oxygen_tanks, 4,180
+8,3,1409,vaccines, 6,165
+10,8,641,visors, 3,178
+8,3,3464,vaccines,10,164
+4,5,4067,oxygen_tanks,10,164
+8,3,835,vaccines, 1,170
+2,7,4933,diagnostics,10,152
+4,5,4815,oxygen_tanks, 1,191
+9,10,3768,ventilators, 0,167
+2,7,4217,diagnostics, 5,180
+2,7,3212,diagnostics, 0,167
+9,10,1538,ventilators, 6,184
+8,3,4111,vaccines,16,167
+5,1,580,ppe, 2,160
+3,2,4850,masks, 1,172
+10,8,3948,visors, 0,170
+9,10,4443,ventilators, 1,175
+6,4,1176,respirators, 3,158
+2,7,1675,diagnostics, 2,165
+7,9,3514,sanitizers, 4,172
+7,9,3110,sanitizers, 3,176
+8,3,2382,vaccines,12,170
+2,7,3295,diagnostics, 6,177
+7,9,1261,sanitizers, 8,158
+10,8,1294,visors, 4,174
+8,3,4829,vaccines, 3,170
+9,10,3980,ventilators, 4,170
+2,7,4772,diagnostics, 4,172
+9,10,3385,ventilators, 3,177
+1,6,2450,biologics, 1,168
+3,2,4807,masks, 2,165
+8,3,982,vaccines, 2,162
+5,1,3131,ppe,10,168
+10,8,2323,visors, 6,158
+2,7,2407,diagnostics, 6,180
+9,10,3517,ventilators, 6,175
+5,1,3869,ppe, 2,164
+5,1,4801,ppe,10,185
+7,9,2799,sanitizers,10,155
+6,4,4838,respirators,30,170
+7,9,817,sanitizers, 2,185
+7,9,542,sanitizers,27,170
+7,9,4893,sanitizers, 3,168
+1,6,1773,biologics, 2,165
+1,6,4708,biologics, 1,164
+8,3,2885,vaccines, 6,163
+4,5,4758,oxygen_tanks, 2,184
+7,9,4202,sanitizers, 6,165
+9,10,412,ventilators, 0,160
+5,1,2002,ppe, 6,174
+6,4,655,respirators, 4,194
+3,2,4783,masks, 5,175
+7,9,4086,sanitizers,15,176
+4,5,1272,oxygen_tanks,13,165
+10,8,1248,visors, 1,167
+6,4,1785,respirators,12,168
+9,10,426,ventilators,10,165
+9,10,247,ventilators, 1,164
+5,1,4349,ppe,10,175
+1,6,1219,biologics, 3,174
+2,7,500,diagnostics,10,180
+6,4,3294,respirators,15,178
+6,4,4541,respirators, 4,175
+3,2,667,masks, 2,165
+7,9,1766,sanitizers, 5,167
+6,4,2304,respirators,13,174
+8,3,2751,vaccines, 4,164
+3,2,3624,masks,15,170
+10,8,3983,visors, 2,187
+3,2,4179,masks, 5,172
+9,10,793,ventilators,20,175
+10,8,2391,visors, 5,164
+10,8,2319,visors, 8,174
+10,8,2191,visors, 2,174
+10,8,993,visors, 1,175
+6,4,1126,respirators, 6,160
+1,6,1974,biologics, 2,168
+8,3,2618,vaccines, 4,176
+5,1,3381,ppe,20,174
+8,3,3668,vaccines, 1,182
+3,2,4064,masks, 5,170
+2,7,1709,diagnostics, 4,152
+3,2,3158,masks,12,164
+10,8,1704,visors, 2,165
+9,10,3049,ventilators, 6,170
+2,7,298,diagnostics,11,162
+2,7,3726,diagnostics, 4,158
+8,3,3211,vaccines,10,164
+6,4,4466,respirators, 2,170
+8,3,1969,vaccines, 5,150
+2,7,3532,diagnostics, 5,162
+2,7,2061,diagnostics,10,186
+9,10,1340,ventilators, 7,160
+9,10,2797,ventilators, 0,180
+8,3,1695,vaccines, 2,156
+1,6,3108,biologics, 2,160
+5,1,2553,ppe, 3,178
+3,2,4237,masks, 7,182
+2,7,3916,diagnostics, 2,175
+5,1,2334,ppe,12,172
+10,8,3249,visors,12,164
+9,10,2955,ventilators, 7,173
+1,6,834,biologics, 2,176
+1,6,2881,biologics,20,160
+1,6,1072,biologics,10,165
+2,7,106,diagnostics, 5,164
+10,8,4839,visors,10,164
+4,5,3915,oxygen_tanks, 0,170
+6,4,3056,respirators, 5,165
+7,9,4658,sanitizers, 8,184
+10,8,3858,visors,20,156
+3,2,4359,masks,10,176
+10,8,509,visors, 5,162
+1,6,4473,biologics,99,175
+8,3,1682,vaccines, 4,162
+10,8,3508,visors, 2,174
+8,3,654,vaccines,10,183
+2,7,614,diagnostics, 2,158
+4,5,4964,oxygen_tanks, 5,175
+10,8,1323,visors, 4,156
+2,7,3537,diagnostics,20,176
+8,3,4079,vaccines, 6,164
+6,4,2058,respirators, 5,164
+1,6,4059,biologics, 2,180
+3,2,3575,masks, 3,165
+2,7,4755,diagnostics, 5,157
+7,9,4551,sanitizers, 5,170
+5,1,4806,ppe, 4,179
+8,3,2772,vaccines, 9,164
+3,2,3116,masks, 1,160
+10,8,1821,visors, 2,164
+2,7,36,diagnostics, 4,180
+7,9,2362,sanitizers, 8,154
+7,9,1641,sanitizers, 5,178
+9,10,3875,ventilators,10,168
+5,1,4607,ppe, 6,188
+6,4,2141,respirators, 6,174
+1,6,2279,biologics, 5,182
+9,10,2539,ventilators,25,196
+5,1,2718,ppe, 5,180
+4,5,237,oxygen_tanks, 2,184
+5,1,4995,ppe, 3,165
+10,8,691,visors, 5,164
+8,3,4975,vaccines, 3,165
+6,4,4981,respirators, 8,165
+6,4,2496,respirators, 4,164
+6,4,1693,respirators, 0,161
+1,6,4321,biologics,20,170
+4,5,991,oxygen_tanks, 5,162
+5,1,319,ppe,10,174
+10,8,3306,visors, 7,146
+4,5,3900,oxygen_tanks, 6,180
+9,10,1978,ventilators, 2,176
+8,3,3887,vaccines, 5,174
+7,9,4400,sanitizers, 5,170
+2,7,4273,diagnostics, 6,157
+7,9,2271,sanitizers, 2,143
+9,10,4142,ventilators, 3,162
+2,7,3562,diagnostics, 3,167
+4,5,4013,oxygen_tanks,10,160
+1,6,666,biologics, 5,161
+9,10,1522,ventilators, 3,164
+9,10,1492,ventilators,10,164
+5,1,1425,ppe, 2,155
+1,6,3767,biologics, 2,150
+7,9,562,sanitizers, 5,165
+1,6,3535,biologics, 6,180
+5,1,3519,ppe,10,195
+1,6,3230,biologics,20,173
+7,9,2601,sanitizers,10,163
+6,4,3923,respirators, 5,170
+9,10,193,ventilators, 6,185
+3,2,3120,masks,10,170
+9,10,2324,ventilators,30,185
+1,6,3342,biologics, 2,162
+6,4,4788,respirators,10,178
+1,6,74,biologics, 2,161
+3,2,3608,masks,15,165
+1,6,692,biologics, 3,168
+4,5,4855,oxygen_tanks, 4,174
+9,10,4014,ventilators, 4,164
+7,9,4004,sanitizers, 3,163
+5,1,3399,ppe, 1,170
+2,7,2189,diagnostics, 2,186
+8,3,796,vaccines,12,186
+10,8,782,visors, 2,158
+3,2,603,masks,10,171
+8,3,2572,vaccines, 9,153
+10,8,4870,visors, 5,165
+2,7,2730,diagnostics, 4,181
+8,3,1465,vaccines, 3,178
+8,3,2805,vaccines, 5,195
+6,4,3248,respirators,12,162
+9,10,3947,ventilators,12,152
+7,9,652,sanitizers, 6,185
+10,8,2599,visors, 4,166
+1,6,2439,biologics,29,176
+5,1,4128,ppe, 7,164
+3,2,4679,masks, 5,168
+2,7,53,diagnostics, 6,176
+2,7,4525,diagnostics, 1,156
+7,9,2220,sanitizers, 2,158
+1,6,575,biologics,17,165
+8,3,777,vaccines, 8,172
+2,7,3754,diagnostics, 2,168
+4,5,3202,oxygen_tanks, 4,158
+6,4,1487,respirators, 7,165
+4,5,1221,oxygen_tanks,10,160
+10,8,4523,visors,30,158
+10,8,1666,visors, 6,176
+9,10,65,ventilators,10,170
+4,5,4757,oxygen_tanks, 2,160
+8,3,1048,vaccines, 2,167
+5,1,2600,ppe, 5,165
+6,4,4268,respirators, 5,160
+3,2,3803,masks, 3,164
+2,7,4457,diagnostics, 9,182
+9,10,2186,ventilators, 3,166
+10,8,1246,visors, 3,168
+4,5,1808,oxygen_tanks, 4,155
+1,6,2187,biologics,12,165
+1,6,2731,biologics, 2,175
+4,5,4223,oxygen_tanks, 6,163
+8,3,3890,vaccines, 3,150
+5,1,14,ppe, 2,174
+10,8,4996,visors,20,182
+9,10,1871,ventilators, 4,162
+4,5,4104,oxygen_tanks, 6,168
+10,8,3018,visors, 3,164
+2,7,2519,diagnostics, 1,175
+4,5,3641,oxygen_tanks, 2,180
+10,8,4781,visors, 3,178
+9,10,1489,ventilators, 5,180
+5,1,4777,ppe, 1,159
+10,8,2836,visors,15,162
+7,9,2807,sanitizers, 2,166
+7,9,209,sanitizers, 5,168
+1,6,3942,biologics, 8,192
+3,2,2469,masks,12,169
+7,9,3228,sanitizers, 4,164
+6,4,1135,respirators,30,176
+5,1,1665,ppe,15,186
+7,9,3434,sanitizers,10,185
+3,2,2254,masks, 4,175
+2,7,763,diagnostics, 0,176
+3,2,4270,masks, 4,190
+9,10,306,ventilators, 6,166
+8,3,1421,vaccines, 3,156
+3,2,3187,masks, 6,170
+10,8,533,visors,10,167
+1,6,2995,biologics, 2,164
+8,3,1008,vaccines, 8,159
+4,5,25,oxygen_tanks,10,173
+2,7,3343,diagnostics, 2,172
+5,1,377,ppe, 6,165
+7,9,2987,sanitizers, 0,158
+4,5,2429,oxygen_tanks, 3,168
+6,4,4618,respirators, 1,158
+9,10,595,ventilators, 3,163
+9,10,1615,ventilators, 2,156
+6,4,3714,respirators, 0,165
+8,3,188,vaccines,10,179
+3,2,1612,masks, 7,164
+7,9,472,sanitizers, 2,173
+3,2,827,masks,10,180
+7,9,3240,sanitizers, 5,179
+10,8,3401,visors, 8,174
+8,3,1074,vaccines, 2,166
+6,4,3483,respirators, 5,180
+4,5,3254,oxygen_tanks, 4,162
+5,1,3338,ppe, 8,162
+3,2,4304,masks, 3,160
+2,7,2738,diagnostics,28,182
+10,8,1154,visors, 3,176
+9,10,3142,ventilators,20,181
+8,3,2697,vaccines,10,176
+7,9,2624,sanitizers, 4,174
+4,5,2096,oxygen_tanks, 4,170
+5,1,451,ppe,10,168
+7,9,2671,sanitizers, 2,158
+7,9,4624,sanitizers, 1,180
+8,3,1201,vaccines, 5,165
+3,2,1034,masks,10,163
+2,7,3666,diagnostics,10,167
+1,6,4596,biologics, 5,159
+6,4,4941,respirators,30,170
+3,2,958,masks,20,164
+5,1,1916,ppe, 1,160
+8,3,768,vaccines, 5,175
+1,6,4700,biologics,20,166
+1,6,2628,biologics,10,187
+6,4,2088,respirators, 5,178
+9,10,3883,ventilators, 7,160
+9,10,2462,ventilators,10,169
+2,7,3422,diagnostics,15,158
+9,10,2516,ventilators, 6,172
+5,1,2748,ppe, 5,182
+5,1,136,ppe, 5,164
+4,5,1510,oxygen_tanks, 6,184
+7,9,3137,sanitizers, 3,180
+3,2,260,masks,10,160
+2,7,4481,diagnostics, 4,161
+2,7,3938,diagnostics, 3,155
+3,2,262,masks, 1,164
+9,10,2241,ventilators,10,170
+7,9,932,sanitizers, 0,155
+8,3,4805,vaccines, 4,182
+2,7,2649,diagnostics, 3,178
+5,1,4060,ppe,20,170
+10,8,1073,visors,10,188
+4,5,1203,oxygen_tanks, 5,190
+5,1,4390,ppe, 0,150
+10,8,2287,visors, 9,164
+6,4,3772,respirators,10,186
+4,5,700,oxygen_tanks,25,169
+2,7,671,diagnostics,10,174
+2,7,2474,diagnostics, 3,164
+1,6,4314,biologics,20,184
+10,8,442,visors,15,175
+10,8,4439,visors, 4,182
+4,5,4216,oxygen_tanks, 5,179
+1,6,613,biologics, 6,180
+9,10,3345,ventilators,10,158
+4,5,3659,oxygen_tanks,10,196
+1,6,3481,biologics, 0,167
+1,6,3470,biologics, 6,163
+3,2,4346,masks, 9,172
+4,5,3527,oxygen_tanks, 6,178
+2,7,4323,diagnostics, 5,160
+3,2,2075,masks, 4,164
+9,10,3524,ventilators,15,172
+8,3,4382,vaccines, 3,162
+1,6,950,biologics, 6,154
+7,9,1731,sanitizers,10,180
+3,2,215,masks, 1,166
+10,8,2585,visors, 2,164
+9,10,1733,ventilators,80,170
+5,1,3243,ppe, 2,172
+1,6,620,biologics, 6,170
+8,3,1536,vaccines, 8,165
+9,10,3866,ventilators, 4,167
+5,1,2194,ppe, 2,162
+10,8,2975,visors, 3,164
+4,5,3271,oxygen_tanks, 2,180
+3,2,1789,masks, 5,164
+1,6,2085,biologics, 6,153
+9,10,4396,ventilators,10,168
+4,5,747,oxygen_tanks, 5,170
+4,5,2011,oxygen_tanks, 0,165
+5,1,302,ppe,99,176
+7,9,1990,sanitizers, 5,165
+2,7,4584,diagnostics, 5,178
+5,1,3162,ppe, 6,172
+5,1,3943,ppe, 8,155
+1,6,1531,biologics,24,165
+10,8,3029,visors, 2,158
+1,6,1935,biologics, 4,178
+1,6,284,biologics, 6,170
+2,7,1508,diagnostics, 4,178
+9,10,329,ventilators, 0,176
+8,3,2674,vaccines,15,168
+4,5,3216,oxygen_tanks, 0,165
+3,2,49,masks, 3,159
+6,4,3250,respirators, 3,171
+5,1,1537,ppe, 2,168
+8,3,4752,vaccines, 5,164
+9,10,2318,ventilators, 2,168
+5,1,2354,ppe,50,175
+7,9,3312,sanitizers, 7,167
+2,7,3368,diagnostics, 8,165
+3,2,346,masks, 2,159
+2,7,737,diagnostics,15,185
+3,2,732,masks,11,185
+5,1,1845,ppe, 7,165
+9,10,2792,ventilators,20,166
+4,5,3973,oxygen_tanks, 6,173
+7,9,2175,sanitizers,15,177
+7,9,1351,sanitizers, 3,160
+9,10,365,ventilators, 6,180
+8,3,1430,vaccines, 5,175
+7,9,2034,sanitizers, 5,180
+10,8,2109,visors,10,175
+5,1,4170,ppe,10,186
+7,9,778,sanitizers, 1,158
+4,5,1507,oxygen_tanks,20,158
+2,7,3946,diagnostics, 5,172
+2,7,4498,diagnostics, 0,158
+5,1,4102,ppe, 1,176
+2,7,271,diagnostics, 5,160
+6,4,4701,respirators,10,165
+6,4,2400,respirators,11,181
+4,5,3058,oxygen_tanks, 2,158
+9,10,2198,ventilators, 1,163
+2,7,4686,diagnostics,15,160
+7,9,4402,sanitizers, 5,175
+2,7,4009,diagnostics, 3,152
+4,5,3661,oxygen_tanks, 5,172
+4,5,4330,oxygen_tanks, 2,172
+6,4,4109,respirators, 2,176
+6,4,2412,respirators, 3,142
+1,6,1757,biologics, 2,158
+10,8,1959,visors,10,165
+2,7,2843,diagnostics, 7,176
+10,8,1197,visors, 2,165
+3,2,3115,masks, 3,180
+7,9,4329,sanitizers, 6,178
+10,8,86,visors, 3,161
+10,8,4311,visors, 1,160
+4,5,2713,oxygen_tanks, 5,163
+2,7,525,diagnostics,10,176
+5,1,1824,ppe,10,182
+6,4,1254,respirators,10,160
+10,8,4919,visors, 4,165
+3,2,4401,masks, 8,190
+1,6,4130,biologics, 4,170
+6,4,4397,respirators, 7,172
+1,6,82,biologics, 3,178
+3,2,1336,masks, 3,179
+3,2,254,masks,10,178
+10,8,4264,visors,10,176
+4,5,1822,oxygen_tanks,10,176
+1,6,3241,biologics, 3,175
+7,9,4917,sanitizers,15,164
+6,4,1324,respirators, 2,160
+8,3,4617,vaccines, 4,170
+4,5,398,oxygen_tanks,10,178
+3,2,4810,masks,15,179
+5,1,1569,ppe, 3,170
+4,5,4062,oxygen_tanks, 7,168
+6,4,1070,respirators, 4,176
+6,4,522,respirators, 5,170
+5,1,926,ppe, 5,170
+8,3,3064,vaccines,10,170
+3,2,2991,masks, 5,182
+7,9,1979,sanitizers,10,176
+8,3,2829,vaccines, 5,190
+6,4,4072,respirators,20,162
+8,3,2168,vaccines, 7,160
+3,2,4151,masks, 3,162
+2,7,4275,diagnostics, 5,183
+4,5,117,oxygen_tanks, 4,168
+10,8,2342,visors, 4,165
+9,10,3657,ventilators, 3,157
+5,1,2326,ppe,20,174
+8,3,2134,vaccines,25,167
+3,2,2658,masks, 8,182
+8,3,4148,vaccines, 5,168
+6,4,4433,respirators,10,176
+6,4,4984,respirators,10,184
+5,1,1648,ppe, 1,164
+1,6,4795,biologics, 1,173
+2,7,3785,diagnostics, 3,160
+3,2,3497,masks, 3,167
+4,5,2070,oxygen_tanks,20,170
+3,2,1519,masks,10,160
+9,10,1728,ventilators, 2,168
+7,9,770,sanitizers, 4,178
+4,5,1703,oxygen_tanks, 4,156
+5,1,2864,ppe, 3,165
+8,3,4659,vaccines,20,167
+2,7,4871,diagnostics,10,176
+2,7,800,diagnostics, 5,155
+7,9,1023,sanitizers, 1,170
+4,5,2865,oxygen_tanks, 7,175
+3,2,4534,masks, 4,154
+8,3,1626,vaccines, 1,164
+3,2,2306,masks,12,182
+2,7,634,diagnostics, 0,166
+10,8,2172,visors,10,180
+7,9,4506,sanitizers, 6,170
+7,9,12,sanitizers, 5,170
+10,8,3069,visors,10,164
+2,7,4024,diagnostics, 6,170
+6,4,3571,respirators, 8,174
+10,8,3117,visors, 7,176
+1,6,2869,biologics, 3,150
+1,6,1894,biologics,10,170
+8,3,181,vaccines,10,160
+8,3,4832,vaccines, 8,183
+2,7,434,diagnostics,10,158
+9,10,1159,ventilators, 2,168
+6,4,4647,respirators, 4,167
+2,7,1746,diagnostics, 6,162
+1,6,4735,biologics, 2,175
+10,8,2478,visors, 2,180
+10,8,3643,visors,20,186
+8,3,3353,vaccines, 5,161
+7,9,3859,sanitizers,12,185
+10,8,1130,visors, 3,163
+7,9,475,sanitizers, 5,170
+2,7,3964,diagnostics, 5,154
+6,4,1363,respirators,10,164
+9,10,3156,ventilators, 5,158
+6,4,765,respirators, 8,176
+8,3,1942,vaccines, 6,178
+8,3,3669,vaccines, 0,163
+1,6,4791,biologics, 5,170
+1,6,3122,biologics, 1,174
+10,8,3716,visors, 3,168
+2,7,113,diagnostics,16,168
+1,6,621,biologics, 3,182
+1,6,4222,biologics, 6,160
+4,5,1593,oxygen_tanks, 0,176
+8,3,2481,vaccines,10,170
+9,10,2015,ventilators, 5,164
+10,8,729,visors, 1,176
+4,5,4406,oxygen_tanks, 3,166
+3,2,3473,masks, 7,186
+7,9,728,sanitizers, 4,176
+2,7,1337,diagnostics,10,162
+6,4,2761,respirators, 3,180
+3,2,3611,masks, 4,168
+2,7,3256,diagnostics,10,154
+2,7,612,diagnostics,10,170
+9,10,2705,ventilators,10,158
+1,6,1597,biologics, 5,164
+8,3,416,vaccines, 6,168
+10,8,4409,visors, 5,172
+6,4,1899,respirators, 5,180
+4,5,2372,oxygen_tanks, 6,173
+9,10,2286,ventilators,20,164
+5,1,1521,ppe,20,173
+6,4,3431,respirators, 3,182
+4,5,698,oxygen_tanks, 6,190
+9,10,4282,ventilators, 5,160
+3,2,2711,masks, 8,172
+4,5,2068,oxygen_tanks, 4,170
+4,5,2932,oxygen_tanks,10,175
+3,2,1033,masks, 2,158
+6,4,2664,respirators, 7,165
+10,8,120,visors,15,162
+10,8,1689,visors, 2,175
+3,2,4813,masks, 1,169
+6,4,1299,respirators, 1,174
+2,7,4366,diagnostics, 4,169
+6,4,1132,respirators,15,170
+9,10,199,ventilators, 7,166
+2,7,2715,diagnostics, 5,174
+4,5,4485,oxygen_tanks, 3,150
+8,3,383,vaccines,15,172
+8,3,2670,vaccines,10,170
+6,4,3341,respirators, 5,175
+7,9,3258,sanitizers, 2,174
+9,10,2219,ventilators, 6,155
+8,3,3263,vaccines, 5,158
+9,10,2569,ventilators,15,180
+8,3,2167,vaccines,10,164
+4,5,990,oxygen_tanks, 4,163
+10,8,860,visors, 3,163
+7,9,831,sanitizers, 0,170
+4,5,2958,oxygen_tanks,50,168
+3,2,4410,masks, 1,150
+3,2,4644,masks,10,161
+1,6,1144,biologics,10,165
+8,3,2249,vaccines, 5,159
+10,8,56,visors,10,175
+1,6,214,biologics, 0,158
+1,6,2680,biologics, 2,165
+9,10,851,ventilators,17,183
+3,2,2993,masks, 4,164
+7,9,3799,sanitizers, 8,165
+8,3,1877,vaccines,15,164
+10,8,4174,visors, 8,187
+8,3,1006,vaccines, 6,180
+2,7,4460,diagnostics, 5,168
+3,2,521,masks,15,198
+5,1,3052,ppe, 5,164
+5,1,1333,ppe, 8,170
+6,4,2913,respirators, 8,175
+1,6,2595,biologics, 3,163
+1,6,4634,biologics,10,150
+5,1,2086,ppe,10,164
+6,4,2968,respirators, 2,173
+9,10,4902,ventilators, 5,164
+1,6,1150,biologics,12,159
+4,5,3480,oxygen_tanks, 5,155
+7,9,1194,sanitizers, 4,176
+8,3,939,vaccines, 5,176
+4,5,2954,oxygen_tanks,10,175
+9,10,4411,ventilators,15,165
+9,10,4341,ventilators, 4,170
+7,9,2440,sanitizers, 3,178
+1,6,2050,biologics, 2,164
+1,6,2494,biologics, 2,164
+3,2,1234,masks, 0,172
+6,4,4632,respirators, 9,176
+3,2,964,masks, 8,168
+5,1,704,ppe,23,160
+8,3,405,vaccines, 2,165
+7,9,169,sanitizers,21,170
+7,9,4236,sanitizers, 5,163
+3,2,1818,masks, 5,158
+7,9,1174,sanitizers, 6,158
+7,9,3034,sanitizers, 5,182
+3,2,2989,masks,12,169
+2,7,3808,diagnostics, 1,160
+6,4,2308,respirators, 2,165
+2,7,3372,diagnostics, 7,189
+2,7,1091,diagnostics, 5,158
+8,3,2918,vaccines, 5,170
+9,10,1649,ventilators,20,168
+4,5,2025,oxygen_tanks, 5,175
+9,10,1934,ventilators, 8,171
+6,4,3941,respirators, 8,184
+4,5,1792,oxygen_tanks,15,180
+10,8,3287,visors, 1,165
+2,7,463,diagnostics, 5,165
+10,8,4725,visors, 8,174
+5,1,1799,ppe, 5,184
+1,6,1141,biologics, 3,158
+9,10,2762,ventilators, 2,155
+4,5,391,oxygen_tanks,15,164
+1,6,523,biologics, 8,158
+6,4,484,respirators,20,189
+4,5,467,oxygen_tanks,20,164
+5,1,4688,ppe, 0,175
+9,10,3081,ventilators, 2,182
+10,8,2719,visors, 0,158
+6,4,2786,respirators, 2,160
+1,6,4914,biologics, 5,180
+1,6,4740,biologics, 1,160
+1,6,4636,biologics,10,180
+3,2,1726,masks, 5,175
+1,6,656,biologics,20,180
+9,10,157,ventilators,40,186
+3,2,601,masks,10,173
+2,7,1530,diagnostics, 0,168
+5,1,2280,ppe,12,184
+9,10,4090,ventilators, 1,158
+4,5,1010,oxygen_tanks,30,175
+3,2,4897,masks,10,175
+7,9,4143,sanitizers, 5,167
+10,8,2130,visors,10,152
+1,6,3329,biologics, 6,156
+9,10,3651,ventilators,10,168
+10,8,4967,visors,25,168
+3,2,3619,masks, 0,172
+5,1,3075,ppe, 4,166
+1,6,4261,biologics,10,178
+2,7,3932,diagnostics, 3,153
+8,3,1834,vaccines, 5,177
+8,3,3268,vaccines, 5,175
+6,4,2962,respirators, 2,165
+6,4,3576,respirators, 3,161
+1,6,723,biologics,10,163
+1,6,4695,biologics,10,176
+8,3,4499,vaccines, 5,186
+7,9,3246,sanitizers,10,166
+7,9,432,sanitizers,10,196
+2,7,554,diagnostics, 2,178
+6,4,2654,respirators, 0,173
+9,10,2160,ventilators, 7,175
+1,6,47,biologics, 0,160
+4,5,3245,oxygen_tanks,15,164
+1,6,3717,biologics, 2,176
+10,8,494,visors,20,180
+5,1,4392,ppe,10,165
+4,5,2689,oxygen_tanks, 4,160
+9,10,219,ventilators,50,172
+1,6,1503,biologics, 5,173
+3,2,1860,masks, 2,175
+10,8,3999,visors,10,178
+3,2,820,masks, 6,176
+4,5,1637,oxygen_tanks, 8,158
+5,1,3072,ppe, 5,178
+7,9,806,sanitizers, 6,158
+3,2,3554,masks, 2,176
+9,10,17,ventilators, 5,178
+9,10,3278,ventilators, 8,154
+8,3,2247,vaccines, 5,170
+2,7,4391,diagnostics,20,174
+8,3,3664,vaccines, 5,160
+4,5,4407,oxygen_tanks, 2,162
+8,3,3991,vaccines,10,172
+2,7,4016,diagnostics, 1,154
+3,2,889,masks, 5,172
+6,4,3609,respirators, 0,171
+9,10,327,ventilators,25,160
+7,9,3039,sanitizers, 5,167
+2,7,4281,diagnostics, 1,160
+3,2,3270,masks, 5,160
+9,10,3132,ventilators,50,170
+8,3,944,vaccines, 2,173
+8,3,3614,vaccines,10,180
+6,4,2081,respirators, 2,167
+1,6,3940,biologics, 3,175
+4,5,1369,oxygen_tanks, 4,170
+5,1,1791,ppe, 6,165
+6,4,2224,respirators, 2,166
+7,9,4310,sanitizers, 1,156
+8,3,1823,vaccines,20,160
+10,8,3663,visors,12,171
+7,9,3671,sanitizers, 5,156
+2,7,1827,diagnostics, 1,160
+8,3,2938,vaccines, 1,166
+2,7,2811,diagnostics, 4,182
+9,10,971,ventilators, 7,180
+3,2,4043,masks, 2,165
+2,7,3724,diagnostics, 8,165
+8,3,270,vaccines, 6,160
+9,10,1084,ventilators, 8,165
+7,9,1819,sanitizers, 6,164
+1,6,3974,biologics, 1,165
+8,3,2292,vaccines, 8,165
+10,8,1422,visors, 8,160
+1,6,2661,biologics, 2,155
+10,8,4209,visors, 1,158
+9,10,4178,ventilators, 2,157
+8,3,4993,vaccines, 8,170
+4,5,4153,oxygen_tanks,40,189
+8,3,1355,vaccines, 0,158
+1,6,2190,biologics, 4,164
+8,3,3708,vaccines,20,176
+8,3,2171,vaccines,10,175
+4,5,4036,oxygen_tanks, 2,160
+7,9,2844,sanitizers, 8,175
+8,3,3759,vaccines, 5,170
+2,7,3552,diagnostics, 4,170
+5,1,3089,ppe, 6,169
+3,2,4572,masks,15,171
+8,3,1865,vaccines, 1,174
+10,8,1087,visors, 4,168
+9,10,2150,ventilators, 1,163
+1,6,749,biologics,10,176
+6,4,2692,respirators, 3,158
+5,1,1013,ppe, 5,168
+2,7,4854,diagnostics, 8,182
+5,1,4177,ppe,20,180
+6,4,3468,respirators,15,176
+6,4,3085,respirators, 4,162
+7,9,4924,sanitizers, 5,160
+5,1,888,ppe, 6,163
+5,1,4937,ppe, 1,168
+7,9,3701,sanitizers, 3,168
+2,7,897,diagnostics, 2,160
+7,9,4418,sanitizers, 3,158
+9,10,3262,ventilators, 0,174
+2,7,2771,diagnostics, 5,170
+9,10,3533,ventilators, 3,167
+6,4,59,respirators,12,176
+5,1,3177,ppe, 0,160
+10,8,716,visors, 3,158
+10,8,992,visors,10,170
+5,1,1263,ppe, 3,162
+1,6,3894,biologics, 3,165
+2,7,918,diagnostics, 1,168
+3,2,2137,masks, 5,177
+6,4,1039,respirators, 7,165
+2,7,912,diagnostics, 1,198
+8,3,3951,vaccines, 3,180
+10,8,4646,visors, 1,175
+5,1,3494,ppe, 5,164
+9,10,4762,ventilators, 7,170
+7,9,2549,sanitizers,15,175
+10,8,4456,visors, 4,164
+3,2,507,masks, 4,176
+4,5,1663,oxygen_tanks, 2,160
+6,4,4507,respirators, 4,170
+10,8,2022,visors, 3,175
+5,1,1322,ppe, 2,172
+4,5,2901,oxygen_tanks,10,167
+6,4,2147,respirators, 8,165
+5,1,4394,ppe, 4,170
+9,10,4533,ventilators,10,169
+5,1,491,ppe,12,176
+5,1,1970,ppe,36,176
+9,10,1486,ventilators, 5,170
+7,9,3176,sanitizers, 3,158
+3,2,3282,masks,20,158
+2,7,1753,diagnostics, 5,163
+8,3,844,vaccines, 5,168
+3,2,2074,masks, 0,164
+5,1,3429,ppe,10,160
+9,10,1613,ventilators,10,164
+4,5,1143,oxygen_tanks, 9,160
+8,3,2133,vaccines,15,158
+1,6,1279,biologics,10,182
+4,5,288,oxygen_tanks, 4,164
+10,8,956,visors, 2,178
+9,10,3015,ventilators,10,164
+6,4,1881,respirators, 0,169
+8,3,160,vaccines,10,164
+10,8,3972,visors,13,178
+8,3,1121,vaccines, 8,162
+9,10,2404,ventilators,10,180
+10,8,824,visors, 8,182
+1,6,2184,biologics, 3,150
+8,3,2853,vaccines, 3,176
+7,9,1640,sanitizers, 5,180
+1,6,2215,biologics, 8,155
+7,9,3775,sanitizers,10,170
+6,4,3513,respirators, 6,158
+4,5,762,oxygen_tanks,10,167
+4,5,2433,oxygen_tanks, 0,158
+6,4,3906,respirators,17,185
+9,10,1997,ventilators,10,164
+7,9,837,sanitizers, 4,168
+9,10,1229,ventilators,20,173
+2,7,4337,diagnostics, 3,179
+4,5,3631,oxygen_tanks, 1,161
+3,2,4049,masks, 3,165
+2,7,3314,diagnostics, 4,170
+2,7,4816,diagnostics, 3,165
+6,4,4558,respirators, 9,164
+5,1,2721,ppe,15,174
+5,1,1816,ppe, 2,158
+3,2,174,masks, 0,176
+1,6,582,biologics,10,168
+5,1,4864,ppe, 8,189
+3,2,90,masks, 8,160
+2,7,1367,diagnostics, 2,173
+7,9,4398,sanitizers, 3,158
+3,2,3501,masks, 8,170
+8,3,1083,vaccines,40,150
+9,10,3437,ventilators,12,171
+7,9,3560,sanitizers,10,183
+8,3,3238,vaccines, 1,170
+9,10,4021,ventilators, 4,166
+5,1,1609,ppe, 8,160
+9,10,4833,ventilators, 9,176
+4,5,3960,oxygen_tanks, 2,152
+8,3,866,vaccines, 2,160
+3,2,4824,masks,20,176
+5,1,2795,ppe, 5,170
+8,3,4579,vaccines, 3,158
+2,7,4383,diagnostics, 2,165
+10,8,2013,visors, 5,182
+1,6,4291,biologics, 3,176
+8,3,2826,vaccines, 4,170
+3,2,709,masks, 1,172
+7,9,3184,sanitizers, 2,169
+8,3,3441,vaccines, 6,163
+8,3,3073,vaccines, 8,164
+5,1,741,ppe,10,190
+7,9,1849,sanitizers, 3,171
+5,1,505,ppe, 7,173
+4,5,1495,oxygen_tanks, 1,156
+3,2,4006,masks, 5,174
+6,4,2180,respirators, 4,172
+4,5,4211,oxygen_tanks, 5,178
+6,4,2900,respirators,40,170
+4,5,3037,oxygen_tanks,30,169
+7,9,69,sanitizers, 3,164
+1,6,4667,biologics,10,189
+8,3,4028,vaccines,15,180
+4,5,3175,oxygen_tanks, 4,174
+8,3,2138,vaccines, 8,186
+7,9,2854,sanitizers, 3,166
+4,5,1892,oxygen_tanks, 2,165
+1,6,3721,biologics, 5,180
+6,4,4113,respirators, 5,178
+8,3,3738,vaccines, 2,167
+1,6,1813,biologics,10,160
+9,10,598,ventilators, 4,164
+5,1,410,ppe, 6,174
+6,4,3236,respirators,10,176
+1,6,2368,biologics, 3,170
+10,8,555,visors, 2,158
+7,9,895,sanitizers, 2,168
+4,5,3107,oxygen_tanks,10,180
+6,4,3393,respirators, 5,167
+9,10,2277,ventilators, 2,160
+4,5,4539,oxygen_tanks, 2,168
+7,9,1598,sanitizers,10,170
+5,1,1366,ppe, 0,175
+5,1,4753,ppe, 5,160
+3,2,2360,masks, 1,174
+9,10,1589,ventilators, 3,170
+8,3,4938,vaccines, 6,175
+5,1,4381,ppe, 0,154
+7,9,4019,sanitizers, 6,157
+10,8,3758,visors, 2,165
+9,10,2214,ventilators,10,155
+8,3,3752,vaccines, 0,178
+7,9,2285,sanitizers, 1,180
+9,10,1241,ventilators, 0,170
+6,4,1559,respirators, 3,165
+1,6,4328,biologics, 2,165
+7,9,766,sanitizers,10,176
+1,6,3218,biologics,20,153
+4,5,3033,oxygen_tanks, 4,194
+4,5,3181,oxygen_tanks, 6,168
+5,1,4122,ppe, 9,170
+5,1,4908,ppe, 3,175
+10,8,2583,visors, 5,159
+10,8,4455,visors, 4,172
+3,2,3317,masks, 6,164
+7,9,1793,sanitizers, 8,176
+1,6,4594,biologics, 3,163
+10,8,1372,visors,10,162
+10,8,1620,visors,20,182
+10,8,83,visors,11,164
+7,9,3005,sanitizers, 7,180
+3,2,3301,masks,10,170
+3,2,1003,masks, 5,168
+7,9,1185,sanitizers,10,164
+6,4,3231,respirators, 2,175
+2,7,2353,diagnostics,12,156
+2,7,753,diagnostics, 5,175
+10,8,590,visors, 8,164
+8,3,1543,vaccines, 1,164
+1,6,474,biologics, 3,165
+5,1,2104,ppe, 1,194
+4,5,2477,oxygen_tanks,10,171
+5,1,2410,ppe, 7,175
+3,2,4187,masks, 2,176
+4,5,4665,oxygen_tanks, 4,168
+3,2,4811,masks,12,170
+1,6,4560,biologics, 2,170
+5,1,3776,ppe,10,175
+7,9,4872,sanitizers,10,175
+3,2,4239,masks,15,167
+10,8,471,visors, 8,164
+7,9,3026,sanitizers, 3,160
+2,7,1525,diagnostics,10,176
+3,2,2875,masks, 2,175
+7,9,4640,sanitizers,12,180
+3,2,1069,masks, 5,170
+2,7,3264,diagnostics,10,170
+8,3,2568,vaccines,10,160
+8,3,1561,vaccines, 6,172
+2,7,2710,diagnostics,12,159
+7,9,3595,sanitizers, 0,164
+5,1,21,ppe,30,182
+10,8,3362,visors,11,170
+5,1,4156,ppe, 3,155
+10,8,2582,visors, 3,170
+3,2,3237,masks, 6,162
+9,10,2735,ventilators, 3,158
+1,6,3891,biologics, 5,170
+3,2,3011,masks,12,152
+7,9,501,sanitizers, 5,166
+8,3,4147,vaccines, 0,164
+4,5,3346,oxygen_tanks, 2,163
+6,4,88,respirators,30,186
+4,5,135,oxygen_tanks, 1,176
+3,2,3696,masks, 4,158
+5,1,331,ppe, 1,164
+7,9,2451,sanitizers, 0,168
+4,5,3027,oxygen_tanks, 6,172
+2,7,3945,diagnostics, 4,168
+8,3,2708,vaccines,10,155
+1,6,3978,biologics, 3,168
+2,7,217,diagnostics,20,176
+9,10,4152,ventilators, 3,172
+1,6,4040,biologics,12,165
+5,1,2773,ppe, 5,152
+9,10,2174,ventilators,10,176
+6,4,2623,respirators, 4,170
+2,7,3795,diagnostics, 4,176
+2,7,3395,diagnostics, 4,180
+2,7,498,diagnostics, 5,170
+1,6,1901,biologics, 7,165
+10,8,2485,visors, 5,164
+2,7,3593,diagnostics, 6,160
+3,2,962,masks, 6,156
+5,1,2206,ppe,10,152
+5,1,515,ppe,20,155
+8,3,4704,vaccines,15,180
+3,2,2812,masks, 6,169
+9,10,3369,ventilators, 0,166
+3,2,2629,masks, 2,168
+1,6,2695,biologics, 6,161
+10,8,2170,visors, 6,160
+9,10,865,ventilators, 3,168
+5,1,1429,ppe, 5,170
+10,8,1767,visors,10,180
+1,6,3884,biologics, 3,164
+10,8,2690,visors, 1,162
+3,2,4611,masks,10,170
+6,4,4420,respirators, 6,170
+7,9,220,sanitizers, 4,173
+4,5,1047,oxygen_tanks, 6,164
+10,8,2465,visors, 2,180
+5,1,3826,ppe, 1,182
+6,4,2538,respirators, 8,165
+5,1,1930,ppe, 2,162
+8,3,244,vaccines, 1,160
+1,6,3870,biologics,10,169
+5,1,1471,ppe, 8,183
+3,2,2981,masks, 3,163
+6,4,3646,respirators, 5,176
+6,4,438,respirators,16,176
+5,1,2611,ppe, 6,164
+3,2,2457,masks, 2,170
+2,7,179,diagnostics,12,164
+7,9,151,sanitizers,10,189
+5,1,2872,ppe,20,170
+3,2,9,masks,40,178
+1,6,4859,biologics, 5,160
+3,2,3845,masks, 4,178
+1,6,2129,biologics, 3,178
+7,9,884,sanitizers, 6,173
+8,3,783,vaccines, 6,167
+8,3,4544,vaccines, 3,164
+2,7,4140,diagnostics, 2,160
+1,6,2785,biologics, 5,158
+10,8,1293,visors,10,164
+8,3,4226,vaccines, 3,169
+6,4,1393,respirators,10,160
+4,5,3921,oxygen_tanks, 4,167
+7,9,4340,sanitizers,10,174
+10,8,4125,visors, 6,160
+8,3,2593,vaccines, 4,165
+10,8,3235,visors, 5,181
+6,4,361,respirators,30,160
+9,10,703,ventilators,10,179
+3,2,3000,masks,20,178
+10,8,4809,visors, 2,168
+7,9,3539,sanitizers, 4,165
+6,4,3221,respirators,10,178
+8,3,2409,vaccines,10,180
+6,4,1629,respirators, 4,164
+4,5,2456,oxygen_tanks,12,176
+10,8,3217,visors,10,178
+8,3,4751,vaccines, 8,170
+5,1,4432,ppe, 5,176
+6,4,1742,respirators,10,176
+7,9,1985,sanitizers, 2,169
+1,6,3128,biologics,10,182
+2,7,2943,diagnostics,10,178
+3,2,1779,masks, 1,183
+2,7,4441,diagnostics,10,176
+6,4,920,respirators, 1,175
+1,6,3656,biologics,10,178
+9,10,4099,ventilators, 2,172
+4,5,3585,oxygen_tanks, 8,169
+5,1,742,ppe, 5,168
+1,6,4976,biologics, 4,182
+1,6,4918,biologics, 5,170
+7,9,4050,sanitizers,10,160
+8,3,1190,vaccines, 5,180
+2,7,4207,diagnostics, 6,170
+5,1,3505,ppe, 0,180
+5,1,4198,ppe, 5,165
+10,8,234,visors, 6,172
+7,9,3597,sanitizers, 4,176
+8,3,2940,vaccines,10,158
+8,3,3225,vaccines,10,176
+7,9,1546,sanitizers, 3,161
+2,7,2782,diagnostics, 5,168
+2,7,2934,diagnostics, 5,172
+5,1,2069,ppe, 8,164
+5,1,1022,ppe, 5,160
+3,2,2676,masks, 4,162
+3,2,4517,masks, 3,165
+5,1,1396,ppe, 5,160
+9,10,1549,ventilators, 0,145
+6,4,2763,respirators, 5,165
+9,10,3623,ventilators, 3,162
+5,1,1509,ppe,10,164
+4,5,104,oxygen_tanks, 8,165
+10,8,4790,visors, 5,164
+4,5,3719,oxygen_tanks, 5,168
+6,4,144,respirators,10,162
+8,3,4262,vaccines, 1,163
+5,1,3753,ppe, 1,165
+10,8,1890,visors, 4,180
+1,6,4786,biologics,10,167
+9,10,1628,ventilators, 3,174
+6,4,4664,respirators, 2,163
+1,6,999,biologics, 2,164
+6,4,3824,respirators, 4,169
+6,4,4899,respirators,10,164
+7,9,3723,sanitizers, 6,160
+1,6,2557,biologics, 6,154
+2,7,1196,diagnostics, 2,173
+8,3,1384,vaccines, 3,160
+9,10,45,ventilators, 4,165
+8,3,570,vaccines, 2,158
+10,8,4242,visors,15,170
+1,6,4754,biologics, 6,172
+2,7,4977,diagnostics,10,156
+2,7,2747,diagnostics, 3,170
+3,2,3065,masks, 4,170
+5,1,2421,ppe, 8,163
+2,7,22,diagnostics,10,185
+10,8,3647,visors,20,171
+7,9,107,sanitizers,10,158
+7,9,1606,sanitizers, 2,173
+2,7,58,diagnostics, 0,165
+8,3,2905,vaccines, 1,181
+6,4,3787,respirators,20,182
+3,2,3782,masks, 5,160
+3,2,1435,masks, 8,165
+1,6,4486,biologics, 5,182
+8,3,4183,vaccines,10,178
+7,9,4728,sanitizers, 1,160
+7,9,3790,sanitizers, 4,176
+3,2,1570,masks, 2,170
+3,2,586,masks, 0,168
+8,3,898,vaccines, 5,176
+5,1,3396,ppe, 2,165
+9,10,4051,ventilators, 3,161
+4,5,1741,oxygen_tanks, 2,170
+7,9,3806,sanitizers, 8,170
+9,10,2887,ventilators,20,170
+7,9,4081,sanitizers,10,185
+4,5,2446,oxygen_tanks, 5,163
+4,5,4427,oxygen_tanks, 2,162
+9,10,4405,ventilators, 5,165
+3,2,2178,masks, 5,176
+9,10,3694,ventilators,15,170
+8,3,4258,vaccines, 2,156
+2,7,1290,diagnostics, 1,174
+4,5,2054,oxygen_tanks, 2,173
+8,3,360,vaccines, 5,160
+7,9,3588,sanitizers,10,167
+1,6,1328,biologics,10,167
+9,10,2830,ventilators, 7,182
+2,7,3867,diagnostics, 5,158
+6,4,3076,respirators, 4,178
+7,9,3599,sanitizers, 1,164
+3,2,963,masks, 4,158
+6,4,1365,respirators, 3,171
+2,7,1109,diagnostics, 3,172
+8,3,340,vaccines, 6,175
+5,1,4360,ppe,15,182
+2,7,1357,diagnostics,10,150
+2,7,524,diagnostics, 0,158
+7,9,725,sanitizers, 3,180
+6,4,4070,respirators, 2,160
+9,10,3966,ventilators,10,174
+5,1,2371,ppe, 4,176
+8,3,1371,vaccines,10,160
+2,7,1825,diagnostics, 2,182
+3,2,198,masks, 3,168
+7,9,577,sanitizers, 0,182
+7,9,2406,sanitizers, 4,160
+8,3,84,vaccines, 3,162
+4,5,3344,oxygen_tanks, 1,164
+3,2,216,masks,10,158
+10,8,3147,visors,10,160
+1,6,3100,biologics,13,181
+1,6,785,biologics, 8,160
+2,7,3207,diagnostics, 3,170
+8,3,1749,vaccines, 2,170
+2,7,1252,diagnostics, 5,155
+5,1,4320,ppe, 4,164
+9,10,853,ventilators,10,175
+1,6,4693,biologics,10,162
+5,1,2723,ppe, 1,193
+6,4,128,respirators, 6,170
+9,10,4896,ventilators, 4,168
+3,2,2355,masks, 8,160
+10,8,2903,visors, 1,180
+10,8,724,visors, 7,158
+10,8,1983,visors,16,158
+9,10,1810,ventilators,12,174
+8,3,2100,vaccines, 7,175
+3,2,1947,masks,20,164
+7,9,609,sanitizers, 5,150
+5,1,4913,ppe, 2,179
+8,3,380,vaccines, 4,162
+1,6,2502,biologics, 3,175
+3,2,31,masks, 5,172
+6,4,1349,respirators, 8,182
+2,7,3805,diagnostics, 8,164
+9,10,2971,ventilators,10,163
+7,9,1829,sanitizers, 6,182
+7,9,1599,sanitizers, 5,176
+10,8,68,visors, 3,154
+3,2,2977,masks,10,163
+3,2,3145,masks, 2,160
+6,4,2687,respirators, 5,170
+7,9,2616,sanitizers,10,165
+4,5,708,oxygen_tanks, 5,175
+7,9,296,sanitizers, 3,173
+3,2,4775,masks, 3,170
+6,4,750,respirators, 5,183
+1,6,539,biologics, 6,170
+5,1,3892,ppe, 6,164
+3,2,4158,masks, 2,170
+4,5,2346,oxygen_tanks, 9,160
+8,3,3327,vaccines, 5,156
+7,9,1797,sanitizers, 8,186
+6,4,849,respirators, 2,155
+8,3,2756,vaccines,10,176
+9,10,1411,ventilators, 2,164
+8,3,1015,vaccines, 8,177
+6,4,1428,respirators, 3,165
+10,8,1739,visors,10,158
+2,7,2694,diagnostics, 4,167
+5,1,2590,ppe, 7,164
+1,6,1319,biologics, 7,174
+7,9,3002,sanitizers,20,170
+5,1,3801,ppe,10,160
+6,4,1043,respirators, 5,160
+10,8,1627,visors, 3,180
+10,8,2499,visors,10,170
+4,5,1953,oxygen_tanks, 4,156
+3,2,2205,masks, 1,169
+9,10,4874,ventilators, 5,163
+6,4,1696,respirators,70,175
+3,2,712,masks, 3,170
+2,7,702,diagnostics, 2,156
+9,10,1855,ventilators, 2,180
+4,5,2514,oxygen_tanks, 5,180
+4,5,4699,oxygen_tanks, 8,169
+7,9,4331,sanitizers,12,170
+7,9,2818,sanitizers, 3,170
+10,8,2110,visors, 5,160
+2,7,457,diagnostics, 1,164
+7,9,364,sanitizers,10,176
+7,9,1089,sanitizers, 2,164
+8,3,1287,vaccines,15,180
+1,6,1222,biologics, 6,176
+7,9,2820,sanitizers, 0,171
+2,7,1910,diagnostics, 0,145
+10,8,556,visors,10,174
+2,7,1851,diagnostics, 0,168
+8,3,638,vaccines, 2,180
+5,1,1913,ppe,15,177
+7,9,3086,sanitizers, 2,165
+10,8,1866,visors, 0,165
+2,7,1098,diagnostics, 4,160
+8,3,2739,vaccines, 1,170
+4,5,3087,oxygen_tanks, 5,160
+5,1,551,ppe, 3,173
+10,8,2024,visors,50,180
+3,2,231,masks,12,164
+8,3,446,vaccines, 2,178
+2,7,3160,diagnostics, 9,182
+1,6,257,biologics, 4,176
+5,1,294,ppe, 5,165
+3,2,2970,masks,10,189
+7,9,4719,sanitizers, 2,160
+3,2,2266,masks, 6,174
+9,10,4771,ventilators,10,190
+5,1,697,ppe, 5,160
+6,4,3605,respirators, 2,164
+8,3,1247,vaccines, 1,174
+7,9,5000,sanitizers, 6,185
+10,8,4250,visors,10,180
+8,3,4327,vaccines,10,175
+3,2,2650,masks,10,170
+1,6,4093,biologics, 5,164
+2,7,75,diagnostics, 5,165
+3,2,2397,masks, 4,168
+8,3,1761,vaccines, 5,153
+4,5,2682,oxygen_tanks, 3,175
+6,4,4739,respirators, 2,180
+3,2,2084,masks,10,197
+6,4,2863,respirators, 5,162
+5,1,838,ppe, 5,165
+6,4,4087,respirators, 2,170
+8,3,282,vaccines, 6,165
+10,8,1224,visors,10,178
+9,10,2488,ventilators, 5,164
+5,1,4555,ppe, 5,166
+4,5,3604,oxygen_tanks,10,170
+5,1,3788,ppe, 4,176
+6,4,1987,respirators, 5,156
+3,2,4355,masks, 0,160
+5,1,4115,ppe, 3,163
+1,6,3500,biologics, 4,172
+6,4,1660,respirators, 3,164
+1,6,4034,biologics, 5,180
+4,5,3251,oxygen_tanks, 6,158
+2,7,2142,diagnostics, 8,185
+5,1,1514,ppe,12,176
+3,2,492,masks,15,164
+2,7,4299,diagnostics, 5,176
+4,5,1744,oxygen_tanks,16,166
+10,8,1173,visors, 2,160
+1,6,4194,biologics,12,168
+5,1,4876,ppe, 3,176
+4,5,243,oxygen_tanks,20,186
+4,5,2282,oxygen_tanks, 4,154
+3,2,1068,masks,12,170
+1,6,2548,biologics, 0,160
+1,6,2154,biologics, 0,160
+1,6,4191,biologics, 1,156
+3,2,2445,masks, 2,164
+4,5,811,oxygen_tanks, 6,160
+5,1,4155,ppe, 1,176
+7,9,1259,sanitizers, 2,183
+7,9,4575,sanitizers, 3,160
+3,2,1771,masks, 3,159
+10,8,1464,visors, 7,152
+9,10,4986,ventilators,10,160
+8,3,371,vaccines, 5,162
+1,6,2801,biologics, 0,158
+6,4,4233,respirators,10,182
+4,5,3926,oxygen_tanks, 6,176
+2,7,789,diagnostics, 4,187
+5,1,3996,ppe, 3,164
+2,7,2744,diagnostics, 0,158
+4,5,1102,oxygen_tanks, 9,174
+3,2,4834,masks, 6,158
+2,7,153,diagnostics,10,162
+6,4,4263,respirators, 4,159
+9,10,3538,ventilators, 6,168
+4,5,4489,oxygen_tanks, 4,170
+8,3,757,vaccines,10,161
+4,5,4951,oxygen_tanks,10,182
+2,7,812,diagnostics, 2,168
+7,9,1064,sanitizers,20,167
+9,10,2672,ventilators, 4,164
+8,3,121,vaccines, 3,180
+9,10,1326,ventilators,15,170
+9,10,2125,ventilators, 3,184
+6,4,3331,respirators, 6,182
+7,9,166,sanitizers,16,175
+8,3,1419,vaccines, 4,165
+9,10,1496,ventilators, 2,164
+7,9,3807,sanitizers, 6,173
+5,1,2039,ppe, 3,152
+4,5,3862,oxygen_tanks, 4,165
+6,4,3820,respirators, 8,160
+6,4,4118,respirators, 5,160
+4,5,1273,oxygen_tanks, 1,169
+2,7,369,diagnostics, 3,152
+9,10,4769,ventilators, 3,150
+2,7,141,diagnostics,14,165
+1,6,1488,biologics, 1,176
+5,1,2852,ppe, 5,172
+3,2,711,masks, 8,156
+7,9,3626,sanitizers, 4,172
+4,5,1924,oxygen_tanks, 8,176
+4,5,4431,oxygen_tanks,10,160
+10,8,3428,visors, 6,170
+10,8,3066,visors, 5,170
+2,7,1387,diagnostics, 4,170
+5,1,15,ppe, 5,165
+9,10,4121,ventilators, 5,175
+2,7,1909,diagnostics,10,171
+10,8,1513,visors, 0,183
+3,2,2436,masks, 4,168
+4,5,1551,oxygen_tanks, 6,160
+2,7,4592,diagnostics,10,173
+9,10,387,ventilators, 4,156
+4,5,3003,oxygen_tanks,10,158
+3,2,4956,masks, 2,160
+1,6,764,biologics,10,176
+4,5,3645,oxygen_tanks,15,176
+10,8,76,visors, 5,166
+5,1,227,ppe, 3,170
+7,9,2418,sanitizers, 2,160
+8,3,3736,vaccines,10,170
+5,1,4482,ppe, 3,160
+10,8,4944,visors,15,155
+7,9,3121,sanitizers, 5,172
+8,3,1719,vaccines, 4,170
+1,6,3288,biologics, 3,165
+2,7,3192,diagnostics, 8,170
+7,9,3457,sanitizers, 5,182
+10,8,3325,visors, 4,164
+1,6,1450,biologics, 3,158
+4,5,2020,oxygen_tanks, 8,160
+1,6,3762,biologics,20,170
+8,3,4037,vaccines,10,154
+10,8,1032,visors, 4,160
+1,6,2757,biologics, 6,167
+4,5,3770,oxygen_tanks, 0,200
+2,7,3899,diagnostics, 4,178
+9,10,4458,ventilators,14,162
+10,8,3935,visors,10,174
+8,3,3620,vaccines, 3,166
+2,7,92,diagnostics, 5,161
+2,7,4794,diagnostics, 2,172
+1,6,3687,biologics,10,165
+5,1,3118,ppe, 5,156
+9,10,3903,ventilators, 2,164
+6,4,2571,respirators, 5,164
+6,4,402,respirators,10,176
+1,6,2669,biologics, 3,170
+2,7,4249,diagnostics, 8,179
+6,4,4994,respirators, 5,176
+3,2,2489,masks,10,179
+2,7,2570,diagnostics,30,164
+5,1,2403,ppe,10,185
+3,2,3506,masks,20,165
+8,3,2592,vaccines,10,164
+6,4,2972,respirators,16,186
+10,8,2532,visors, 4,156
+8,3,978,vaccines,25,178
+4,5,62,oxygen_tanks, 2,165
+3,2,23,masks, 8,164
+2,7,4055,diagnostics,10,176
+9,10,1242,ventilators, 5,183
+4,5,2012,oxygen_tanks, 4,150
+5,1,4692,ppe,10,164
+1,6,122,biologics,10,164
+2,7,1912,diagnostics, 2,116
+2,7,1021,diagnostics, 0,158
+1,6,2250,biologics, 0,170
+4,5,578,oxygen_tanks, 8,170
+4,5,4881,oxygen_tanks, 5,170
+4,5,1379,oxygen_tanks, 7,164
+6,4,881,respirators, 1,193
+10,8,112,visors,10,168
+8,3,370,vaccines, 3,158
+2,7,4370,diagnostics, 0,167
+2,7,1334,diagnostics, 1,152
+4,5,3965,oxygen_tanks, 2,168
+9,10,1370,ventilators,12,158
+8,3,4267,vaccines, 3,180
+6,4,1029,respirators,30,184
+10,8,2935,visors, 7,187
+1,6,2530,biologics, 4,172
+8,3,4729,vaccines, 5,180
+1,6,3293,biologics,10,172
+9,10,2392,ventilators, 6,164
+3,2,2236,masks, 2,172
+3,2,1461,masks,10,171
+8,3,3568,vaccines, 5,157
+2,7,1702,diagnostics, 2,192
+10,8,2122,visors, 0,176
+3,2,2645,masks, 4,175
+9,10,418,ventilators, 2,164
+10,8,1900,visors, 6,158
+3,2,1888,masks, 4,178
+6,4,2432,respirators, 8,173
+9,10,2005,ventilators, 4,170
+7,9,70,sanitizers, 4,165
+6,4,4308,respirators, 1,150
+6,4,826,respirators,10,165
+6,4,1012,respirators, 3,168
+7,9,608,sanitizers,10,172
+3,2,752,masks, 4,163
+4,5,1408,oxygen_tanks, 5,163
+5,1,304,ppe,10,170
+8,3,4741,vaccines, 8,180
+9,10,1358,ventilators, 2,165
+10,8,2161,visors, 1,171
+3,2,2891,masks, 2,160
+7,9,3247,sanitizers, 8,159
+5,1,659,ppe, 5,176
+7,9,3355,sanitizers, 2,178
+7,9,4602,sanitizers,10,164
+6,4,1560,respirators, 8,180
+1,6,2550,biologics, 5,170
+10,8,436,visors, 0,174
+7,9,2859,sanitizers, 7,163
+10,8,4212,visors,15,185
+6,4,734,respirators, 3,164
+3,2,1438,masks,21,170
+9,10,4098,ventilators,20,162
+3,2,4274,masks, 0,175
+6,4,1611,respirators, 5,165
+2,7,4782,diagnostics,10,168
+1,6,3242,biologics, 4,185
+7,9,452,sanitizers,20,160
+4,5,1566,oxygen_tanks, 3,155
+9,10,4095,ventilators, 8,172
+5,1,4162,ppe, 9,172
+10,8,4939,visors, 1,166
+2,7,1759,diagnostics,15,168
+10,8,1368,visors,10,168
+7,9,3550,sanitizers,20,174
+10,8,3976,visors,10,176
+3,2,1335,masks, 5,170
+8,3,4573,vaccines, 3,158
+5,1,2387,ppe,10,117
+8,3,4011,vaccines, 0,160
+3,2,2376,masks,20,176
+8,3,2902,vaccines, 2,160
+4,5,4354,oxygen_tanks, 2,176
+6,4,137,respirators, 4,173
+9,10,3934,ventilators, 4,170
+3,2,1837,masks,43,175
+1,6,2377,biologics, 0,162
+2,7,727,diagnostics,10,165
+3,2,1875,masks,10,160
+5,1,557,ppe, 3,164
+3,2,242,masks, 2,191
+4,5,2311,oxygen_tanks,20,182
+8,3,1747,vaccines, 6,172
+3,2,4966,masks,14,164
+5,1,4141,ppe,20,180
+8,3,2838,vaccines, 6,177
+2,7,1526,diagnostics, 5,170
+6,4,858,respirators, 7,168
+8,3,3548,vaccines, 8,178
+2,7,2780,diagnostics, 0,160
+9,10,1679,ventilators, 2,162
+6,4,3465,respirators,10,164
+4,5,3952,oxygen_tanks, 5,160
+1,6,2091,biologics, 5,178
+10,8,2052,visors, 4,182
+10,8,269,visors,30,172
+8,3,4010,vaccines, 0,150
+3,2,1076,masks,20,154
+5,1,4793,ppe,10,158
+2,7,4306,diagnostics, 6,168
+9,10,2103,ventilators,17,175
+2,7,1511,diagnostics,10,176
+9,10,20,ventilators, 4,175
+10,8,2831,visors,14,180
+2,7,1690,diagnostics, 0,187
+1,6,3587,biologics, 7,164
+3,2,385,masks, 2,155
+10,8,4549,visors,10,165
+10,8,4766,visors,10,170
+6,4,2546,respirators,20,165
+10,8,4169,visors, 4,169
+5,1,4491,ppe, 6,170
+6,4,2506,respirators, 3,186
+3,2,2808,masks,15,183
+3,2,2581,masks, 6,158
+3,2,37,masks, 7,165
+5,1,1545,ppe, 3,170
+1,6,3398,biologics, 5,166
+5,1,4200,ppe, 4,174
+3,2,2471,masks, 3,165
+9,10,3444,ventilators, 2,160
+2,7,1477,diagnostics, 5,175
+6,4,3467,respirators, 6,179
+3,2,41,masks, 1,167
+5,1,840,ppe,10,168
+4,5,32,oxygen_tanks, 1,164
+1,6,3426,biologics,20,165
+4,5,4132,oxygen_tanks,10,165
+7,9,4732,sanitizers, 5,174
+1,6,2978,biologics, 0,164
+3,2,3491,masks, 2,164
+4,5,1499,oxygen_tanks, 4,160
+3,2,1133,masks, 6,167
+8,3,2273,vaccines, 3,180
+7,9,1192,sanitizers, 6,184
+4,5,2309,oxygen_tanks,10,175
+6,4,186,respirators, 5,170
+8,3,4149,vaccines, 2,172
+1,6,2408,biologics,10,168
+5,1,4334,ppe, 5,176
+4,5,366,oxygen_tanks,10,160
+5,1,4875,ppe, 4,162
+5,1,4290,ppe, 5,175
+9,10,116,ventilators, 5,170
+6,4,3846,respirators, 2,165
+7,9,4965,sanitizers, 4,176
+8,3,4948,vaccines, 5,158
+2,7,532,diagnostics, 3,164
+9,10,4887,ventilators, 5,162
+5,1,2352,ppe,15,188
+6,4,2879,respirators, 2,160
+3,2,1656,masks,10,164
+4,5,4620,oxygen_tanks, 3,171
+5,1,1940,ppe, 8,170
+8,3,3674,vaccines,10,162
+4,5,4286,oxygen_tanks, 3,185
+2,7,828,diagnostics, 5,168
+4,5,579,oxygen_tanks, 0,183
+10,8,4131,visors, 3,170
+1,6,1460,biologics, 5,165
+7,9,1158,sanitizers,10,182
+7,9,684,sanitizers, 6,174
+5,1,1989,ppe, 6,176
+5,1,3133,ppe,12,152
+4,5,975,oxygen_tanks, 1,180
+3,2,4293,masks, 5,175
+1,6,3962,biologics, 0,164
+7,9,3178,sanitizers, 5,164
+1,6,2472,biologics, 5,180
+9,10,3023,ventilators, 0,160
+8,3,3260,vaccines, 5,165
+8,3,194,vaccines,12,162
+6,4,2473,respirators, 6,165
+1,6,3739,biologics, 4,172
+3,2,3774,masks,20,165
+7,9,3702,sanitizers,10,170
+3,2,1505,masks, 4,170
+1,6,1436,biologics,10,166
+6,4,2765,respirators, 7,168
+10,8,2098,visors, 6,165
+5,1,631,ppe, 8,166
+4,5,2402,oxygen_tanks,10,182
+4,5,3174,oxygen_tanks,15,174
+2,7,2535,diagnostics,10,160
+4,5,1131,oxygen_tanks, 8,158
+5,1,3358,ppe, 5,173
+5,1,4684,ppe, 7,161
+3,2,1539,masks,10,175
+9,10,459,ventilators, 4,165
+10,8,1474,visors,12,168
+3,2,4629,masks, 5,167
+8,3,3489,vaccines, 5,190
+6,4,1941,respirators,10,160
+4,5,1760,oxygen_tanks,10,160
+3,2,3542,masks, 5,186
+8,3,2263,vaccines, 1,176
+10,8,2202,visors,12,158
+10,8,911,visors, 4,160
+3,2,1982,masks, 5,150
+8,3,1468,vaccines, 1,160
+4,5,362,oxygen_tanks, 3,165
+7,9,1828,sanitizers, 2,188
+1,6,4694,biologics,10,184
+6,4,272,respirators, 4,168
+6,4,2814,respirators,10,170
+7,9,2169,sanitizers, 6,182
+3,2,2783,masks, 2,162
+2,7,1139,diagnostics, 3,168
+1,6,3219,biologics, 5,172
+9,10,1796,ventilators, 5,175
+2,7,1751,diagnostics,10,170
+3,2,3290,masks,10,170
+8,3,204,vaccines,11,176
+5,1,2369,ppe, 6,169
+3,2,1854,masks,10,171
+8,3,3981,vaccines, 4,154
+9,10,318,ventilators, 6,164
+3,2,1691,masks, 4,160
+2,7,2914,diagnostics, 3,165
+2,7,1175,diagnostics, 0,159
+7,9,2051,sanitizers, 2,160
+2,7,1653,diagnostics, 4,160
+5,1,460,ppe, 1,164
+9,10,1088,ventilators, 8,187
+1,6,2284,biologics, 2,167
+8,3,908,vaccines, 5,176
+10,8,4000,visors,25,164
+10,8,930,visors, 8,150
+10,8,4271,visors, 3,167
+4,5,1931,oxygen_tanks, 4,151
+9,10,1534,ventilators,15,170
+9,10,1115,ventilators, 2,171
+4,5,921,oxygen_tanks, 5,152
+2,7,248,diagnostics,64,156
+9,10,644,ventilators, 2,168
+7,9,4598,sanitizers, 6,178
+7,9,3944,sanitizers, 2,173
+5,1,1643,ppe, 2,170
+7,9,1882,sanitizers, 0,188
+9,10,1683,ventilators, 5,180
+4,5,2055,oxygen_tanks, 3,180
+7,9,2635,sanitizers, 6,164
+7,9,1715,sanitizers,30,160
+2,7,792,diagnostics, 1,158
+3,2,3279,masks,99,164
+8,3,1770,vaccines,12,176
+6,4,2381,respirators,15,175
+6,4,3684,respirators, 6,167
+9,10,3909,ventilators,85,178
+6,4,2759,respirators, 3,173
+5,1,2361,ppe, 2,170
+1,6,879,biologics, 1,168
+9,10,619,ventilators, 3,178
+8,3,2268,vaccines, 2,158
+2,7,462,diagnostics, 3,178
+10,8,2832,visors, 6,170
+7,9,497,sanitizers, 3,165
+1,6,4197,biologics, 0,175
+7,9,3106,sanitizers, 7,170
+4,5,935,oxygen_tanks, 6,172
+5,1,4970,ppe,10,165
+6,4,2920,respirators, 1,178
+4,5,1544,oxygen_tanks,10,150
+9,10,2374,ventilators, 3,159
+4,5,2396,oxygen_tanks, 5,175
+8,3,35,vaccines,10,160
+2,7,3509,diagnostics, 4,170
+5,1,4608,ppe, 1,170
+4,5,2789,oxygen_tanks, 1,160
+10,8,1168,visors, 6,180
+1,6,3971,biologics, 3,157
+2,7,3135,diagnostics,25,164
+7,9,142,sanitizers,30,163
+6,4,1652,respirators,12,160
+10,8,1772,visors,10,163
+1,6,4861,biologics, 5,152
+2,7,1202,diagnostics, 8,174
+8,3,3387,vaccines, 6,157
+4,5,3220,oxygen_tanks, 5,140
+5,1,1315,ppe, 3,160
+9,10,2032,ventilators, 6,157
+3,2,1602,masks, 4,172
+8,3,167,vaccines,10,160
+4,5,1090,oxygen_tanks, 6,164
+3,2,2181,masks, 8,164
+2,7,4836,diagnostics,10,163
+7,9,1439,sanitizers, 4,164
+9,10,4280,ventilators,12,158
+7,9,3959,sanitizers, 2,175
+6,4,2444,respirators, 4,178
+6,4,1748,respirators, 4,165
+9,10,1938,ventilators,29,197
+2,7,4470,diagnostics, 4,164
+1,6,246,biologics, 5,170
+7,9,3852,sanitizers, 4,182
+10,8,2135,visors, 2,150
+9,10,2684,ventilators, 2,175
+7,9,2622,sanitizers, 1,175
+3,2,3633,masks, 6,165
+9,10,205,ventilators, 2,156
+5,1,3998,ppe, 8,164
+8,3,395,vaccines, 5,164
+8,3,2607,vaccines, 9,175
+7,9,1603,sanitizers, 6,186
+5,1,4962,ppe,10,172
+5,1,3950,ppe,10,164
+5,1,1459,ppe, 8,185
+9,10,3553,ventilators, 4,165
+8,3,3837,vaccines, 4,175
+8,3,3409,vaccines, 7,182
+3,2,3530,masks, 2,162
+6,4,4048,respirators, 3,168
+5,1,1515,ppe, 3,164
+9,10,593,ventilators, 5,185
+5,1,1483,ppe, 4,160
+5,1,2071,ppe, 5,162
+9,10,357,ventilators, 3,173
+6,4,1178,respirators, 5,171
+2,7,350,diagnostics, 0,150
+3,2,1684,masks, 2,155
+10,8,3125,visors, 5,176
+9,10,1129,ventilators, 3,183
+3,2,3896,masks, 5,158
+1,6,2321,biologics,10,168
+9,10,3388,ventilators,15,160
+6,4,3050,respirators, 4,164
+1,6,3215,biologics, 4,176
+4,5,2927,oxygen_tanks, 3,160
+2,7,2042,diagnostics, 6,170
+1,6,1237,biologics, 6,178
+8,3,4248,vaccines, 0,164
+5,1,2961,ppe, 8,184
+8,3,869,vaccines, 2,178
+9,10,1591,ventilators, 6,154
+1,6,2626,biologics,15,160
+1,6,3954,biologics,15,168
+7,9,3019,sanitizers, 0,185
+2,7,4860,diagnostics, 2,162
+8,3,3577,vaccines,30,182
+7,9,1035,sanitizers, 6,164
+6,4,3615,respirators, 1,168
+7,9,4989,sanitizers,10,155
+9,10,3442,ventilators, 4,156
+1,6,825,biologics, 3,163
+4,5,2329,oxygen_tanks, 6,170
+9,10,1213,ventilators, 2,164
+5,1,1145,ppe,10,152
+4,5,1705,oxygen_tanks, 1,155
+4,5,180,oxygen_tanks, 3,181
+5,1,195,ppe,10,152
+1,6,1394,biologics, 4,158
+7,9,2931,sanitizers,10,167
+10,8,3743,visors, 6,187
+5,1,1475,ppe, 2,176
+1,6,4928,biologics, 5,165
+9,10,3885,ventilators,32,170
+3,2,3044,masks, 3,170
+6,4,3354,respirators,10,178
+2,7,454,diagnostics,20,173
+2,7,1431,diagnostics, 6,167
+9,10,647,ventilators, 4,152
+3,2,2486,masks, 2,162
+10,8,1426,visors, 4,170
+4,5,397,oxygen_tanks, 6,164
+7,9,541,sanitizers, 2,164
+4,5,4386,oxygen_tanks, 8,182
+6,4,3253,respirators,10,174
+8,3,2049,vaccines, 4,171
+3,2,162,masks,10,160
+7,9,1257,sanitizers, 2,180
+4,5,1717,oxygen_tanks,10,176
+9,10,2320,ventilators, 3,166
+1,6,4053,biologics, 5,168
+10,8,1722,visors, 2,168
+4,5,499,oxygen_tanks, 3,170
+6,4,4581,respirators,10,152
+5,1,626,ppe,12,158
+6,4,4925,respirators, 0,155
+1,6,1295,biologics, 2,164
+6,4,3367,respirators,30,185
+4,5,995,oxygen_tanks, 6,171
+4,5,4545,oxygen_tanks, 4,161
+8,3,2076,vaccines, 8,164
+4,5,2031,oxygen_tanks,13,164
+5,1,1529,ppe, 2,178
+10,8,4350,visors, 3,160
+4,5,731,oxygen_tanks, 2,160
+9,10,1480,ventilators, 7,169
+1,6,1610,biologics,10,160
+7,9,1518,sanitizers, 4,172
+2,7,2095,diagnostics, 2,180
+6,4,4127,respirators, 2,158
+8,3,2523,vaccines, 2,164
+2,7,4952,diagnostics, 8,170
+8,3,642,vaccines, 9,170
+4,5,3648,oxygen_tanks,10,174
+5,1,3710,ppe, 6,158
+6,4,165,respirators,10,160
+8,3,4046,vaccines,16,168
+6,4,3594,respirators, 8,169
+7,9,1479,sanitizers, 1,167
+5,1,3445,ppe, 8,160
+7,9,2564,sanitizers, 8,147
+7,9,3809,sanitizers, 0,175
+9,10,4468,ventilators, 5,158
+6,4,2677,respirators, 4,173
+9,10,289,ventilators, 5,167
+9,10,2014,ventilators, 2,168
+5,1,4711,ppe,10,172
+6,4,3789,respirators, 6,167
+4,5,450,oxygen_tanks, 5,183
+3,2,2303,masks, 6,170
+5,1,2554,ppe,11,176
+10,8,3389,visors,15,163
+7,9,1478,sanitizers, 3,175
+10,8,134,visors, 6,164
+8,3,4435,vaccines, 4,163
+7,9,4718,sanitizers,10,190
+3,2,3689,masks, 4,170
+7,9,1647,sanitizers, 3,174
+10,8,3825,visors, 3,158
+9,10,315,ventilators, 2,162
+10,8,537,visors, 3,176
+4,5,627,oxygen_tanks, 8,180
+8,3,605,vaccines,10,164
+8,3,3823,vaccines, 2,176
+6,4,4120,respirators,10,158
+8,3,1321,vaccines, 3,166
+7,9,274,sanitizers,11,164
+7,9,687,sanitizers, 6,188
+1,6,2356,biologics, 0,160
+1,6,3816,biologics, 5,165
+8,3,3105,vaccines, 5,162
+2,7,4590,diagnostics, 6,166
+5,1,3878,ppe,10,174
+6,4,907,respirators, 6,180
+3,2,2728,masks, 6,167
+1,6,891,biologics,10,160
+6,4,4038,respirators, 5,165
+2,7,1889,diagnostics, 0,164
+10,8,4319,visors,15,176
+1,6,206,biologics,15,174
+9,10,905,ventilators, 6,158
+5,1,2021,ppe, 4,166
+6,4,1919,respirators, 6,165
+10,8,855,visors,15,183
+1,6,2591,biologics, 5,150
+2,7,235,diagnostics, 3,162
+6,4,2047,respirators, 5,186
+4,5,50,oxygen_tanks, 2,170
+5,1,3482,ppe,10,170
+2,7,2740,diagnostics, 6,175
+4,5,2177,oxygen_tanks, 1,170
+4,5,4387,oxygen_tanks, 8,172
+3,2,1332,masks, 5,160
+9,10,1547,ventilators,10,182
+5,1,3749,ppe,10,168
+5,1,3495,ppe, 3,162
+2,7,1585,diagnostics,10,164
+8,3,4706,vaccines, 2,160
+6,4,3791,respirators, 4,164
+10,8,4114,visors,10,170
+8,3,1927,vaccines, 3,172
+10,8,4643,visors, 6,162
+10,8,3478,visors, 8,162
+7,9,2296,sanitizers, 1,177
+5,1,1541,ppe, 9,164
+2,7,4399,diagnostics, 0,158
+1,6,663,biologics, 4,164
+2,7,2625,diagnostics, 5,164
+2,7,1864,diagnostics, 5,170
+3,2,754,masks,10,181
+3,2,3747,masks, 3,162
+6,4,4251,respirators, 4,162
+5,1,4605,ppe, 6,164
+3,2,2632,masks, 2,176
+6,4,252,respirators,20,180
+7,9,4376,sanitizers, 6,158
+9,10,759,ventilators, 2,172
+8,3,1863,vaccines,10,156
+4,5,943,oxygen_tanks, 5,178
+6,4,1300,respirators, 2,165
+5,1,1040,ppe, 4,176
+8,3,239,vaccines,10,167
+4,5,4591,oxygen_tanks, 8,180
+8,3,189,vaccines,28,167
+6,4,4284,respirators,10,183
+4,5,1066,oxygen_tanks, 5,178
+3,2,1830,masks,10,165
+7,9,4393,sanitizers, 4,156
+8,3,2166,vaccines, 7,176
+2,7,4092,diagnostics, 0,160
+6,4,3404,respirators, 0,169
+7,9,3025,sanitizers,10,180
+4,5,2552,oxygen_tanks, 3,164
+2,7,1950,diagnostics, 5,180
+1,6,4445,biologics,10,190
+9,10,2588,ventilators, 2,160
+3,2,4101,masks,20,165
+3,2,1874,masks,25,169
+8,3,2560,vaccines,10,167
+9,10,443,ventilators, 8,160
+9,10,3361,ventilators, 3,170
+4,5,2809,oxygen_tanks, 2,164
+6,4,2242,respirators,10,179
+7,9,3412,sanitizers,10,155
+1,6,1059,biologics,10,165
+2,7,4670,diagnostics,10,160
+1,6,4348,biologics, 7,154
+2,7,1204,diagnostics, 5,160
+5,1,3047,ppe, 0,170
+6,4,1001,respirators, 5,180
+7,9,948,sanitizers, 4,158
+9,10,4256,ventilators, 8,178
+8,3,368,vaccines, 6,160
+1,6,3654,biologics,20,170
+8,3,3315,vaccines,17,167
+1,6,4946,biologics,15,172
+10,8,1736,visors, 3,167
+6,4,1443,respirators,10,168
+9,10,508,ventilators, 6,158
+9,10,1466,ventilators, 4,164
+10,8,3572,visors,15,162
+3,2,4935,masks, 5,152
+10,8,2631,visors,15,175
+5,1,1244,ppe, 1,158
+1,6,423,biologics,30,164
+9,10,1688,ventilators,10,166
+8,3,89,vaccines,10,170
+4,5,178,oxygen_tanks, 5,160
+1,6,2686,biologics, 3,164
+10,8,1650,visors, 4,170
+3,2,1155,masks, 5,165
+3,2,1160,masks, 8,167
+10,8,2060,visors, 2,183
+1,6,3376,biologics, 2,162
+7,9,2001,sanitizers, 5,170
+3,2,2182,masks, 3,167
+9,10,1815,ventilators, 2,164
+3,2,1325,masks,10,180
+3,2,1142,masks,10,176
+8,3,4230,vaccines, 6,152
+7,9,4906,sanitizers,20,154
+5,1,1856,ppe, 0,165
+2,7,2541,diagnostics, 2,164
+5,1,3357,ppe, 5,169
+2,7,4561,diagnostics, 4,164
+6,4,1903,respirators, 3,180
+5,1,1732,ppe, 7,170
+8,3,2988,vaccines, 5,185
+4,5,3101,oxygen_tanks, 2,172
+4,5,4089,oxygen_tanks, 0,158
+4,5,4947,oxygen_tanks,20,170
+8,3,1104,vaccines,10,156
+6,4,3045,respirators, 0,163
+3,2,3099,masks, 0,170
+4,5,2073,oxygen_tanks,10,172
+5,1,182,ppe, 8,160
+3,2,2559,masks, 5,168
+7,9,3814,sanitizers,10,170
+9,10,4203,ventilators, 8,154
+1,6,1442,biologics, 5,164
+6,4,2886,respirators,20,163
+2,7,1343,diagnostics, 7,171
+6,4,544,respirators, 4,160
+7,9,444,sanitizers, 2,164
+1,6,2053,biologics, 0,158
+2,7,1403,diagnostics,10,170
+8,3,679,vaccines,10,170
+2,7,2608,diagnostics, 5,164
+3,2,138,masks,20,165
+4,5,4868,oxygen_tanks, 5,180
+10,8,2040,visors, 3,160
+3,2,3697,masks, 8,176
+7,9,2289,sanitizers,10,165
+8,3,4289,vaccines, 5,168
+4,5,1207,oxygen_tanks, 2,176
+10,8,1600,visors, 4,165
+5,1,2398,ppe, 3,168
+1,6,706,biologics, 2,155
+10,8,1841,visors, 2,160
+8,3,1127,vaccines, 0,152
+1,6,4707,biologics, 8,176
+6,4,2482,respirators,10,170
+10,8,4033,visors,12,180
+6,4,1095,respirators, 2,174
+6,4,2511,respirators, 6,180
+9,10,1205,ventilators, 3,160
+3,2,1004,masks,16,192
+10,8,1535,visors,25,173
+9,10,4175,ventilators, 4,187
+10,8,38,visors,14,165
+6,4,172,respirators, 4,188
+6,4,1280,respirators, 5,158
+10,8,1235,visors, 6,154
+10,8,1621,visors, 5,156
+10,8,2815,visors,10,170
+1,6,3397,biologics,18,183
+2,7,1376,diagnostics, 2,180
+9,10,3010,ventilators, 3,158
+9,10,1811,ventilators,20,170
+8,3,2256,vaccines,10,168
+1,6,3798,biologics, 7,156
+1,6,1286,biologics,10,160
+10,8,4342,visors, 3,164
+8,3,2463,vaccines, 6,182
+8,3,4245,vaccines, 2,188
+9,10,119,ventilators, 7,163
+1,6,773,biologics, 3,177
+4,5,4136,oxygen_tanks, 9,159
+10,8,3860,visors,10,180
+7,9,3913,sanitizers,10,154
+9,10,2617,ventilators,15,165
+1,6,389,biologics, 2,162
+5,1,3349,ppe, 8,168
+5,1,493,ppe, 5,167
+10,8,3226,visors, 3,164
+1,6,1762,biologics, 6,167
+2,7,2036,diagnostics, 0,165
+6,4,4317,respirators, 2,165
+5,1,1764,ppe, 2,187
+1,6,2246,biologics, 8,175
+7,9,4185,sanitizers,30,182
+10,8,4883,visors, 2,150
+10,8,158,visors,25,170
+5,1,3920,ppe, 8,176
+5,1,1119,ppe, 8,155
+10,8,4671,visors,20,165
+8,3,81,vaccines, 4,168
+5,1,856,ppe,10,164
+4,5,4920,oxygen_tanks, 7,164
+6,4,628,respirators, 4,182
+9,10,273,ventilators,12,170
+1,6,2366,biologics, 2,155
+1,6,3925,biologics, 8,162
+1,6,1714,biologics, 2,177
+1,6,1906,biologics,10,167
+9,10,2945,ventilators, 5,170
+10,8,904,visors, 0,170
+1,6,3166,biologics, 0,167
+4,5,3157,oxygen_tanks, 2,160
+9,10,240,ventilators, 6,174
+10,8,550,visors, 3,152
+2,7,2333,diagnostics,10,160
+1,6,1007,biologics, 8,170
+10,8,2234,visors,10,170
+10,8,283,visors,15,165
+2,7,375,diagnostics, 3,176
+7,9,3391,sanitizers, 4,155
+6,4,3778,respirators, 5,165
+3,2,2197,masks, 3,181
+1,6,1795,biologics, 7,167
+4,5,565,oxygen_tanks, 2,162
+5,1,2094,ppe, 2,169
+9,10,2536,ventilators, 0,176
+2,7,536,diagnostics,33,164
+8,3,2173,vaccines,10,168
+7,9,915,sanitizers, 1,176
+2,7,2980,diagnostics, 5,165
+4,5,324,oxygen_tanks,10,175
+1,6,3154,biologics, 2,170
+5,1,3794,ppe, 0,155
+4,5,2527,oxygen_tanks, 0,164
+7,9,1416,sanitizers,10,157
+9,10,2227,ventilators, 5,166
+9,10,3872,ventilators, 2,165
+3,2,4877,masks,10,164
+3,2,2004,masks,25,178
+5,1,1375,ppe, 3,150
+3,2,72,masks, 2,155
+4,5,1125,oxygen_tanks, 2,165
+9,10,3955,ventilators,10,168
+5,1,173,ppe,10,170
+3,2,3589,masks, 2,175
+3,2,1352,masks, 6,182
+3,2,2998,masks,10,162
+7,9,867,sanitizers,10,154
+9,10,3812,ventilators,10,176
+7,9,1782,sanitizers,20,176
+10,8,1453,visors, 8,169
+10,8,1223,visors, 2,180
+9,10,2056,ventilators, 5,169
+3,2,2722,masks,20,183
+2,7,596,diagnostics, 2,164
+4,5,2347,oxygen_tanks, 4,164
+6,4,574,respirators, 6,170
+8,3,1868,vaccines, 5,176
+8,3,1455,vaccines, 5,158
+1,6,1184,biologics, 6,160
+7,9,2000,sanitizers, 8,164
+7,9,4389,sanitizers,10,176
+3,2,4653,masks, 4,157
+5,1,1787,ppe, 4,169
+10,8,1353,visors, 5,168
+3,2,4164,masks,12,169
+3,2,4137,masks,15,176
+4,5,2606,oxygen_tanks, 2,168
+3,2,4823,masks, 0,164
+7,9,1583,sanitizers,15,174
+8,3,2804,vaccines, 2,172
+7,9,1852,sanitizers,10,164
+1,6,3699,biologics,20,154
+9,10,1523,ventilators, 2,160
+9,10,145,ventilators, 2,155
+5,1,584,ppe, 2,160
+7,9,3995,sanitizers, 6,176
+4,5,3313,oxygen_tanks, 6,182
+9,10,26,ventilators,10,162
+1,6,3375,biologics, 0,182
+2,7,3720,diagnostics, 4,185
+9,10,774,ventilators, 8,158
+3,2,2121,masks, 5,170
+4,5,99,oxygen_tanks, 5,170
+8,3,1988,vaccines, 3,185
+8,3,2673,vaccines, 5,168
+2,7,4622,diagnostics,10,160
+10,8,2648,visors,20,156
+1,6,192,biologics,12,170
+10,8,2822,visors,20,176
+1,6,2716,biologics, 2,156
+2,7,1210,diagnostics,10,165
+4,5,1917,oxygen_tanks, 5,164
+9,10,1713,ventilators, 2,182
+4,5,4077,oxygen_tanks,10,168
+4,5,633,oxygen_tanks, 2,184
+1,6,4161,biologics,10,156
+10,8,3742,visors, 2,156
+8,3,4052,vaccines,15,184
+7,9,3638,sanitizers,10,176
+8,3,3134,vaccines, 0,170
+3,2,4189,masks,10,182
+2,7,2370,diagnostics,20,165
+6,4,1401,respirators,10,175
+1,6,1018,biologics, 5,170
+7,9,236,sanitizers, 4,156
+10,8,938,visors,10,173
+5,1,2442,ppe, 1,180
+8,3,1781,vaccines, 7,178
+3,2,1925,masks,15,186
+8,3,3041,vaccines, 4,161
+8,3,2185,vaccines, 3,152
+10,8,635,visors, 2,180
+5,1,2733,ppe, 6,182
+5,1,3727,ppe, 2,180
+4,5,3280,oxygen_tanks,10,168
+8,3,2424,vaccines,10,192
+9,10,2967,ventilators, 8,186
+6,4,1680,respirators,10,118
+5,1,2480,ppe, 4,180
+2,7,4524,diagnostics, 2,160
+7,9,1306,sanitizers, 2,178
+3,2,4604,masks,20,160
+8,3,4862,vaccines, 6,160
+10,8,1318,visors, 5,165
+8,3,801,vaccines, 2,178
+5,1,2080,ppe,10,178
+1,6,3783,biologics, 0,167
+8,3,4172,vaccines, 2,164
+4,5,901,oxygen_tanks,10,159
+4,5,2685,oxygen_tanks, 5,165
+6,4,3667,respirators, 8,168
+3,2,2389,masks, 2,156
+7,9,1310,sanitizers, 6,168
+3,2,2484,masks, 2,160
+7,9,2576,sanitizers,10,168
+10,8,1218,visors,10,160
+7,9,1107,sanitizers, 4,178
+6,4,1977,respirators, 3,160
+4,5,3094,oxygen_tanks,12,172
+4,5,649,oxygen_tanks, 8,157
+6,4,2188,respirators, 3,185
+4,5,1965,oxygen_tanks, 1,166
+4,5,3919,oxygen_tanks, 6,167
+5,1,1380,ppe, 1,154
+3,2,1249,masks,10,160
+7,9,3139,sanitizers,10,176
+4,5,2176,oxygen_tanks, 7,187
+4,5,3658,oxygen_tanks,10,158
+9,10,4295,ventilators, 5,175
+4,5,3299,oxygen_tanks, 0,163
+2,7,429,diagnostics, 5,165
+6,4,1362,respirators, 4,158
+6,4,3910,respirators, 5,172
+2,7,1949,diagnostics,20,176
+1,6,94,biologics,12,172
+1,6,1457,biologics,20,192
+4,5,4657,oxygen_tanks, 2,150
+7,9,2261,sanitizers, 5,167
+9,10,1664,ventilators, 8,164
+5,1,4451,ppe, 2,164
+9,10,957,ventilators, 4,166
+6,4,4316,respirators,15,172
+10,8,2492,visors, 1,162
+6,4,1209,respirators,20,165
+2,7,2384,diagnostics,10,165
+7,9,1527,sanitizers, 8,175
+2,7,384,diagnostics,99,166
+5,1,2235,ppe,10,179
+5,1,4780,ppe,30,170
+7,9,1723,sanitizers, 2,168
+2,7,2533,diagnostics,20,168
+3,2,2251,masks, 6,180
+3,2,3239,masks, 5,164
+7,9,736,sanitizers,10,165
+8,3,2149,vaccines,10,158
+5,1,4238,ppe, 2,166
+2,7,3323,diagnostics,30,170
+2,7,2460,diagnostics, 6,176
+7,9,689,sanitizers, 3,170
+2,7,1998,diagnostics,10,180
+10,8,1812,visors, 2,162
+2,7,3304,diagnostics, 3,180
+8,3,650,vaccines,10,165
+7,9,1186,sanitizers,20,170
+3,2,1697,masks,10,170
+10,8,4252,visors, 2,176
+8,3,1802,vaccines,10,164
+7,9,2941,sanitizers, 5,158
+10,8,2985,visors,20,158
+1,6,2483,biologics,15,180
+8,3,4574,vaccines, 5,168
+10,8,1694,visors, 1,165
+7,9,2348,sanitizers, 3,158
+3,2,1847,masks, 8,180
+2,7,3475,diagnostics,10,183
+1,6,1718,biologics,10,168
+4,5,1138,oxygen_tanks, 5,180
+10,8,4894,visors, 7,157
+8,3,3545,vaccines,10,176
+7,9,4480,sanitizers,12,164
+6,4,674,respirators, 5,186
+5,1,2136,ppe, 6,165
+4,5,255,oxygen_tanks, 2,175
+1,6,4496,biologics, 5,182
+5,1,313,ppe, 6,164
+6,4,3832,respirators, 7,172
+7,9,4163,sanitizers,20,182
+10,8,3080,visors, 5,176
+8,3,2208,vaccines, 5,170
+8,3,4154,vaccines,25,178
+2,7,4,diagnostics, 6,164
+8,3,3567,vaccines, 0,165
+7,9,1437,sanitizers,12,169
+2,7,4891,diagnostics, 5,170
+9,10,4116,ventilators, 0,162
+9,10,4536,ventilators,10,165
+6,4,3850,respirators, 4,188
+8,3,4763,vaccines, 4,170
+8,3,3678,vaccines,10,160
+6,4,2897,respirators, 5,176
+9,10,3914,ventilators, 5,173
+2,7,4589,diagnostics, 7,158
+1,6,3756,biologics, 1,173
+6,4,338,respirators,24,172
+8,3,4736,vaccines,10,170
+6,4,2123,respirators, 5,169
+9,10,4662,ventilators, 2,159
+7,9,2411,sanitizers,20,179
+5,1,516,ppe, 6,168
+1,6,4312,biologics, 5,158
+7,9,1885,sanitizers,10,175
+9,10,4017,ventilators, 5,173
+10,8,2794,visors, 5,156
+8,3,468,vaccines, 6,163
+2,7,322,diagnostics, 3,162
+3,2,1149,masks,10,170
+10,8,4656,visors, 4,164
+9,10,1423,ventilators, 6,188
+7,9,2196,sanitizers, 5,186
+7,9,2849,sanitizers,20,172
+3,2,688,masks, 7,170
+10,8,100,visors,10,158
+4,5,3104,oxygen_tanks,10,182
+5,1,110,ppe, 7,168
+2,7,705,diagnostics, 2,185
+4,5,1346,oxygen_tanks, 2,168
+4,5,4190,oxygen_tanks, 2,155
+6,4,458,respirators, 2,170
+4,5,936,oxygen_tanks,10,180
+5,1,3427,ppe, 2,176
+1,6,3911,biologics, 5,189
+9,10,4412,ventilators,10,176
+10,8,4583,visors, 6,167
+9,10,1907,ventilators, 4,160
+10,8,1482,visors,10,170
+3,2,4961,masks, 4,190
+1,6,1463,biologics,10,165
+5,1,4828,ppe,15,176
+7,9,4730,sanitizers,10,160
+10,8,3222,visors, 5,152
+8,3,874,vaccines, 5,184
+1,6,1055,biologics, 4,167
+1,6,1451,biologics,10,170
+5,1,2876,ppe, 4,158
+10,8,4378,visors, 4,164
+3,2,1099,masks,12,164
+3,2,1228,masks, 3,166
+5,1,1896,ppe,10,167
+3,2,646,masks, 2,175
+1,6,2577,biologics, 0,171
+6,4,969,respirators, 3,176
+3,2,1245,masks, 2,160
+8,3,333,vaccines, 3,180
+5,1,108,ppe, 0,176
+8,3,4627,vaccines, 4,158
+6,4,39,respirators, 6,177
+1,6,3499,biologics, 6,178
+6,4,3849,respirators, 5,170
+4,5,1800,oxygen_tanks, 4,166
+5,1,2016,ppe,20,164
+7,9,2163,sanitizers,15,178
+10,8,4479,visors, 2,158
+4,5,2399,oxygen_tanks, 3,155
+1,6,2064,biologics,20,175
+6,4,2825,respirators, 4,160
+6,4,2615,respirators,10,178
+6,4,503,respirators, 6,170
+9,10,223,ventilators, 5,158
+7,9,2283,sanitizers, 2,173
+6,4,2132,respirators, 3,160
+7,9,1687,sanitizers,10,158
+2,7,4760,diagnostics, 1,154
+5,1,1136,ppe, 3,175
+9,10,1740,ventilators, 3,150
+8,3,3511,vaccines, 4,170
+6,4,372,respirators, 3,158
+5,1,4241,ppe, 5,178
+5,1,2939,ppe, 4,164
+10,8,1316,visors, 1,182
+6,4,1157,respirators, 5,165
+5,1,1528,ppe,20,184
+6,4,2894,respirators, 3,169
+6,4,4529,respirators, 1,176
+10,8,2238,visors, 8,170
+6,4,1028,respirators, 6,170
+10,8,3151,visors, 1,167
+10,8,3559,visors,10,180
+6,4,147,respirators,15,180
+8,3,3289,vaccines, 3,170
+9,10,1060,ventilators,20,178
+4,5,3296,oxygen_tanks, 2,155
+7,9,4516,sanitizers, 6,182
+7,9,952,sanitizers, 1,180
+1,6,2151,biologics,20,175
+4,5,807,oxygen_tanks, 9,170
+6,4,799,respirators, 1,164
+10,8,2140,visors, 8,170
+3,2,878,masks, 0,158
+2,7,4100,diagnostics, 5,168
+10,8,3528,visors,10,179
+8,3,4195,vaccines, 0,166
+9,10,1239,ventilators, 8,150
+2,7,4641,diagnostics, 6,170
+10,8,2422,visors, 3,164
+6,4,44,respirators, 0,160
+5,1,2082,ppe,10,165
+2,7,535,diagnostics, 3,165
+4,5,1954,oxygen_tanks, 3,189
+7,9,3766,sanitizers, 6,182
+7,9,746,sanitizers,10,176
+4,5,4603,oxygen_tanks,15,175
+10,8,3586,visors,20,165
+8,3,4703,vaccines, 6,178
+7,9,404,sanitizers, 4,170
+7,9,2388,sanitizers,10,174
+2,7,1281,diagnostics, 8,175
+10,8,3130,visors, 5,148
+9,10,1918,ventilators, 6,170
+6,4,4979,respirators, 6,156
+6,4,1019,respirators, 4,182
+10,8,4863,visors, 8,155
+10,8,1165,visors, 2,165
+2,7,4787,diagnostics, 2,177
+5,1,4535,ppe, 4,178
+1,6,2774,biologics, 1,170
+7,9,518,sanitizers, 1,170
+4,5,2800,oxygen_tanks, 6,184
+1,6,2212,biologics, 0,150
+10,8,966,visors,20,167
+10,8,3751,visors,10,159
+7,9,2575,sanitizers, 0,169
+6,4,788,respirators, 4,176
+10,8,2146,visors, 2,176
+6,4,28,respirators,20,160
+1,6,1574,biologics, 1,176
+5,1,4988,ppe,12,170
+2,7,4587,diagnostics,10,180
+8,3,3685,vaccines, 5,182
+6,4,251,respirators, 2,163
+4,5,232,oxygen_tanks, 6,180
+4,5,2222,oxygen_tanks, 2,160
+9,10,1116,ventilators, 2,175
+6,4,4980,respirators, 4,156
+7,9,3421,sanitizers, 5,164
+8,3,2842,vaccines,10,162
+1,6,1777,biologics, 2,156
+3,2,4843,masks, 5,170
+8,3,3316,vaccines,15,156
+9,10,927,ventilators, 3,169
+6,4,311,respirators, 1,176
+3,2,2855,masks, 5,170
+7,9,225,sanitizers, 5,168
+7,9,2470,sanitizers, 2,180
+2,7,259,diagnostics, 4,180
+1,6,2363,biologics, 4,184
+6,4,959,respirators,10,170
+6,4,2542,respirators, 5,160
+6,4,4335,respirators,20,186
+9,10,2332,ventilators, 2,179
+4,5,894,oxygen_tanks, 5,178
+3,2,4565,masks, 1,167
+10,8,1292,visors,10,160
+9,10,1432,ventilators, 0,170
+7,9,3189,sanitizers,15,168
+8,3,2890,vaccines, 5,181
+3,2,680,masks, 0,176
+1,6,2992,biologics, 5,160
+4,5,1577,oxygen_tanks, 2,170
+9,10,295,ventilators, 4,156
+4,5,43,oxygen_tanks, 2,183
+2,7,3300,diagnostics,20,173
+6,4,2835,respirators, 3,155
+3,2,4417,masks,20,165
+9,10,1555,ventilators, 1,182
+4,5,3670,oxygen_tanks,10,155
+3,2,3840,masks, 2,178
+6,4,4955,respirators, 3,176
+6,4,379,respirators, 4,182
+7,9,739,sanitizers, 2,165
+2,7,2204,diagnostics, 1,172
+8,3,3402,vaccines, 8,158
+5,1,3097,ppe, 2,164
+4,5,3625,oxygen_tanks,25,164
+6,4,3665,respirators, 0,178
+4,5,1685,oxygen_tanks, 4,150
+5,1,607,ppe, 2,164
+4,5,4616,oxygen_tanks,10,185
+5,1,1388,ppe, 5,176
+5,1,114,ppe, 1,160
+8,3,836,vaccines, 4,164
+8,3,4084,vaccines, 3,170
+4,5,1554,oxygen_tanks, 2,164
+3,2,4846,masks, 7,178
+1,6,1870,biologics,10,160
+5,1,3334,ppe, 3,174
+7,9,3760,sanitizers,10,156
+10,8,2007,visors,10,160
+8,3,2851,vaccines, 3,184
+9,10,701,ventilators, 7,164
+2,7,4061,diagnostics, 4,178
+3,2,2203,masks,10,170
+4,5,2882,oxygen_tanks,36,170
+3,2,859,masks, 6,170
+5,1,2099,ppe,30,178
+6,4,1320,respirators,10,164
+7,9,4146,sanitizers, 8,147
+5,1,4530,ppe, 9,169
+7,9,4078,sanitizers, 4,170
+3,2,4073,masks, 2,170
+8,3,342,vaccines,10,172
+6,4,502,respirators, 6,160
+3,2,1721,masks,10,180
+8,3,1786,vaccines, 6,171
+2,7,3379,diagnostics, 5,160
+10,8,4204,visors, 2,176
+7,9,979,sanitizers, 3,187
+6,4,2101,respirators, 1,170
+5,1,2976,ppe, 5,160
+4,5,61,oxygen_tanks, 5,158
+4,5,4045,oxygen_tanks, 8,184
+1,6,4372,biologics,10,177
+5,1,1914,ppe,10,184
+7,9,2878,sanitizers, 0,178
+4,5,3897,oxygen_tanks, 3,175
+6,4,314,respirators, 6,170
+1,6,4157,biologics, 4,176
+6,4,1051,respirators,10,168
+7,9,4710,sanitizers, 2,161
+10,8,245,visors, 4,176
+4,5,133,oxygen_tanks, 6,168
+9,10,1383,ventilators, 6,168
+8,3,694,vaccines,10,158
+9,10,3822,ventilators, 6,180
+3,2,3536,masks,10,168
+5,1,4650,ppe, 3,171
+4,5,4651,oxygen_tanks,10,158
+7,9,2293,sanitizers,20,158
+2,7,48,diagnostics, 4,164
+9,10,1458,ventilators, 7,162
+2,7,3356,diagnostics, 0,169
+1,6,3416,biologics,20,166
+1,6,563,biologics, 0,180
+9,10,3378,ventilators, 5,157
+9,10,2417,ventilators,10,182
+2,7,3182,diagnostics,20,160
+3,2,1171,masks,15,156
+5,1,4344,ppe,10,163
+7,9,1049,sanitizers, 7,168
+9,10,445,ventilators, 6,165
+8,3,4124,vaccines,15,173
+7,9,4428,sanitizers, 4,175
+5,1,2230,ppe, 9,163
+8,3,3267,vaccines,20,165
+4,5,301,oxygen_tanks,10,164
+7,9,3020,sanitizers, 4,164
+8,3,4210,vaccines,10,188
+1,6,1946,biologics,10,156
+5,1,1838,ppe,15,175
+10,8,3706,visors, 3,176
+7,9,512,sanitizers, 4,160
+1,6,2840,biologics,12,165
+4,5,2027,oxygen_tanks, 2,170
+8,3,4434,vaccines, 5,160
+2,7,4199,diagnostics, 5,180
+6,4,4227,respirators, 6,180
+5,1,1057,ppe, 3,172
+7,9,2157,sanitizers, 3,156
+2,7,558,diagnostics, 0,159
+9,10,661,ventilators, 3,164
+3,2,4820,masks, 0,176
+1,6,4066,biologics,10,175
+7,9,3997,sanitizers, 3,153
+8,3,4759,vaccines, 5,170
+9,10,955,ventilators,10,160
+2,7,1378,diagnostics, 4,150
+10,8,4294,visors, 3,166
+7,9,4462,sanitizers,10,165
+1,6,2120,biologics, 7,158
+4,5,3305,oxygen_tanks, 0,170
+6,4,10,respirators,10,164
+5,1,4356,ppe, 5,182
+7,9,810,sanitizers, 8,185
+3,2,1929,masks, 5,168
+8,3,899,vaccines, 1,175
+9,10,1636,ventilators, 8,160
+4,5,1199,oxygen_tanks,10,176
+3,2,1062,masks, 1,175
+10,8,3653,visors, 2,167
+8,3,1778,vaccines,10,160
+8,3,1783,vaccines, 3,168
+8,3,2302,vaccines, 0,179
+3,2,1045,masks, 3,176
+3,2,4808,masks, 5,170
+9,10,1922,ventilators,10,192
+2,7,321,diagnostics, 8,162
+4,5,3310,oxygen_tanks, 5,170
+2,7,1836,diagnostics, 4,158
+5,1,3114,ppe, 4,163
+8,3,3695,vaccines, 6,165
+1,6,3400,biologics,40,185
+3,2,2428,masks, 4,164
+2,7,2947,diagnostics, 3,169
+10,8,1208,visors, 6,160
+4,5,2636,oxygen_tanks, 3,168
+9,10,2501,ventilators, 6,164
+8,3,1147,vaccines, 1,191
+9,10,3424,ventilators, 9,168
+3,2,4322,masks, 2,171
+6,4,987,respirators, 6,173
+5,1,2656,ppe, 3,172
+3,2,2195,masks, 1,170
+2,7,3984,diagnostics,20,155
+5,1,1361,ppe, 4,160
+9,10,2895,ventilators,12,183
+4,5,2871,oxygen_tanks,12,176
+9,10,266,ventilators, 1,165
+5,1,787,ppe, 8,165
+5,1,2755,ppe,10,170
+2,7,2401,diagnostics, 6,164
+9,10,3582,ventilators, 4,155
+6,4,148,respirators,10,172
+7,9,2313,sanitizers, 5,170
+10,8,2124,visors, 3,174
+1,6,27,biologics, 0,154
+6,4,3629,respirators,15,165
+9,10,1050,ventilators,10,173
+3,2,1080,masks,10,158
+7,9,928,sanitizers, 3,176
+4,5,4577,oxygen_tanks, 1,160
+6,4,4075,respirators, 4,186
+4,5,2112,oxygen_tanks,10,168
+6,4,2315,respirators, 0,160
+6,4,2880,respirators, 6,156
+3,2,3380,masks, 5,155
+7,9,3639,sanitizers, 4,175
+6,4,1309,respirators, 2,182
+1,6,4625,biologics, 2,178
+5,1,1270,ppe,10,175
+7,9,1317,sanitizers, 4,160
+3,2,3322,masks, 5,166
+1,6,1926,biologics, 6,174
+5,1,1243,ppe, 1,170
+8,3,2727,vaccines, 2,158
+4,5,1516,oxygen_tanks,11,152
+10,8,2065,visors, 0,170
+3,2,597,masks,10,170
+4,5,3802,oxygen_tanks, 0,160
+10,8,2041,visors, 3,170
+6,4,4765,respirators,15,145
+7,9,2562,sanitizers, 1,158
+10,8,695,visors, 5,158
+3,2,1674,masks, 5,172
+8,3,945,vaccines, 6,174
+9,10,2930,ventilators, 5,172
+6,4,1298,respirators,10,155
+3,2,481,masks, 5,153
+4,5,1958,oxygen_tanks, 2,160
+7,9,449,sanitizers, 6,170
+1,6,1905,biologics, 7,175
+7,9,2823,sanitizers,10,187
+6,4,1414,respirators,15,170
+4,5,312,oxygen_tanks, 6,176
+2,7,4129,diagnostics, 5,182
+1,6,2288,biologics, 2,170
+5,1,241,ppe, 0,165
+8,3,4724,vaccines, 1,186
+2,7,3912,diagnostics,10,160
+1,6,985,biologics, 3,167
+8,3,4599,vaccines, 3,194
+1,6,1975,biologics, 6,175
+6,4,1427,respirators,20,160
+1,6,1501,biologics, 1,170
+9,10,531,ventilators, 5,160
