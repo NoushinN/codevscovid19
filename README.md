@@ -10,7 +10,7 @@ The `simulation.R` script, in turn, synthesizes a hypothetical supply and demand
 #### Minimum viable product(s)
 
 The [app](https://nnabavi.shinyapps.io/codevscovid19_supply_demand/) is a simulation of an inventory management system to forecast future (next month's) unit demands and to calculate safety stocks and reorder points.  
-Our team's final software product, connecting solidarity `co-sol` can be found [here](https://devpost.com/software/co-sol) and the video describing it [here](https://www.youtube.com/watch?v=92HGSBuMCHs).
+Our team's final software product, connecting solidarity `co-sol` can be found [here](https://devpost.com/software/co-sol) and the video describing it [here](https://www.youtube.com/watch?v=92HGSBuMCHs) and [here](https://www.youtube.com/watch?v=tM-bLm9sAis).
 
 #### Future work
 Additional improvements to this project can be made by adding regions and geographies to the simulated data and additional machine learning algorithms (e.g. TF) to determine priority of incoming demands and score them to make recommendations. 
