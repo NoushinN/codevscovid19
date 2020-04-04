@@ -20,4 +20,4 @@ Please make a pull request or file an issue in this repo for suggestions and/or 
 
 #### Acknowledgements
 Thank you to the talented and inspiring team members who participated in the CodevsCovid19 Zürich Hackathon (Supply and Demand Team).  
-Team members: Runzhi Yang, Emilien Davaud, Bettsina Walkinson, Dorothee Brumann, Judith Vornberger, Adriatik Dushica, Tim Fuhrmann, Nikhil Mahendran, and Michael Lew.  
+__Team members__: Runzhi Yang, Emilien Davaud, Bettsina Walkinson, Dorothee Brumann, Judith Vornberger, Adriatik Dushica, Tim Fuhrmann, Nikhil Mahendran, and Michael Lew.  
